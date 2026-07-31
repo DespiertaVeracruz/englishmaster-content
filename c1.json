@@ -1,0 +1,597 @@
+[
+  {
+    "english": "paradigm",
+    "spanish": "paradigma",
+    "exampleEnglish": "This discovery created a new paradigm in science.",
+    "exampleSpanish": "Este descubrimiento creó un nuevo paradigma en la ciencia.",
+    "level": "C1"
+  },
+  {
+    "english": "dichotomy",
+    "spanish": "dicotomía",
+    "exampleEnglish": "There's a dichotomy between theory and practice.",
+    "exampleSpanish": "Hay una dicotomía entre teoría y práctica.",
+    "level": "C1"
+  },
+  {
+    "english": "nuance",
+    "spanish": "matiz",
+    "exampleEnglish": "There's a subtle nuance in his argument.",
+    "exampleSpanish": "Hay un matiz sutil en su argumento.",
+    "level": "C1"
+  },
+  {
+    "english": "connotation",
+    "spanish": "connotación",
+    "exampleEnglish": "That word has a negative connotation.",
+    "exampleSpanish": "Esa palabra tiene una connotación negativa.",
+    "level": "C1"
+  },
+  {
+    "english": "ambiguity",
+    "spanish": "ambigüedad",
+    "exampleEnglish": "The contract was full of ambiguity.",
+    "exampleSpanish": "El contrato estaba lleno de ambigüedad.",
+    "level": "C1"
+  },
+  {
+    "english": "premise",
+    "spanish": "premisa",
+    "exampleEnglish": "The argument is based on a false premise.",
+    "exampleSpanish": "El argumento se basa en una premisa falsa.",
+    "level": "C1"
+  },
+  {
+    "english": "rationale",
+    "spanish": "razonamiento / justificación",
+    "exampleEnglish": "What is the rationale behind this decision?",
+    "exampleSpanish": "¿Cuál es el razonamiento detrás de esta decisión?",
+    "level": "C1"
+  },
+  {
+    "english": "discrepancy",
+    "spanish": "discrepancia",
+    "exampleEnglish": "There is a discrepancy in the numbers.",
+    "exampleSpanish": "Hay una discrepancia en los números.",
+    "level": "C1"
+  },
+  {
+    "english": "anomaly",
+    "spanish": "anomalía",
+    "exampleEnglish": "The data revealed an unusual anomaly.",
+    "exampleSpanish": "Los datos revelaron una anomalía inusual.",
+    "level": "C1"
+  },
+  {
+    "english": "correlation",
+    "spanish": "correlación",
+    "exampleEnglish": "There's a strong correlation between the two factors.",
+    "exampleSpanish": "Hay una fuerte correlación entre los dos factores.",
+    "level": "C1"
+  },
+  {
+    "english": "causation",
+    "spanish": "causalidad",
+    "exampleEnglish": "Correlation doesn't always imply causation.",
+    "exampleSpanish": "La correlación no siempre implica causalidad.",
+    "level": "C1"
+  },
+  {
+    "english": "empirical",
+    "spanish": "empírico",
+    "exampleEnglish": "The theory is based on empirical evidence.",
+    "exampleSpanish": "La teoría se basa en evidencia empírica.",
+    "level": "C1"
+  },
+  {
+    "english": "theoretical",
+    "spanish": "teórico",
+    "exampleEnglish": "This is more of a theoretical concept.",
+    "exampleSpanish": "Esto es más un concepto teórico.",
+    "level": "C1"
+  },
+  {
+    "english": "methodology",
+    "spanish": "metodología",
+    "exampleEnglish": "The study used a rigorous methodology.",
+    "exampleSpanish": "El estudio usó una metodología rigurosa.",
+    "level": "C1"
+  },
+  {
+    "english": "framework",
+    "spanish": "marco (conceptual)",
+    "exampleEnglish": "This framework helps us analyze the problem.",
+    "exampleSpanish": "Este marco nos ayuda a analizar el problema.",
+    "level": "C1"
+  },
+  {
+    "english": "synthesis",
+    "spanish": "síntesis",
+    "exampleEnglish": "The report is a synthesis of many studies.",
+    "exampleSpanish": "El reporte es una síntesis de muchos estudios.",
+    "level": "C1"
+  },
+  {
+    "english": "juxtapose",
+    "spanish": "yuxtaponer",
+    "exampleEnglish": "The film juxtaposes wealth and poverty.",
+    "exampleSpanish": "La película yuxtapone riqueza y pobreza.",
+    "level": "C1"
+  },
+  {
+    "english": "substantiate",
+    "spanish": "fundamentar / respaldar",
+    "exampleEnglish": "You need to substantiate your claims.",
+    "exampleSpanish": "Necesitas fundamentar tus afirmaciones.",
+    "level": "C1"
+  },
+  {
+    "english": "corroborate",
+    "spanish": "corroborar",
+    "exampleEnglish": "The witness corroborated her story.",
+    "exampleSpanish": "El testigo corroboró su historia.",
+    "level": "C1"
+  },
+  {
+    "english": "refute",
+    "spanish": "refutar",
+    "exampleEnglish": "The scientist refuted the old theory.",
+    "exampleSpanish": "El científico refutó la vieja teoría.",
+    "level": "C1"
+  },
+  {
+    "english": "discern",
+    "spanish": "discernir",
+    "exampleEnglish": "It's hard to discern truth from rumor.",
+    "exampleSpanish": "Es difícil discernir la verdad del rumor.",
+    "level": "C1"
+  },
+  {
+    "english": "scrutiny",
+    "spanish": "escrutinio",
+    "exampleEnglish": "The proposal is under close scrutiny.",
+    "exampleSpanish": "La propuesta está bajo escrutinio cercano.",
+    "level": "C1"
+  },
+  {
+    "english": "underpin",
+    "spanish": "sustentar",
+    "exampleEnglish": "These values underpin our company culture.",
+    "exampleSpanish": "Estos valores sustentan la cultura de nuestra empresa.",
+    "level": "C1"
+  },
+  {
+    "english": "entail",
+    "spanish": "implicar / conllevar",
+    "exampleEnglish": "The job entails a lot of travel.",
+    "exampleSpanish": "El trabajo implica mucho viaje.",
+    "level": "C1"
+  },
+  {
+    "english": "constitute",
+    "spanish": "constituir",
+    "exampleEnglish": "This behavior constitutes a violation.",
+    "exampleSpanish": "Este comportamiento constituye una violación.",
+    "level": "C1"
+  },
+  {
+    "english": "prevail",
+    "spanish": "prevalecer",
+    "exampleEnglish": "Common sense eventually prevailed.",
+    "exampleSpanish": "El sentido común finalmente prevaleció.",
+    "level": "C1"
+  },
+  {
+    "english": "permeate",
+    "spanish": "impregnar / permear",
+    "exampleEnglish": "Fear permeated the entire office.",
+    "exampleSpanish": "El miedo impregnó toda la oficina.",
+    "level": "C1"
+  },
+  {
+    "english": "proliferate",
+    "spanish": "proliferar",
+    "exampleEnglish": "Fake news has proliferated online.",
+    "exampleSpanish": "Las noticias falsas han proliferado en internet.",
+    "level": "C1"
+  },
+  {
+    "english": "culminate",
+    "spanish": "culminar",
+    "exampleEnglish": "The project culminated in a big success.",
+    "exampleSpanish": "El proyecto culminó en un gran éxito.",
+    "level": "C1"
+  },
+  {
+    "english": "epitomize",
+    "spanish": "personificar / ejemplificar",
+    "exampleEnglish": "She epitomizes hard work and dedication.",
+    "exampleSpanish": "Ella personifica el trabajo duro y la dedicación.",
+    "level": "C1"
+  },
+  {
+    "english": "read between the lines",
+    "spanish": "leer entre líneas",
+    "exampleEnglish": "You need to read between the lines here.",
+    "exampleSpanish": "Necesitas leer entre líneas aquí.",
+    "level": "C1"
+  },
+  {
+    "english": "a blessing in disguise",
+    "spanish": "una bendición disfrazada",
+    "exampleEnglish": "Losing that job was a blessing in disguise.",
+    "exampleSpanish": "Perder ese trabajo fue una bendición disfrazada.",
+    "level": "C1"
+  },
+  {
+    "english": "burn bridges",
+    "spanish": "quemar puentes (relaciones)",
+    "exampleEnglish": "Don't burn bridges when you leave a job.",
+    "exampleSpanish": "No quemes puentes cuando dejes un trabajo.",
+    "level": "C1"
+  },
+  {
+    "english": "take something with a grain of salt",
+    "spanish": "tomar algo con cautela",
+    "exampleEnglish": "Take his advice with a grain of salt.",
+    "exampleSpanish": "Toma su consejo con cautela.",
+    "level": "C1"
+  },
+  {
+    "english": "go the extra mile",
+    "spanish": "esforzarse más de lo necesario",
+    "exampleEnglish": "She always goes the extra mile for clients.",
+    "exampleSpanish": "Ella siempre se esfuerza más de lo necesario por los clientes.",
+    "level": "C1"
+  },
+  {
+    "english": "push the envelope",
+    "spanish": "llevar al límite / innovar",
+    "exampleEnglish": "The designer pushed the envelope with this collection.",
+    "exampleSpanish": "El diseñador llevó al límite con esta colección.",
+    "level": "C1"
+  },
+  {
+    "english": "a double-edged sword",
+    "spanish": "un arma de doble filo",
+    "exampleEnglish": "Social media is a double-edged sword.",
+    "exampleSpanish": "Las redes sociales son un arma de doble filo.",
+    "level": "C1"
+  },
+  {
+    "english": "sit on the fence",
+    "spanish": "no tomar partido",
+    "exampleEnglish": "He tends to sit on the fence in debates.",
+    "exampleSpanish": "Él tiende a no tomar partido en los debates.",
+    "level": "C1"
+  },
+  {
+    "english": "throw in the towel",
+    "spanish": "tirar la toalla",
+    "exampleEnglish": "After months of trying, she threw in the towel.",
+    "exampleSpanish": "Después de meses de intentarlo, ella tiró la toalla.",
+    "level": "C1"
+  },
+  {
+    "english": "keep someone at arm's length",
+    "spanish": "mantener a alguien a distancia",
+    "exampleEnglish": "He keeps his colleagues at arm's length.",
+    "exampleSpanish": "Él mantiene a sus colegas a distancia.",
+    "level": "C1"
+  },
+  {
+    "english": "food for thought",
+    "spanish": "algo en qué pensar",
+    "exampleEnglish": "Your comment gave me food for thought.",
+    "exampleSpanish": "Tu comentario me dio algo en qué pensar.",
+    "level": "C1"
+  },
+  {
+    "english": "the tip of the iceberg",
+    "spanish": "la punta del iceberg",
+    "exampleEnglish": "This problem is just the tip of the iceberg.",
+    "exampleSpanish": "Este problema es solo la punta del iceberg.",
+    "level": "C1"
+  },
+  {
+    "english": "in the grand scheme of things",
+    "spanish": "en el panorama general",
+    "exampleEnglish": "In the grand scheme of things, this is minor.",
+    "exampleSpanish": "En el panorama general, esto es menor.",
+    "level": "C1"
+  },
+  {
+    "english": "come to terms with",
+    "spanish": "aceptar / hacer las paces con",
+    "exampleEnglish": "It took years to come to terms with the loss.",
+    "exampleSpanish": "Tomó años aceptar la pérdida.",
+    "level": "C1"
+  },
+  {
+    "english": "a far cry from",
+    "spanish": "muy diferente de",
+    "exampleEnglish": "This is a far cry from what we planned.",
+    "exampleSpanish": "Esto es muy diferente de lo que planeamos.",
+    "level": "C1"
+  },
+  {
+    "english": "attribute to",
+    "spanish": "atribuir a",
+    "exampleEnglish": "She attributes her success to hard work.",
+    "exampleSpanish": "Ella atribuye su éxito al trabajo duro.",
+    "level": "C1"
+  },
+  {
+    "english": "deviate from",
+    "spanish": "desviarse de",
+    "exampleEnglish": "The results deviated from expectations.",
+    "exampleSpanish": "Los resultados se desviaron de las expectativas.",
+    "level": "C1"
+  },
+  {
+    "english": "adhere to",
+    "spanish": "adherirse a / cumplir con",
+    "exampleEnglish": "All employees must adhere to the policy.",
+    "exampleSpanish": "Todos los empleados deben adherirse a la política.",
+    "level": "C1"
+  },
+  {
+    "english": "comply",
+    "spanish": "cumplir",
+    "exampleEnglish": "The company complied with the new law.",
+    "exampleSpanish": "La empresa cumplió con la nueva ley.",
+    "level": "C1"
+  },
+  {
+    "english": "relinquish",
+    "spanish": "renunciar a / ceder",
+    "exampleEnglish": "He relinquished control of the company.",
+    "exampleSpanish": "Él renunció al control de la empresa.",
+    "level": "C1"
+  },
+  {
+    "english": "forfeit",
+    "spanish": "perder (un derecho)",
+    "exampleEnglish": "You will forfeit your deposit if you cancel.",
+    "exampleSpanish": "Perderás tu depósito si cancelas.",
+    "level": "C1"
+  },
+  {
+    "english": "reconcile",
+    "spanish": "reconciliar / conciliar",
+    "exampleEnglish": "They finally reconciled their differences.",
+    "exampleSpanish": "Finalmente reconciliaron sus diferencias.",
+    "level": "C1"
+  },
+  {
+    "english": "mediate",
+    "spanish": "mediar",
+    "exampleEnglish": "A neutral party mediated the dispute.",
+    "exampleSpanish": "Una parte neutral medió la disputa.",
+    "level": "C1"
+  },
+  {
+    "english": "arbitrate",
+    "spanish": "arbitrar",
+    "exampleEnglish": "The committee arbitrated the disagreement.",
+    "exampleSpanish": "El comité arbitró el desacuerdo.",
+    "level": "C1"
+  },
+  {
+    "english": "delegate",
+    "spanish": "delegar",
+    "exampleEnglish": "A good manager knows how to delegate.",
+    "exampleSpanish": "Un buen gerente sabe cómo delegar.",
+    "level": "C1"
+  },
+  {
+    "english": "streamline",
+    "spanish": "optimizar / simplificar",
+    "exampleEnglish": "We streamlined our production process.",
+    "exampleSpanish": "Optimizamos nuestro proceso de producción.",
+    "level": "C1"
+  },
+  {
+    "english": "consolidate",
+    "spanish": "consolidar",
+    "exampleEnglish": "The two departments were consolidated.",
+    "exampleSpanish": "Los dos departamentos se consolidaron.",
+    "level": "C1"
+  },
+  {
+    "english": "diversify",
+    "spanish": "diversificar",
+    "exampleEnglish": "The company diversified its investments.",
+    "exampleSpanish": "La empresa diversificó sus inversiones.",
+    "level": "C1"
+  },
+  {
+    "english": "capitalize on",
+    "spanish": "aprovechar (una oportunidad)",
+    "exampleEnglish": "We should capitalize on this trend.",
+    "exampleSpanish": "Deberíamos aprovechar esta tendencia.",
+    "level": "C1"
+  },
+  {
+    "english": "leverage",
+    "spanish": "aprovechar / apalancar",
+    "exampleEnglish": "We can leverage our experience to win this deal.",
+    "exampleSpanish": "Podemos aprovechar nuestra experiencia para ganar este trato.",
+    "level": "C1"
+  },
+  {
+    "english": "undertake",
+    "spanish": "emprender",
+    "exampleEnglish": "The team undertook a difficult mission.",
+    "exampleSpanish": "El equipo emprendió una misión difícil.",
+    "level": "C1"
+  },
+  {
+    "english": "spearhead",
+    "spanish": "liderar / encabezar",
+    "exampleEnglish": "She spearheaded the new marketing campaign.",
+    "exampleSpanish": "Ella lideró la nueva campaña de marketing.",
+    "level": "C1"
+  },
+  {
+    "english": "orchestrate",
+    "spanish": "orquestar",
+    "exampleEnglish": "He orchestrated the entire event.",
+    "exampleSpanish": "Él orquestó todo el evento.",
+    "level": "C1"
+  },
+  {
+    "english": "galvanize",
+    "spanish": "impulsar / movilizar",
+    "exampleEnglish": "The speech galvanized the whole team.",
+    "exampleSpanish": "El discurso movilizó a todo el equipo.",
+    "level": "C1"
+  },
+  {
+    "english": "cultivate",
+    "spanish": "cultivar (relaciones/habilidades)",
+    "exampleEnglish": "It's important to cultivate good relationships.",
+    "exampleSpanish": "Es importante cultivar buenas relaciones.",
+    "level": "C1"
+  },
+  {
+    "english": "intricate",
+    "spanish": "complejo / intricado",
+    "exampleEnglish": "The mechanism is quite intricate.",
+    "exampleSpanish": "El mecanismo es bastante complejo.",
+    "level": "C1"
+  },
+  {
+    "english": "elusive",
+    "spanish": "esquivo / difícil de alcanzar",
+    "exampleEnglish": "Success can be elusive at times.",
+    "exampleSpanish": "El éxito puede ser esquivo a veces.",
+    "level": "C1"
+  },
+  {
+    "english": "meticulous",
+    "spanish": "meticuloso",
+    "exampleEnglish": "The report was written with meticulous care.",
+    "exampleSpanish": "El reporte fue escrito con cuidado meticuloso.",
+    "level": "C1"
+  },
+  {
+    "english": "ubiquitous",
+    "spanish": "omnipresente",
+    "exampleEnglish": "Smartphones have become ubiquitous.",
+    "exampleSpanish": "Los smartphones se han vuelto omnipresentes.",
+    "level": "C1"
+  },
+  {
+    "english": "innate",
+    "spanish": "innato",
+    "exampleEnglish": "Curiosity is an innate human trait.",
+    "exampleSpanish": "La curiosidad es un rasgo humano innato.",
+    "level": "C1"
+  },
+  {
+    "english": "intrinsic",
+    "spanish": "intrínseco",
+    "exampleEnglish": "The book has intrinsic value beyond its price.",
+    "exampleSpanish": "El libro tiene valor intrínseco más allá de su precio.",
+    "level": "C1"
+  },
+  {
+    "english": "inherent",
+    "spanish": "inherente",
+    "exampleEnglish": "There are inherent risks in this business.",
+    "exampleSpanish": "Hay riesgos inherentes en este negocio.",
+    "level": "C1"
+  },
+  {
+    "english": "volatile",
+    "spanish": "volátil (inestable)",
+    "exampleEnglish": "The stock market has been volatile lately.",
+    "exampleSpanish": "La bolsa de valores ha estado volátil últimamente.",
+    "level": "C1"
+  },
+  {
+    "english": "precarious",
+    "spanish": "precario",
+    "exampleEnglish": "Their financial situation is precarious.",
+    "exampleSpanish": "Su situación financiera es precaria.",
+    "level": "C1"
+  },
+  {
+    "english": "dubious",
+    "spanish": "dudoso",
+    "exampleEnglish": "The source of that claim is dubious.",
+    "exampleSpanish": "La fuente de esa afirmación es dudosa.",
+    "level": "C1"
+  },
+  {
+    "english": "credible",
+    "spanish": "creíble",
+    "exampleEnglish": "Her testimony was very credible.",
+    "exampleSpanish": "Su testimonio fue muy creíble.",
+    "level": "C1"
+  },
+  {
+    "english": "unprecedented",
+    "spanish": "sin precedentes",
+    "exampleEnglish": "The company faced unprecedented growth.",
+    "exampleSpanish": "La empresa enfrentó un crecimiento sin precedentes.",
+    "level": "C1"
+  },
+  {
+    "english": "relentless",
+    "spanish": "implacable / incesante",
+    "exampleEnglish": "She showed relentless determination.",
+    "exampleSpanish": "Ella mostró una determinación implacable.",
+    "level": "C1"
+  },
+  {
+    "english": "meticulous",
+    "spanish": "riguroso / detallista",
+    "exampleEnglish": "He is meticulous in his research.",
+    "exampleSpanish": "Él es riguroso en su investigación.",
+    "level": "C1"
+  },
+  {
+    "english": "astute",
+    "spanish": "astuto / perspicaz",
+    "exampleEnglish": "She made an astute observation.",
+    "exampleSpanish": "Ella hizo una observación astuta.",
+    "level": "C1"
+  },
+  {
+    "english": "shrewd",
+    "spanish": "sagaz",
+    "exampleEnglish": "He is a shrewd businessman.",
+    "exampleSpanish": "Él es un empresario sagaz.",
+    "level": "C1"
+  },
+  {
+    "english": "prudent",
+    "spanish": "prudente",
+    "exampleEnglish": "It's prudent to save for emergencies.",
+    "exampleSpanish": "Es prudente ahorrar para emergencias.",
+    "level": "C1"
+  },
+  {
+    "english": "candid",
+    "spanish": "franco / sincero",
+    "exampleEnglish": "She gave a candid interview about her failures.",
+    "exampleSpanish": "Ella dio una entrevista franca sobre sus fracasos.",
+    "level": "C1"
+  },
+  {
+    "english": "blatant",
+    "spanish": "descarado / evidente",
+    "exampleEnglish": "It was a blatant lie.",
+    "exampleSpanish": "Fue una mentira descarada.",
+    "level": "C1"
+  },
+  {
+    "english": "subtle",
+    "spanish": "sutil (matiz)",
+    "exampleEnglish": "There's a subtle difference between the two.",
+    "exampleSpanish": "Hay una diferencia sutil entre los dos.",
+    "level": "C1"
+  }
+]
