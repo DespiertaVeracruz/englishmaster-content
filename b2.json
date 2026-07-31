@@ -1,0 +1,807 @@
+[
+  {
+    "english": "inflation",
+    "spanish": "inflación",
+    "exampleEnglish": "Inflation has increased the cost of living.",
+    "exampleSpanish": "La inflación ha aumentado el costo de vida.",
+    "level": "B2"
+  },
+  {
+    "english": "recession",
+    "spanish": "recesión",
+    "exampleEnglish": "The country entered a recession last year.",
+    "exampleSpanish": "El país entró en recesión el año pasado.",
+    "level": "B2"
+  },
+  {
+    "english": "stock market",
+    "spanish": "bolsa de valores",
+    "exampleEnglish": "The stock market crashed in 2008.",
+    "exampleSpanish": "La bolsa de valores colapsó en 2008.",
+    "level": "B2"
+  },
+  {
+    "english": "monopoly",
+    "spanish": "monopolio",
+    "exampleEnglish": "The company has a monopoly in this industry.",
+    "exampleSpanish": "La empresa tiene un monopolio en esta industria.",
+    "level": "B2"
+  },
+  {
+    "english": "subsidy",
+    "spanish": "subsidio",
+    "exampleEnglish": "Farmers receive government subsidies.",
+    "exampleSpanish": "Los agricultores reciben subsidios del gobierno.",
+    "level": "B2"
+  },
+  {
+    "english": "tariff",
+    "spanish": "arancel",
+    "exampleEnglish": "New tariffs affected imported goods.",
+    "exampleSpanish": "Los nuevos aranceles afectaron los productos importados.",
+    "level": "B2"
+  },
+  {
+    "english": "outsource",
+    "spanish": "subcontratar",
+    "exampleEnglish": "The company outsourced its customer service.",
+    "exampleSpanish": "La empresa subcontrató su servicio al cliente.",
+    "level": "B2"
+  },
+  {
+    "english": "stakeholder",
+    "spanish": "parte interesada",
+    "exampleEnglish": "All stakeholders were consulted on the decision.",
+    "exampleSpanish": "Se consultó a todas las partes interesadas sobre la decisión.",
+    "level": "B2"
+  },
+  {
+    "english": "liability",
+    "spanish": "responsabilidad legal",
+    "exampleEnglish": "The company denied any liability for the accident.",
+    "exampleSpanish": "La empresa negó cualquier responsabilidad legal por el accidente.",
+    "level": "B2"
+  },
+  {
+    "english": "asset",
+    "spanish": "activo (financiero)",
+    "exampleEnglish": "Real estate is a valuable asset.",
+    "exampleSpanish": "Los bienes raíces son un activo valioso.",
+    "level": "B2"
+  },
+  {
+    "english": "equity",
+    "spanish": "capital / patrimonio",
+    "exampleEnglish": "She has equity in the company.",
+    "exampleSpanish": "Ella tiene capital en la empresa.",
+    "level": "B2"
+  },
+  {
+    "english": "dividend",
+    "spanish": "dividendo",
+    "exampleEnglish": "Shareholders received a dividend this year.",
+    "exampleSpanish": "Los accionistas recibieron un dividendo este año.",
+    "level": "B2"
+  },
+  {
+    "english": "venture capital",
+    "spanish": "capital de riesgo",
+    "exampleEnglish": "The startup raised venture capital funding.",
+    "exampleSpanish": "La startup consiguió financiamiento de capital de riesgo.",
+    "level": "B2"
+  },
+  {
+    "english": "consumer behavior",
+    "spanish": "comportamiento del consumidor",
+    "exampleEnglish": "The study analyzed consumer behavior trends.",
+    "exampleSpanish": "El estudio analizó tendencias del comportamiento del consumidor.",
+    "level": "B2"
+  },
+  {
+    "english": "brand loyalty",
+    "spanish": "lealtad de marca",
+    "exampleEnglish": "The company built strong brand loyalty.",
+    "exampleSpanish": "La empresa construyó una fuerte lealtad de marca.",
+    "level": "B2"
+  },
+  {
+    "english": "legislation",
+    "spanish": "legislación",
+    "exampleEnglish": "New legislation was passed last month.",
+    "exampleSpanish": "Se aprobó nueva legislación el mes pasado.",
+    "level": "B2"
+  },
+  {
+    "english": "amendment",
+    "spanish": "enmienda",
+    "exampleEnglish": "The amendment changed the constitution.",
+    "exampleSpanish": "La enmienda cambió la constitución.",
+    "level": "B2"
+  },
+  {
+    "english": "regime",
+    "spanish": "régimen",
+    "exampleEnglish": "The country lived under a strict regime.",
+    "exampleSpanish": "El país vivió bajo un régimen estricto.",
+    "level": "B2"
+  },
+  {
+    "english": "sovereignty",
+    "spanish": "soberanía",
+    "exampleEnglish": "The nation values its sovereignty highly.",
+    "exampleSpanish": "La nación valora mucho su soberanía.",
+    "level": "B2"
+  },
+  {
+    "english": "diplomacy",
+    "spanish": "diplomacia",
+    "exampleEnglish": "Diplomacy prevented a bigger conflict.",
+    "exampleSpanish": "La diplomacia evitó un conflicto mayor.",
+    "level": "B2"
+  },
+  {
+    "english": "sanction",
+    "spanish": "sanción (política)",
+    "exampleEnglish": "The country imposed economic sanctions.",
+    "exampleSpanish": "El país impuso sanciones económicas.",
+    "level": "B2"
+  },
+  {
+    "english": "referendum",
+    "spanish": "referéndum",
+    "exampleEnglish": "The referendum decided the new policy.",
+    "exampleSpanish": "El referéndum decidió la nueva política.",
+    "level": "B2"
+  },
+  {
+    "english": "constituency",
+    "spanish": "circunscripción electoral",
+    "exampleEnglish": "The politician represents a large constituency.",
+    "exampleSpanish": "El político representa una gran circunscripción electoral.",
+    "level": "B2"
+  },
+  {
+    "english": "lobbying",
+    "spanish": "cabildeo",
+    "exampleEnglish": "Lobbying influences many political decisions.",
+    "exampleSpanish": "El cabildeo influye en muchas decisiones políticas.",
+    "level": "B2"
+  },
+  {
+    "english": "bureaucracy",
+    "spanish": "burocracia",
+    "exampleEnglish": "The process is slowed by bureaucracy.",
+    "exampleSpanish": "El proceso se retrasa por la burocracia.",
+    "level": "B2"
+  },
+  {
+    "english": "corruption",
+    "spanish": "corrupción",
+    "exampleEnglish": "Corruption remains a serious problem.",
+    "exampleSpanish": "La corrupción sigue siendo un problema serio.",
+    "level": "B2"
+  },
+  {
+    "english": "activism",
+    "spanish": "activismo",
+    "exampleEnglish": "Her activism inspired social change.",
+    "exampleSpanish": "Su activismo inspiró el cambio social.",
+    "level": "B2"
+  },
+  {
+    "english": "protest",
+    "spanish": "protesta / protestar",
+    "exampleEnglish": "Thousands joined the protest downtown.",
+    "exampleSpanish": "Miles se unieron a la protesta en el centro.",
+    "level": "B2"
+  },
+  {
+    "english": "advocacy",
+    "spanish": "defensa (de una causa)",
+    "exampleEnglish": "The group focuses on advocacy for equal rights.",
+    "exampleSpanish": "El grupo se enfoca en la defensa de derechos iguales.",
+    "level": "B2"
+  },
+  {
+    "english": "marginalized",
+    "spanish": "marginado",
+    "exampleEnglish": "The policy helps marginalized communities.",
+    "exampleSpanish": "La política ayuda a las comunidades marginadas.",
+    "level": "B2"
+  },
+  {
+    "english": "cognitive",
+    "spanish": "cognitivo",
+    "exampleEnglish": "The study focused on cognitive development.",
+    "exampleSpanish": "El estudio se enfocó en el desarrollo cognitivo.",
+    "level": "B2"
+  },
+  {
+    "english": "perception",
+    "spanish": "percepción",
+    "exampleEnglish": "Perception can differ from reality.",
+    "exampleSpanish": "La percepción puede diferir de la realidad.",
+    "level": "B2"
+  },
+  {
+    "english": "subconscious",
+    "spanish": "subconsciente",
+    "exampleEnglish": "Our subconscious affects our decisions.",
+    "exampleSpanish": "Nuestro subconsciente afecta nuestras decisiones.",
+    "level": "B2"
+  },
+  {
+    "english": "instinct",
+    "spanish": "instinto",
+    "exampleEnglish": "She trusted her instinct and left.",
+    "exampleSpanish": "Ella confió en su instinto y se fue.",
+    "level": "B2"
+  },
+  {
+    "english": "temperament",
+    "spanish": "temperamento",
+    "exampleEnglish": "The baby has a calm temperament.",
+    "exampleSpanish": "El bebé tiene un temperamento tranquilo.",
+    "level": "B2"
+  },
+  {
+    "english": "trait",
+    "spanish": "rasgo (de personalidad)",
+    "exampleEnglish": "Kindness is an admirable trait.",
+    "exampleSpanish": "La bondad es un rasgo admirable.",
+    "level": "B2"
+  },
+  {
+    "english": "bias (cognitive)",
+    "spanish": "sesgo cognitivo",
+    "exampleEnglish": "Confirmation bias affects our judgment.",
+    "exampleSpanish": "El sesgo de confirmación afecta nuestro juicio.",
+    "level": "B2"
+  },
+  {
+    "english": "motivation",
+    "spanish": "motivación",
+    "exampleEnglish": "Money isn't his only motivation.",
+    "exampleSpanish": "El dinero no es su única motivación.",
+    "level": "B2"
+  },
+  {
+    "english": "procrastinate",
+    "spanish": "procrastinar",
+    "exampleEnglish": "I tend to procrastinate on big projects.",
+    "exampleSpanish": "Tiendo a procrastinar en proyectos grandes.",
+    "level": "B2"
+  },
+  {
+    "english": "burnout",
+    "spanish": "agotamiento (laboral)",
+    "exampleEnglish": "She quit her job due to burnout.",
+    "exampleSpanish": "Ella renunció a su trabajo por agotamiento.",
+    "level": "B2"
+  },
+  {
+    "english": "coping mechanism",
+    "spanish": "mecanismo de afrontamiento",
+    "exampleEnglish": "Exercise is her coping mechanism for stress.",
+    "exampleSpanish": "El ejercicio es su mecanismo de afrontamiento para el estrés.",
+    "level": "B2"
+  },
+  {
+    "english": "self-awareness",
+    "spanish": "autoconciencia",
+    "exampleEnglish": "Self-awareness helps you grow personally.",
+    "exampleSpanish": "La autoconciencia te ayuda a crecer personalmente.",
+    "level": "B2"
+  },
+  {
+    "english": "empathetic",
+    "spanish": "empático",
+    "exampleEnglish": "She's an empathetic listener.",
+    "exampleSpanish": "Ella es una oyente empática.",
+    "level": "B2"
+  },
+  {
+    "english": "manipulative",
+    "spanish": "manipulador",
+    "exampleEnglish": "He can be manipulative when he wants something.",
+    "exampleSpanish": "Él puede ser manipulador cuando quiere algo.",
+    "level": "B2"
+  },
+  {
+    "english": "assertiveness",
+    "spanish": "asertividad",
+    "exampleEnglish": "Assertiveness helped her set boundaries.",
+    "exampleSpanish": "La asertividad la ayudó a poner límites.",
+    "level": "B2"
+  },
+  {
+    "english": "carbon footprint",
+    "spanish": "huella de carbono",
+    "exampleEnglish": "We should reduce our carbon footprint.",
+    "exampleSpanish": "Deberíamos reducir nuestra huella de carbono.",
+    "level": "B2"
+  },
+  {
+    "english": "greenhouse gas",
+    "spanish": "gas de efecto invernadero",
+    "exampleEnglish": "Greenhouse gases trap heat in the atmosphere.",
+    "exampleSpanish": "Los gases de efecto invernadero atrapan calor en la atmósfera.",
+    "level": "B2"
+  },
+  {
+    "english": "deforestation",
+    "spanish": "deforestación",
+    "exampleEnglish": "Deforestation threatens many species.",
+    "exampleSpanish": "La deforestación amenaza a muchas especies.",
+    "level": "B2"
+  },
+  {
+    "english": "ecosystem",
+    "spanish": "ecosistema",
+    "exampleEnglish": "This ecosystem supports diverse wildlife.",
+    "exampleSpanish": "Este ecosistema sostiene una fauna diversa.",
+    "level": "B2"
+  },
+  {
+    "english": "biodiversity",
+    "spanish": "biodiversidad",
+    "exampleEnglish": "The rainforest has incredible biodiversity.",
+    "exampleSpanish": "La selva tropical tiene una biodiversidad increíble.",
+    "level": "B2"
+  },
+  {
+    "english": "extinction",
+    "spanish": "extinción",
+    "exampleEnglish": "Many species are at risk of extinction.",
+    "exampleSpanish": "Muchas especies están en riesgo de extinción.",
+    "level": "B2"
+  },
+  {
+    "english": "conservation",
+    "spanish": "conservación",
+    "exampleEnglish": "The park focuses on wildlife conservation.",
+    "exampleSpanish": "El parque se enfoca en la conservación de la vida silvestre.",
+    "level": "B2"
+  },
+  {
+    "english": "drought",
+    "spanish": "sequía",
+    "exampleEnglish": "The drought damaged the crops severely.",
+    "exampleSpanish": "La sequía dañó los cultivos severamente.",
+    "level": "B2"
+  },
+  {
+    "english": "emission",
+    "spanish": "emisión (contaminante)",
+    "exampleEnglish": "Cars produce harmful emissions.",
+    "exampleSpanish": "Los carros producen emisiones dañinas.",
+    "level": "B2"
+  },
+  {
+    "english": "sustainability",
+    "spanish": "sostenibilidad",
+    "exampleEnglish": "Sustainability is a priority for the company.",
+    "exampleSpanish": "La sostenibilidad es prioridad para la empresa.",
+    "level": "B2"
+  },
+  {
+    "english": "molecule",
+    "spanish": "molécula",
+    "exampleEnglish": "Water is made of tiny molecules.",
+    "exampleSpanish": "El agua está hecha de moléculas pequeñas.",
+    "level": "B2"
+  },
+  {
+    "english": "compound",
+    "spanish": "compuesto (químico)",
+    "exampleEnglish": "This compound is used in medicine.",
+    "exampleSpanish": "Este compuesto se usa en medicina.",
+    "level": "B2"
+  },
+  {
+    "english": "organism",
+    "spanish": "organismo",
+    "exampleEnglish": "Bacteria are single-celled organisms.",
+    "exampleSpanish": "Las bacterias son organismos unicelulares.",
+    "level": "B2"
+  },
+  {
+    "english": "mutation",
+    "spanish": "mutación",
+    "exampleEnglish": "The mutation changed the virus behavior.",
+    "exampleSpanish": "La mutación cambió el comportamiento del virus.",
+    "level": "B2"
+  },
+  {
+    "english": "catalyst",
+    "spanish": "catalizador",
+    "exampleEnglish": "The event acted as a catalyst for change.",
+    "exampleSpanish": "El evento actuó como catalizador para el cambio.",
+    "level": "B2"
+  },
+  {
+    "english": "radiation",
+    "spanish": "radiación",
+    "exampleEnglish": "The equipment measures radiation levels.",
+    "exampleSpanish": "El equipo mide los niveles de radiación.",
+    "level": "B2"
+  },
+  {
+    "english": "simulation",
+    "spanish": "simulación",
+    "exampleEnglish": "They ran a computer simulation of the storm.",
+    "exampleSpanish": "Ejecutaron una simulación por computadora de la tormenta.",
+    "level": "B2"
+  },
+  {
+    "english": "prototype",
+    "spanish": "prototipo",
+    "exampleEnglish": "Engineers built a prototype of the device.",
+    "exampleSpanish": "Los ingenieros construyeron un prototipo del dispositivo.",
+    "level": "B2"
+  },
+  {
+    "english": "breakthrough",
+    "spanish": "avance importante",
+    "exampleEnglish": "It was a major breakthrough in medicine.",
+    "exampleSpanish": "Fue un avance importante en medicina.",
+    "level": "B2"
+  },
+  {
+    "english": "artificial",
+    "spanish": "artificial",
+    "exampleEnglish": "The lake is completely artificial.",
+    "exampleSpanish": "El lago es completamente artificial.",
+    "level": "B2"
+  },
+  {
+    "english": "break the ice",
+    "spanish": "romper el hielo",
+    "exampleEnglish": "He told a joke to break the ice.",
+    "exampleSpanish": "Él contó un chiste para romper el hielo.",
+    "level": "B2"
+  },
+  {
+    "english": "hit the nail on the head",
+    "spanish": "dar en el clavo",
+    "exampleEnglish": "You hit the nail on the head with that comment.",
+    "exampleSpanish": "Diste en el clavo con ese comentario.",
+    "level": "B2"
+  },
+  {
+    "english": "cut corners",
+    "spanish": "recortar gastos/tomar atajos",
+    "exampleEnglish": "The company cut corners to save money.",
+    "exampleSpanish": "La empresa recortó gastos para ahorrar dinero.",
+    "level": "B2"
+  },
+  {
+    "english": "get the ball rolling",
+    "spanish": "poner las cosas en marcha",
+    "exampleEnglish": "Let's get the ball rolling on this project.",
+    "exampleSpanish": "Pongamos en marcha este proyecto.",
+    "level": "B2"
+  },
+  {
+    "english": "under the weather",
+    "spanish": "sentirse mal (de salud)",
+    "exampleEnglish": "I'm feeling a bit under the weather today.",
+    "exampleSpanish": "Me siento un poco mal hoy.",
+    "level": "B2"
+  },
+  {
+    "english": "piece of cake",
+    "spanish": "pan comido",
+    "exampleEnglish": "The test was a piece of cake.",
+    "exampleSpanish": "El examen fue pan comido.",
+    "level": "B2"
+  },
+  {
+    "english": "once in a blue moon",
+    "spanish": "muy raras veces",
+    "exampleEnglish": "We only meet once in a blue moon.",
+    "exampleSpanish": "Solo nos vemos muy raras veces.",
+    "level": "B2"
+  },
+  {
+    "english": "call it a day",
+    "spanish": "dar por terminado",
+    "exampleEnglish": "Let's call it a day and go home.",
+    "exampleSpanish": "Demos por terminado el día y vayamos a casa.",
+    "level": "B2"
+  },
+  {
+    "english": "on the same page",
+    "spanish": "estar de acuerdo / en sintonía",
+    "exampleEnglish": "We're finally on the same page about this.",
+    "exampleSpanish": "Finalmente estamos de acuerdo sobre esto.",
+    "level": "B2"
+  },
+  {
+    "english": "bite the bullet",
+    "spanish": "afrontar algo difícil",
+    "exampleEnglish": "I had to bite the bullet and apologize.",
+    "exampleSpanish": "Tuve que afrontarlo y disculparme.",
+    "level": "B2"
+  },
+  {
+    "english": "miss the boat",
+    "spanish": "perder la oportunidad",
+    "exampleEnglish": "He missed the boat on that investment.",
+    "exampleSpanish": "Él perdió la oportunidad con esa inversión.",
+    "level": "B2"
+  },
+  {
+    "english": "back to square one",
+    "spanish": "volver al punto de partida",
+    "exampleEnglish": "The plan failed, so we're back to square one.",
+    "exampleSpanish": "El plan falló, así que volvemos al punto de partida.",
+    "level": "B2"
+  },
+  {
+    "english": "in the long run",
+    "spanish": "a largo plazo",
+    "exampleEnglish": "It will pay off in the long run.",
+    "exampleSpanish": "Valdrá la pena a largo plazo.",
+    "level": "B2"
+  },
+  {
+    "english": "think outside the box",
+    "spanish": "pensar fuera de lo convencional",
+    "exampleEnglish": "We need to think outside the box.",
+    "exampleSpanish": "Necesitamos pensar fuera de lo convencional.",
+    "level": "B2"
+  },
+  {
+    "english": "get cold feet",
+    "spanish": "acobardarse (antes de algo)",
+    "exampleEnglish": "She got cold feet before the wedding.",
+    "exampleSpanish": "Ella se acobardó antes de la boda.",
+    "level": "B2"
+  },
+  {
+    "english": "undermine",
+    "spanish": "socavar",
+    "exampleEnglish": "His comments undermined her confidence.",
+    "exampleSpanish": "Sus comentarios socavaron la confianza de ella.",
+    "level": "B2"
+  },
+  {
+    "english": "reinforce",
+    "spanish": "reforzar",
+    "exampleEnglish": "The evidence reinforces our argument.",
+    "exampleSpanish": "La evidencia refuerza nuestro argumento.",
+    "level": "B2"
+  },
+  {
+    "english": "counteract",
+    "spanish": "contrarrestar",
+    "exampleEnglish": "Exercise can counteract the effects of stress.",
+    "exampleSpanish": "El ejercicio puede contrarrestar los efectos del estrés.",
+    "level": "B2"
+  },
+  {
+    "english": "compensate",
+    "spanish": "compensar",
+    "exampleEnglish": "The company compensated for the delay.",
+    "exampleSpanish": "La empresa compensó por el retraso.",
+    "level": "B2"
+  },
+  {
+    "english": "alleviate",
+    "spanish": "aliviar",
+    "exampleEnglish": "The medicine alleviates the pain.",
+    "exampleSpanish": "La medicina alivia el dolor.",
+    "level": "B2"
+  },
+  {
+    "english": "exacerbate",
+    "spanish": "agravar",
+    "exampleEnglish": "The drought exacerbated the food crisis.",
+    "exampleSpanish": "La sequía agravó la crisis alimentaria.",
+    "level": "B2"
+  },
+  {
+    "english": "mitigate",
+    "spanish": "mitigar",
+    "exampleEnglish": "They took steps to mitigate the risk.",
+    "exampleSpanish": "Tomaron medidas para mitigar el riesgo.",
+    "level": "B2"
+  },
+  {
+    "english": "facilitate",
+    "spanish": "facilitar",
+    "exampleEnglish": "Technology facilitates communication.",
+    "exampleSpanish": "La tecnología facilita la comunicación.",
+    "level": "B2"
+  },
+  {
+    "english": "undergo",
+    "spanish": "someterse a / experimentar",
+    "exampleEnglish": "The company underwent major changes.",
+    "exampleSpanish": "La empresa experimentó grandes cambios.",
+    "level": "B2"
+  },
+  {
+    "english": "comply with",
+    "spanish": "cumplir con (norma)",
+    "exampleEnglish": "The factory must comply with safety rules.",
+    "exampleSpanish": "La fábrica debe cumplir con las reglas de seguridad.",
+    "level": "B2"
+  },
+  {
+    "english": "violate",
+    "spanish": "violar (una ley/norma)",
+    "exampleEnglish": "The company violated environmental regulations.",
+    "exampleSpanish": "La empresa violó regulaciones ambientales.",
+    "level": "B2"
+  },
+  {
+    "english": "enforce",
+    "spanish": "hacer cumplir",
+    "exampleEnglish": "The police enforce traffic laws.",
+    "exampleSpanish": "La policía hace cumplir las leyes de tránsito.",
+    "level": "B2"
+  },
+  {
+    "english": "regulate",
+    "spanish": "regular",
+    "exampleEnglish": "The government regulates the banking sector.",
+    "exampleSpanish": "El gobierno regula el sector bancario.",
+    "level": "B2"
+  },
+  {
+    "english": "undermine",
+    "spanish": "menoscabar",
+    "exampleEnglish": "Doubt can undermine your progress.",
+    "exampleSpanish": "La duda puede menoscabar tu progreso.",
+    "level": "B2"
+  },
+  {
+    "english": "scrutinize",
+    "spanish": "examinar detenidamente",
+    "exampleEnglish": "The auditors scrutinized every expense.",
+    "exampleSpanish": "Los auditores examinaron detenidamente cada gasto.",
+    "level": "B2"
+  },
+  {
+    "english": "perceive",
+    "spanish": "percibir",
+    "exampleEnglish": "People perceive risk differently.",
+    "exampleSpanish": "La gente percibe el riesgo de forma diferente.",
+    "level": "B2"
+  },
+  {
+    "english": "interpret",
+    "spanish": "interpretar",
+    "exampleEnglish": "We interpreted the data differently.",
+    "exampleSpanish": "Interpretamos los datos de forma diferente.",
+    "level": "B2"
+  },
+  {
+    "english": "infer",
+    "spanish": "inferir",
+    "exampleEnglish": "We can infer his intentions from his actions.",
+    "exampleSpanish": "Podemos inferir sus intenciones por sus acciones.",
+    "level": "B2"
+  },
+  {
+    "english": "deduce",
+    "spanish": "deducir",
+    "exampleEnglish": "The detective deduced who committed the crime.",
+    "exampleSpanish": "El detective dedujo quién cometió el crimen.",
+    "level": "B2"
+  },
+  {
+    "english": "speculate",
+    "spanish": "especular",
+    "exampleEnglish": "Analysts speculate about future prices.",
+    "exampleSpanish": "Los analistas especulan sobre precios futuros.",
+    "level": "B2"
+  },
+  {
+    "english": "pragmatic",
+    "spanish": "pragmático",
+    "exampleEnglish": "She takes a pragmatic approach to problems.",
+    "exampleSpanish": "Ella tiene un enfoque pragmático de los problemas.",
+    "level": "B2"
+  },
+  {
+    "english": "meticulous",
+    "spanish": "meticuloso",
+    "exampleEnglish": "He is meticulous about details.",
+    "exampleSpanish": "Él es meticuloso con los detalles.",
+    "level": "B2"
+  },
+  {
+    "english": "versatile",
+    "spanish": "polivalente",
+    "exampleEnglish": "She is a versatile employee.",
+    "exampleSpanish": "Ella es una empleada polivalente.",
+    "level": "B2"
+  },
+  {
+    "english": "resourceful",
+    "spanish": "ingenioso / con recursos",
+    "exampleEnglish": "He is very resourceful in difficult situations.",
+    "exampleSpanish": "Él es muy ingenioso en situaciones difíciles.",
+    "level": "B2"
+  },
+  {
+    "english": "meticulously",
+    "spanish": "meticulosamente",
+    "exampleEnglish": "She planned the trip meticulously.",
+    "exampleSpanish": "Ella planeó el viaje meticulosamente.",
+    "level": "B2"
+  },
+  {
+    "english": "intricate",
+    "spanish": "intrincado",
+    "exampleEnglish": "The design has intricate details.",
+    "exampleSpanish": "El diseño tiene detalles intrincados.",
+    "level": "B2"
+  },
+  {
+    "english": "elaborate",
+    "spanish": "elaborado / detallado",
+    "exampleEnglish": "He gave an elaborate explanation.",
+    "exampleSpanish": "Él dio una explicación elaborada.",
+    "level": "B2"
+  },
+  {
+    "english": "profound",
+    "spanish": "profundo (impacto/idea)",
+    "exampleEnglish": "The book had a profound effect on me.",
+    "exampleSpanish": "El libro tuvo un efecto profundo en mí.",
+    "level": "B2"
+  },
+  {
+    "english": "prevalent",
+    "spanish": "prevalente / común",
+    "exampleEnglish": "This disease is prevalent in the region.",
+    "exampleSpanish": "Esta enfermedad es prevalente en la región.",
+    "level": "B2"
+  },
+  {
+    "english": "redundant",
+    "spanish": "redundante",
+    "exampleEnglish": "That step is now redundant.",
+    "exampleSpanish": "Ese paso ahora es redundante.",
+    "level": "B2"
+  },
+  {
+    "english": "arbitrary",
+    "spanish": "arbitrario",
+    "exampleEnglish": "The decision seemed arbitrary.",
+    "exampleSpanish": "La decisión pareció arbitraria.",
+    "level": "B2"
+  },
+  {
+    "english": "subjective",
+    "spanish": "subjetivo",
+    "exampleEnglish": "Beauty is a subjective concept.",
+    "exampleSpanish": "La belleza es un concepto subjetivo.",
+    "level": "B2"
+  },
+  {
+    "english": "objective",
+    "spanish": "objetivo (imparcial)",
+    "exampleEnglish": "Try to stay objective during the debate.",
+    "exampleSpanish": "Trata de mantenerte objetivo durante el debate.",
+    "level": "B2"
+  },
+  {
+    "english": "coherent",
+    "spanish": "coherente",
+    "exampleEnglish": "Her argument was clear and coherent.",
+    "exampleSpanish": "Su argumento fue claro y coherente.",
+    "level": "B2"
+  },
+  {
+    "english": "plausible",
+    "spanish": "plausible",
+    "exampleEnglish": "That explanation seems plausible.",
+    "exampleSpanish": "Esa explicación parece plausible.",
+    "level": "B2"
+  }
+]
