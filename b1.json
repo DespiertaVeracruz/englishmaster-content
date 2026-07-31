@@ -1,0 +1,1052 @@
+[
+  {
+    "english": "expertise",
+    "spanish": "experiencia especializada",
+    "exampleEnglish": "She has expertise in marketing.",
+    "exampleSpanish": "Ella tiene experiencia especializada en marketing.",
+    "level": "B1"
+  },
+  {
+    "english": "qualification",
+    "spanish": "calificación / título",
+    "exampleEnglish": "He has the right qualifications for this job.",
+    "exampleSpanish": "Él tiene las calificaciones correctas para este trabajo.",
+    "level": "B1"
+  },
+  {
+    "english": "candidate",
+    "spanish": "candidato",
+    "exampleEnglish": "There were five candidates for the position.",
+    "exampleSpanish": "Hubo cinco candidatos para el puesto.",
+    "level": "B1"
+  },
+  {
+    "english": "recruit",
+    "spanish": "reclutar",
+    "exampleEnglish": "The company wants to recruit new engineers.",
+    "exampleSpanish": "La empresa quiere reclutar nuevos ingenieros.",
+    "level": "B1"
+  },
+  {
+    "english": "workforce",
+    "spanish": "fuerza laboral",
+    "exampleEnglish": "The workforce grew by ten percent.",
+    "exampleSpanish": "La fuerza laboral creció un diez por ciento.",
+    "level": "B1"
+  },
+  {
+    "english": "layoff",
+    "spanish": "despido masivo",
+    "exampleEnglish": "The company announced massive layoffs.",
+    "exampleSpanish": "La empresa anunció despidos masivos.",
+    "level": "B1"
+  },
+  {
+    "english": "severance",
+    "spanish": "indemnización",
+    "exampleEnglish": "He received a severance package.",
+    "exampleSpanish": "Él recibió un paquete de indemnización.",
+    "level": "B1"
+  },
+  {
+    "english": "pension",
+    "spanish": "pensión",
+    "exampleEnglish": "She will receive a pension after retiring.",
+    "exampleSpanish": "Ella recibirá una pensión después de jubilarse.",
+    "level": "B1"
+  },
+  {
+    "english": "retire",
+    "spanish": "jubilarse",
+    "exampleEnglish": "My father retired last year.",
+    "exampleSpanish": "Mi papá se jubiló el año pasado.",
+    "level": "B1"
+  },
+  {
+    "english": "entrepreneur",
+    "spanish": "emprendedor",
+    "exampleEnglish": "She became a successful entrepreneur.",
+    "exampleSpanish": "Ella se convirtió en una emprendedora exitosa.",
+    "level": "B1"
+  },
+  {
+    "english": "startup",
+    "spanish": "empresa emergente",
+    "exampleEnglish": "He works at a tech startup.",
+    "exampleSpanish": "Él trabaja en una empresa emergente de tecnología.",
+    "level": "B1"
+  },
+  {
+    "english": "revenue",
+    "spanish": "ingresos (empresa)",
+    "exampleEnglish": "The company's revenue increased this quarter.",
+    "exampleSpanish": "Los ingresos de la empresa aumentaron este trimestre.",
+    "level": "B1"
+  },
+  {
+    "english": "profit",
+    "spanish": "ganancia",
+    "exampleEnglish": "The business made a big profit this year.",
+    "exampleSpanish": "El negocio tuvo una gran ganancia este año.",
+    "level": "B1"
+  },
+  {
+    "english": "loss",
+    "spanish": "pérdida (financiera)",
+    "exampleEnglish": "The company reported a loss last quarter.",
+    "exampleSpanish": "La empresa reportó una pérdida el trimestre pasado.",
+    "level": "B1"
+  },
+  {
+    "english": "investment",
+    "spanish": "inversión",
+    "exampleEnglish": "This is a good investment opportunity.",
+    "exampleSpanish": "Esta es una buena oportunidad de inversión.",
+    "level": "B1"
+  },
+  {
+    "english": "shareholder",
+    "spanish": "accionista",
+    "exampleEnglish": "Shareholders voted on the new plan.",
+    "exampleSpanish": "Los accionistas votaron sobre el nuevo plan.",
+    "level": "B1"
+  },
+  {
+    "english": "merger",
+    "spanish": "fusión (empresas)",
+    "exampleEnglish": "The two companies announced a merger.",
+    "exampleSpanish": "Las dos empresas anunciaron una fusión.",
+    "level": "B1"
+  },
+  {
+    "english": "bankruptcy",
+    "spanish": "bancarrota",
+    "exampleEnglish": "The store filed for bankruptcy.",
+    "exampleSpanish": "La tienda se declaró en bancarrota.",
+    "level": "B1"
+  },
+  {
+    "english": "supply chain",
+    "spanish": "cadena de suministro",
+    "exampleEnglish": "The supply chain was affected by the storm.",
+    "exampleSpanish": "La cadena de suministro se vio afectada por la tormenta.",
+    "level": "B1"
+  },
+  {
+    "english": "logistics",
+    "spanish": "logística",
+    "exampleEnglish": "Logistics is a key part of this business.",
+    "exampleSpanish": "La logística es una parte clave de este negocio.",
+    "level": "B1"
+  },
+  {
+    "english": "curriculum",
+    "spanish": "plan de estudios",
+    "exampleEnglish": "The school updated its curriculum.",
+    "exampleSpanish": "La escuela actualizó su plan de estudios.",
+    "level": "B1"
+  },
+  {
+    "english": "assessment",
+    "spanish": "evaluación (académica)",
+    "exampleEnglish": "The final assessment includes an essay.",
+    "exampleSpanish": "La evaluación final incluye un ensayo.",
+    "level": "B1"
+  },
+  {
+    "english": "plagiarism",
+    "spanish": "plagio",
+    "exampleEnglish": "Plagiarism is not allowed at this university.",
+    "exampleSpanish": "El plagio no está permitido en esta universidad.",
+    "level": "B1"
+  },
+  {
+    "english": "thesis",
+    "spanish": "tesis",
+    "exampleEnglish": "She is writing her thesis this year.",
+    "exampleSpanish": "Ella está escribiendo su tesis este año.",
+    "level": "B1"
+  },
+  {
+    "english": "faculty",
+    "spanish": "facultad / profesorado",
+    "exampleEnglish": "The faculty voted on the new policy.",
+    "exampleSpanish": "El profesorado votó sobre la nueva política.",
+    "level": "B1"
+  },
+  {
+    "english": "tuition",
+    "spanish": "colegiatura",
+    "exampleEnglish": "Tuition increased again this semester.",
+    "exampleSpanish": "La colegiatura subió otra vez este semestre.",
+    "level": "B1"
+  },
+  {
+    "english": "literacy",
+    "spanish": "alfabetización",
+    "exampleEnglish": "The program improves adult literacy.",
+    "exampleSpanish": "El programa mejora la alfabetización de adultos.",
+    "level": "B1"
+  },
+  {
+    "english": "discipline",
+    "spanish": "disciplina",
+    "exampleEnglish": "History is an interesting discipline.",
+    "exampleSpanish": "La historia es una disciplina interesante.",
+    "level": "B1"
+  },
+  {
+    "english": "mentor",
+    "spanish": "mentor",
+    "exampleEnglish": "My mentor helped me choose a career.",
+    "exampleSpanish": "Mi mentor me ayudó a elegir una carrera.",
+    "level": "B1"
+  },
+  {
+    "english": "internship",
+    "spanish": "pasantía",
+    "exampleEnglish": "She did an internship at a law firm.",
+    "exampleSpanish": "Ella hizo una pasantía en un despacho de abogados.",
+    "level": "B1"
+  },
+  {
+    "english": "diagnosis",
+    "spanish": "diagnóstico",
+    "exampleEnglish": "The diagnosis was confirmed by two doctors.",
+    "exampleSpanish": "El diagnóstico fue confirmado por dos doctores.",
+    "level": "B1"
+  },
+  {
+    "english": "treatment",
+    "spanish": "tratamiento",
+    "exampleEnglish": "The treatment lasted six months.",
+    "exampleSpanish": "El tratamiento duró seis meses.",
+    "level": "B1"
+  },
+  {
+    "english": "surgery",
+    "spanish": "cirugía",
+    "exampleEnglish": "He needs surgery on his knee.",
+    "exampleSpanish": "Él necesita cirugía en la rodilla.",
+    "level": "B1"
+  },
+  {
+    "english": "recovery",
+    "spanish": "recuperación",
+    "exampleEnglish": "Her recovery went smoothly.",
+    "exampleSpanish": "Su recuperación fue sin complicaciones.",
+    "level": "B1"
+  },
+  {
+    "english": "symptom",
+    "spanish": "síntoma",
+    "exampleEnglish": "Fever is a common symptom of the flu.",
+    "exampleSpanish": "La fiebre es un síntoma común de la gripe.",
+    "level": "B1"
+  },
+  {
+    "english": "chronic",
+    "spanish": "crónico",
+    "exampleEnglish": "He has a chronic back problem.",
+    "exampleSpanish": "Él tiene un problema crónico de espalda.",
+    "level": "B1"
+  },
+  {
+    "english": "prevention",
+    "spanish": "prevención",
+    "exampleEnglish": "Prevention is better than cure.",
+    "exampleSpanish": "La prevención es mejor que la cura.",
+    "level": "B1"
+  },
+  {
+    "english": "immune system",
+    "spanish": "sistema inmunológico",
+    "exampleEnglish": "Exercise strengthens the immune system.",
+    "exampleSpanish": "El ejercicio fortalece el sistema inmunológico.",
+    "level": "B1"
+  },
+  {
+    "english": "infection",
+    "spanish": "infección",
+    "exampleEnglish": "The wound got infected.",
+    "exampleSpanish": "La herida se infectó.",
+    "level": "B1"
+  },
+  {
+    "english": "vaccine",
+    "spanish": "vacuna",
+    "exampleEnglish": "The vaccine is available at the clinic.",
+    "exampleSpanish": "La vacuna está disponible en la clínica.",
+    "level": "B1"
+  },
+  {
+    "english": "mental health",
+    "spanish": "salud mental",
+    "exampleEnglish": "Mental health is as important as physical health.",
+    "exampleSpanish": "La salud mental es tan importante como la física.",
+    "level": "B1"
+  },
+  {
+    "english": "therapy",
+    "spanish": "terapia",
+    "exampleEnglish": "She goes to therapy every week.",
+    "exampleSpanish": "Ella va a terapia todas las semanas.",
+    "level": "B1"
+  },
+  {
+    "english": "stress",
+    "spanish": "estrés",
+    "exampleEnglish": "Work stress affects many people.",
+    "exampleSpanish": "El estrés laboral afecta a mucha gente.",
+    "level": "B1"
+  },
+  {
+    "english": "anxiety",
+    "spanish": "ansiedad (condición)",
+    "exampleEnglish": "He struggles with anxiety sometimes.",
+    "exampleSpanish": "Él lucha con ansiedad a veces.",
+    "level": "B1"
+  },
+  {
+    "english": "wellbeing",
+    "spanish": "bienestar",
+    "exampleEnglish": "Sleep is important for your wellbeing.",
+    "exampleSpanish": "Dormir es importante para tu bienestar.",
+    "level": "B1"
+  },
+  {
+    "english": "perspective",
+    "spanish": "perspectiva",
+    "exampleEnglish": "Try to see it from her perspective.",
+    "exampleSpanish": "Trata de verlo desde su perspectiva.",
+    "level": "B1"
+  },
+  {
+    "english": "assumption",
+    "spanish": "suposición",
+    "exampleEnglish": "That's just an assumption, not a fact.",
+    "exampleSpanish": "Eso es solo una suposición, no un hecho.",
+    "level": "B1"
+  },
+  {
+    "english": "implication",
+    "spanish": "implicación",
+    "exampleEnglish": "The decision has serious implications.",
+    "exampleSpanish": "La decisión tiene implicaciones serias.",
+    "level": "B1"
+  },
+  {
+    "english": "consequence",
+    "spanish": "consecuencia",
+    "exampleEnglish": "Every choice has a consequence.",
+    "exampleSpanish": "Cada elección tiene una consecuencia.",
+    "level": "B1"
+  },
+  {
+    "english": "outcome",
+    "spanish": "resultado",
+    "exampleEnglish": "The outcome of the trial surprised everyone.",
+    "exampleSpanish": "El resultado del juicio sorprendió a todos.",
+    "level": "B1"
+  },
+  {
+    "english": "scenario",
+    "spanish": "escenario (situación)",
+    "exampleEnglish": "Let's consider a different scenario.",
+    "exampleSpanish": "Consideremos un escenario diferente.",
+    "level": "B1"
+  },
+  {
+    "english": "strategy",
+    "spanish": "estrategia",
+    "exampleEnglish": "We need a new marketing strategy.",
+    "exampleSpanish": "Necesitamos una nueva estrategia de marketing.",
+    "level": "B1"
+  },
+  {
+    "english": "approach",
+    "spanish": "enfoque",
+    "exampleEnglish": "This is a practical approach to the problem.",
+    "exampleSpanish": "Este es un enfoque práctico al problema.",
+    "level": "B1"
+  },
+  {
+    "english": "priority",
+    "spanish": "prioridad",
+    "exampleEnglish": "Family is my top priority.",
+    "exampleSpanish": "La familia es mi principal prioridad.",
+    "level": "B1"
+  },
+  {
+    "english": "obstacle",
+    "spanish": "obstáculo",
+    "exampleEnglish": "We overcame many obstacles.",
+    "exampleSpanish": "Superamos muchos obstáculos.",
+    "level": "B1"
+  },
+  {
+    "english": "challenge",
+    "spanish": "desafío",
+    "exampleEnglish": "This project is a big challenge.",
+    "exampleSpanish": "Este proyecto es un gran desafío.",
+    "level": "B1"
+  },
+  {
+    "english": "opportunity",
+    "spanish": "oportunidad",
+    "exampleEnglish": "This is a great opportunity for growth.",
+    "exampleSpanish": "Esta es una gran oportunidad de crecimiento.",
+    "level": "B1"
+  },
+  {
+    "english": "advantage",
+    "spanish": "ventaja",
+    "exampleEnglish": "Speaking two languages is an advantage.",
+    "exampleSpanish": "Hablar dos idiomas es una ventaja.",
+    "level": "B1"
+  },
+  {
+    "english": "disadvantage",
+    "spanish": "desventaja",
+    "exampleEnglish": "The main disadvantage is the price.",
+    "exampleSpanish": "La principal desventaja es el precio.",
+    "level": "B1"
+  },
+  {
+    "english": "benefit",
+    "spanish": "beneficio",
+    "exampleEnglish": "This job has great benefits.",
+    "exampleSpanish": "Este trabajo tiene grandes beneficios.",
+    "level": "B1"
+  },
+  {
+    "english": "drawback",
+    "spanish": "inconveniente",
+    "exampleEnglish": "The only drawback is the long commute.",
+    "exampleSpanish": "El único inconveniente es el traslado largo.",
+    "level": "B1"
+  },
+  {
+    "english": "factor",
+    "spanish": "factor",
+    "exampleEnglish": "Price is an important factor.",
+    "exampleSpanish": "El precio es un factor importante.",
+    "level": "B1"
+  },
+  {
+    "english": "trend",
+    "spanish": "tendencia",
+    "exampleEnglish": "This is a growing trend in fashion.",
+    "exampleSpanish": "Esta es una tendencia creciente en la moda.",
+    "level": "B1"
+  },
+  {
+    "english": "pattern",
+    "spanish": "patrón",
+    "exampleEnglish": "There's a clear pattern in the data.",
+    "exampleSpanish": "Hay un patrón claro en los datos.",
+    "level": "B1"
+  },
+  {
+    "english": "phenomenon",
+    "spanish": "fenómeno",
+    "exampleEnglish": "It's an interesting social phenomenon.",
+    "exampleSpanish": "Es un fenómeno social interesante.",
+    "level": "B1"
+  },
+  {
+    "english": "statistic",
+    "spanish": "estadística",
+    "exampleEnglish": "The statistics show a big improvement.",
+    "exampleSpanish": "Las estadísticas muestran una gran mejora.",
+    "level": "B1"
+  },
+  {
+    "english": "proportion",
+    "spanish": "proporción",
+    "exampleEnglish": "A large proportion of students passed.",
+    "exampleSpanish": "Una gran proporción de estudiantes aprobó.",
+    "level": "B1"
+  },
+  {
+    "english": "majority",
+    "spanish": "mayoría",
+    "exampleEnglish": "The majority voted in favor.",
+    "exampleSpanish": "La mayoría votó a favor.",
+    "level": "B1"
+  },
+  {
+    "english": "minority",
+    "spanish": "minoría",
+    "exampleEnglish": "Only a minority disagreed.",
+    "exampleSpanish": "Solo una minoría estuvo en desacuerdo.",
+    "level": "B1"
+  },
+  {
+    "english": "criteria",
+    "spanish": "criterios",
+    "exampleEnglish": "The criteria for selection are strict.",
+    "exampleSpanish": "Los criterios de selección son estrictos.",
+    "level": "B1"
+  },
+  {
+    "english": "standard",
+    "spanish": "estándar",
+    "exampleEnglish": "This product meets high standards.",
+    "exampleSpanish": "Este producto cumple con altos estándares.",
+    "level": "B1"
+  },
+  {
+    "english": "requirement",
+    "spanish": "requisito",
+    "exampleEnglish": "There are three requirements for this job.",
+    "exampleSpanish": "Hay tres requisitos para este trabajo.",
+    "level": "B1"
+  },
+  {
+    "english": "condition",
+    "spanish": "condición",
+    "exampleEnglish": "The offer has some conditions.",
+    "exampleSpanish": "La oferta tiene algunas condiciones.",
+    "level": "B1"
+  },
+  {
+    "english": "constraint",
+    "spanish": "restricción / limitación",
+    "exampleEnglish": "We have to work within a budget constraint.",
+    "exampleSpanish": "Tenemos que trabajar bajo una restricción de presupuesto.",
+    "level": "B1"
+  },
+  {
+    "english": "resource",
+    "spanish": "recurso",
+    "exampleEnglish": "We don't have enough resources.",
+    "exampleSpanish": "No tenemos suficientes recursos.",
+    "level": "B1"
+  },
+  {
+    "english": "adapt",
+    "spanish": "adaptarse",
+    "exampleEnglish": "It took time to adapt to the new country.",
+    "exampleSpanish": "Tomó tiempo adaptarse al nuevo país.",
+    "level": "B1"
+  },
+  {
+    "english": "adjust",
+    "spanish": "ajustar / ajustarse",
+    "exampleEnglish": "You'll adjust to the schedule soon.",
+    "exampleSpanish": "Te adaptarás al horario pronto.",
+    "level": "B1"
+  },
+  {
+    "english": "cope with",
+    "spanish": "sobrellevar",
+    "exampleEnglish": "She copes with stress by exercising.",
+    "exampleSpanish": "Ella sobrelleva el estrés haciendo ejercicio.",
+    "level": "B1"
+  },
+  {
+    "english": "tackle",
+    "spanish": "abordar (un problema)",
+    "exampleEnglish": "We need to tackle this issue now.",
+    "exampleSpanish": "Necesitamos abordar este problema ahora.",
+    "level": "B1"
+  },
+  {
+    "english": "address",
+    "spanish": "abordar / dirigirse a",
+    "exampleEnglish": "The speech addressed climate change.",
+    "exampleSpanish": "El discurso abordó el cambio climático.",
+    "level": "B1"
+  },
+  {
+    "english": "resolve",
+    "spanish": "resolver",
+    "exampleEnglish": "They resolved the conflict peacefully.",
+    "exampleSpanish": "Resolvieron el conflicto pacíficamente.",
+    "level": "B1"
+  },
+  {
+    "english": "prevent",
+    "spanish": "prevenir",
+    "exampleEnglish": "This can prevent future problems.",
+    "exampleSpanish": "Esto puede prevenir problemas futuros.",
+    "level": "B1"
+  },
+  {
+    "english": "avoid",
+    "spanish": "evitar",
+    "exampleEnglish": "Try to avoid unnecessary stress.",
+    "exampleSpanish": "Trata de evitar el estrés innecesario.",
+    "level": "B1"
+  },
+  {
+    "english": "reduce",
+    "spanish": "reducir",
+    "exampleEnglish": "We need to reduce our expenses.",
+    "exampleSpanish": "Necesitamos reducir nuestros gastos.",
+    "level": "B1"
+  },
+  {
+    "english": "increase",
+    "spanish": "aumentar",
+    "exampleEnglish": "Sales increased by twenty percent.",
+    "exampleSpanish": "Las ventas aumentaron un veinte por ciento.",
+    "level": "B1"
+  },
+  {
+    "english": "maintain",
+    "spanish": "mantener",
+    "exampleEnglish": "It's hard to maintain this pace.",
+    "exampleSpanish": "Es difícil mantener este ritmo.",
+    "level": "B1"
+  },
+  {
+    "english": "sustain",
+    "spanish": "sostener / mantener",
+    "exampleEnglish": "The economy can't sustain this growth.",
+    "exampleSpanish": "La economía no puede sostener este crecimiento.",
+    "level": "B1"
+  },
+  {
+    "english": "enhance",
+    "spanish": "mejorar / potenciar",
+    "exampleEnglish": "This will enhance our performance.",
+    "exampleSpanish": "Esto mejorará nuestro rendimiento.",
+    "level": "B1"
+  },
+  {
+    "english": "boost",
+    "spanish": "impulsar",
+    "exampleEnglish": "The campaign boosted sales significantly.",
+    "exampleSpanish": "La campaña impulsó las ventas significativamente.",
+    "level": "B1"
+  },
+  {
+    "english": "decline",
+    "spanish": "disminuir / declinar",
+    "exampleEnglish": "Sales declined after the holidays.",
+    "exampleSpanish": "Las ventas disminuyeron después de las fiestas.",
+    "level": "B1"
+  },
+  {
+    "english": "collapse",
+    "spanish": "colapsar",
+    "exampleEnglish": "The market collapsed suddenly.",
+    "exampleSpanish": "El mercado colapsó repentinamente.",
+    "level": "B1"
+  },
+  {
+    "english": "recover",
+    "spanish": "recuperarse",
+    "exampleEnglish": "The economy is starting to recover.",
+    "exampleSpanish": "La economía está empezando a recuperarse.",
+    "level": "B1"
+  },
+  {
+    "english": "expand",
+    "spanish": "expandir",
+    "exampleEnglish": "The company plans to expand overseas.",
+    "exampleSpanish": "La empresa planea expandirse al extranjero.",
+    "level": "B1"
+  },
+  {
+    "english": "shrink",
+    "spanish": "reducirse / encogerse",
+    "exampleEnglish": "The market share is shrinking.",
+    "exampleSpanish": "La cuota de mercado se está reduciendo.",
+    "level": "B1"
+  },
+  {
+    "english": "fluctuate",
+    "spanish": "fluctuar",
+    "exampleEnglish": "Prices fluctuate depending on demand.",
+    "exampleSpanish": "Los precios fluctúan según la demanda.",
+    "level": "B1"
+  },
+  {
+    "english": "emerge",
+    "spanish": "surgir",
+    "exampleEnglish": "New challenges emerged during the project.",
+    "exampleSpanish": "Surgieron nuevos desafíos durante el proyecto.",
+    "level": "B1"
+  },
+  {
+    "english": "evolve",
+    "spanish": "evolucionar",
+    "exampleEnglish": "Technology continues to evolve rapidly.",
+    "exampleSpanish": "La tecnología sigue evolucionando rápidamente.",
+    "level": "B1"
+  },
+  {
+    "english": "integrate",
+    "spanish": "integrar",
+    "exampleEnglish": "We need to integrate these two systems.",
+    "exampleSpanish": "Necesitamos integrar estos dos sistemas.",
+    "level": "B1"
+  },
+  {
+    "english": "implement",
+    "spanish": "implementar",
+    "exampleEnglish": "The company implemented a new policy.",
+    "exampleSpanish": "La empresa implementó una nueva política.",
+    "level": "B1"
+  },
+  {
+    "english": "establish",
+    "spanish": "establecer",
+    "exampleEnglish": "They established the company in 2010.",
+    "exampleSpanish": "Establecieron la empresa en 2010.",
+    "level": "B1"
+  },
+  {
+    "english": "eliminate",
+    "spanish": "eliminar",
+    "exampleEnglish": "We eliminated unnecessary steps.",
+    "exampleSpanish": "Eliminamos pasos innecesarios.",
+    "level": "B1"
+  },
+  {
+    "english": "minimize",
+    "spanish": "minimizar",
+    "exampleEnglish": "We want to minimize the risks.",
+    "exampleSpanish": "Queremos minimizar los riesgos.",
+    "level": "B1"
+  },
+  {
+    "english": "maximize",
+    "spanish": "maximizar",
+    "exampleEnglish": "The goal is to maximize profits.",
+    "exampleSpanish": "El objetivo es maximizar las ganancias.",
+    "level": "B1"
+  },
+  {
+    "english": "distribute",
+    "spanish": "distribuir",
+    "exampleEnglish": "They distribute food to shelters.",
+    "exampleSpanish": "Distribuyen comida a los refugios.",
+    "level": "B1"
+  },
+  {
+    "english": "allocate",
+    "spanish": "asignar (recursos)",
+    "exampleEnglish": "We need to allocate more budget to this.",
+    "exampleSpanish": "Necesitamos asignar más presupuesto a esto.",
+    "level": "B1"
+  },
+  {
+    "english": "beneficial",
+    "spanish": "beneficioso",
+    "exampleEnglish": "Exercise is beneficial for your health.",
+    "exampleSpanish": "El ejercicio es beneficioso para tu salud.",
+    "level": "B1"
+  },
+  {
+    "english": "detrimental",
+    "spanish": "perjudicial",
+    "exampleEnglish": "Smoking is detrimental to your health.",
+    "exampleSpanish": "Fumar es perjudicial para tu salud.",
+    "level": "B1"
+  },
+  {
+    "english": "substantial",
+    "spanish": "sustancial",
+    "exampleEnglish": "There was a substantial increase in sales.",
+    "exampleSpanish": "Hubo un aumento sustancial en las ventas.",
+    "level": "B1"
+  },
+  {
+    "english": "negligible",
+    "spanish": "insignificante",
+    "exampleEnglish": "The difference was negligible.",
+    "exampleSpanish": "La diferencia fue insignificante.",
+    "level": "B1"
+  },
+  {
+    "english": "comprehensive",
+    "spanish": "integral / completo",
+    "exampleEnglish": "We need a comprehensive plan.",
+    "exampleSpanish": "Necesitamos un plan integral.",
+    "level": "B1"
+  },
+  {
+    "english": "thorough",
+    "spanish": "meticuloso",
+    "exampleEnglish": "She did a thorough investigation.",
+    "exampleSpanish": "Ella hizo una investigación meticulosa.",
+    "level": "B1"
+  },
+  {
+    "english": "versatile",
+    "spanish": "versátil",
+    "exampleEnglish": "This tool is very versatile.",
+    "exampleSpanish": "Esta herramienta es muy versátil.",
+    "level": "B1"
+  },
+  {
+    "english": "innovative",
+    "spanish": "innovador",
+    "exampleEnglish": "They came up with an innovative solution.",
+    "exampleSpanish": "Ellos propusieron una solución innovadora.",
+    "level": "B1"
+  },
+  {
+    "english": "outdated",
+    "spanish": "desactualizado",
+    "exampleEnglish": "This software is outdated.",
+    "exampleSpanish": "Este software está desactualizado.",
+    "level": "B1"
+  },
+  {
+    "english": "cutting-edge",
+    "spanish": "de vanguardia",
+    "exampleEnglish": "They use cutting-edge technology.",
+    "exampleSpanish": "Usan tecnología de vanguardia.",
+    "level": "B1"
+  },
+  {
+    "english": "mainstream",
+    "spanish": "convencional / predominante",
+    "exampleEnglish": "This idea is now mainstream.",
+    "exampleSpanish": "Esta idea ahora es convencional.",
+    "level": "B1"
+  },
+  {
+    "english": "niche",
+    "spanish": "nicho (especializado)",
+    "exampleEnglish": "They sell products for a niche market.",
+    "exampleSpanish": "Venden productos para un mercado de nicho.",
+    "level": "B1"
+  },
+  {
+    "english": "widespread",
+    "spanish": "generalizado",
+    "exampleEnglish": "The problem is widespread across the industry.",
+    "exampleSpanish": "El problema está generalizado en la industria.",
+    "level": "B1"
+  },
+  {
+    "english": "scarce",
+    "spanish": "escaso",
+    "exampleEnglish": "Resources are becoming scarce.",
+    "exampleSpanish": "Los recursos se están volviendo escasos.",
+    "level": "B1"
+  },
+  {
+    "english": "abundant",
+    "spanish": "abundante",
+    "exampleEnglish": "Water is abundant in this region.",
+    "exampleSpanish": "El agua es abundante en esta región.",
+    "level": "B1"
+  },
+  {
+    "english": "feasible",
+    "spanish": "factible",
+    "exampleEnglish": "The plan is not feasible right now.",
+    "exampleSpanish": "El plan no es factible en este momento.",
+    "level": "B1"
+  },
+  {
+    "english": "viable",
+    "spanish": "viable",
+    "exampleEnglish": "This is not a viable option.",
+    "exampleSpanish": "Esta no es una opción viable.",
+    "level": "B1"
+  },
+  {
+    "english": "legitimate",
+    "spanish": "legítimo",
+    "exampleEnglish": "It's a legitimate concern.",
+    "exampleSpanish": "Es una preocupación legítima.",
+    "level": "B1"
+  },
+  {
+    "english": "ethical",
+    "spanish": "ético",
+    "exampleEnglish": "The company follows ethical practices.",
+    "exampleSpanish": "La empresa sigue prácticas éticas.",
+    "level": "B1"
+  },
+  {
+    "english": "controversial",
+    "spanish": "polémico",
+    "exampleEnglish": "It's a controversial decision.",
+    "exampleSpanish": "Es una decisión polémica.",
+    "level": "B1"
+  },
+  {
+    "english": "transparent",
+    "spanish": "transparente",
+    "exampleEnglish": "The government promised to be transparent.",
+    "exampleSpanish": "El gobierno prometió ser transparente.",
+    "level": "B1"
+  },
+  {
+    "english": "accountable",
+    "spanish": "responsable ante otros",
+    "exampleEnglish": "Leaders should be accountable for their actions.",
+    "exampleSpanish": "Los líderes deben ser responsables ante otros por sus acciones.",
+    "level": "B1"
+  },
+  {
+    "english": "diverse",
+    "spanish": "diverso",
+    "exampleEnglish": "The team has a diverse background.",
+    "exampleSpanish": "El equipo tiene un trasfondo diverso.",
+    "level": "B1"
+  },
+  {
+    "english": "inclusive",
+    "spanish": "inclusivo",
+    "exampleEnglish": "We want an inclusive workplace.",
+    "exampleSpanish": "Queremos un lugar de trabajo inclusivo.",
+    "level": "B1"
+  },
+  {
+    "english": "gradual",
+    "spanish": "gradual",
+    "exampleEnglish": "The change was gradual, not sudden.",
+    "exampleSpanish": "El cambio fue gradual, no repentino.",
+    "level": "B1"
+  },
+  {
+    "english": "abrupt",
+    "spanish": "abrupto",
+    "exampleEnglish": "The meeting ended abruptly.",
+    "exampleSpanish": "La reunión terminó abruptamente.",
+    "level": "B1"
+  },
+  {
+    "english": "temporary",
+    "spanish": "temporal",
+    "exampleEnglish": "This is just a temporary solution.",
+    "exampleSpanish": "Esta es solo una solución temporal.",
+    "level": "B1"
+  },
+  {
+    "english": "permanent",
+    "spanish": "permanente",
+    "exampleEnglish": "The change is permanent this time.",
+    "exampleSpanish": "El cambio es permanente esta vez.",
+    "level": "B1"
+  },
+  {
+    "english": "mutual",
+    "spanish": "mutuo",
+    "exampleEnglish": "They have mutual respect for each other.",
+    "exampleSpanish": "Se tienen respeto mutuo.",
+    "level": "B1"
+  },
+  {
+    "english": "reciprocal",
+    "spanish": "recíproco",
+    "exampleEnglish": "Trust should be reciprocal.",
+    "exampleSpanish": "La confianza debería ser recíproca.",
+    "level": "B1"
+  },
+  {
+    "english": "in terms of",
+    "spanish": "en términos de",
+    "exampleEnglish": "In terms of price, this option is better.",
+    "exampleSpanish": "En términos de precio, esta opción es mejor.",
+    "level": "B1"
+  },
+  {
+    "english": "as a result",
+    "spanish": "como resultado",
+    "exampleEnglish": "As a result, sales increased.",
+    "exampleSpanish": "Como resultado, las ventas aumentaron.",
+    "level": "B1"
+  },
+  {
+    "english": "on the other hand",
+    "spanish": "por otro lado",
+    "exampleEnglish": "On the other hand, it is more expensive.",
+    "exampleSpanish": "Por otro lado, es más caro.",
+    "level": "B1"
+  },
+  {
+    "english": "in other words",
+    "spanish": "en otras palabras",
+    "exampleEnglish": "In other words, we need more time.",
+    "exampleSpanish": "En otras palabras, necesitamos más tiempo.",
+    "level": "B1"
+  },
+  {
+    "english": "for instance",
+    "spanish": "por ejemplo",
+    "exampleEnglish": "For instance, look at last year's data.",
+    "exampleSpanish": "Por ejemplo, mira los datos del año pasado.",
+    "level": "B1"
+  },
+  {
+    "english": "to sum up",
+    "spanish": "en resumen",
+    "exampleEnglish": "To sum up, the project was a success.",
+    "exampleSpanish": "En resumen, el proyecto fue un éxito.",
+    "level": "B1"
+  },
+  {
+    "english": "in relation to",
+    "spanish": "en relación con",
+    "exampleEnglish": "In relation to the budget, we are on track.",
+    "exampleSpanish": "En relación con el presupuesto, vamos bien.",
+    "level": "B1"
+  },
+  {
+    "english": "given that",
+    "spanish": "dado que",
+    "exampleEnglish": "Given that it's raining, let's stay inside.",
+    "exampleSpanish": "Dado que está lloviendo, quedémonos adentro.",
+    "level": "B1"
+  },
+  {
+    "english": "provided that",
+    "spanish": "siempre que",
+    "exampleEnglish": "You can go, provided that you finish first.",
+    "exampleSpanish": "Puedes ir, siempre que termines primero.",
+    "level": "B1"
+  },
+  {
+    "english": "as long as",
+    "spanish": "mientras / con tal de que",
+    "exampleEnglish": "You can stay as long as you like.",
+    "exampleSpanish": "Puedes quedarte con tal de que quieras.",
+    "level": "B1"
+  },
+  {
+    "english": "in spite of",
+    "spanish": "a pesar de",
+    "exampleEnglish": "In spite of the rain, we enjoyed the trip.",
+    "exampleSpanish": "A pesar de la lluvia, disfrutamos el viaje.",
+    "level": "B1"
+  },
+  {
+    "english": "in the meantime",
+    "spanish": "mientras tanto",
+    "exampleEnglish": "In the meantime, let's prepare the documents.",
+    "exampleSpanish": "Mientras tanto, preparemos los documentos.",
+    "level": "B1"
+  },
+  {
+    "english": "on top of that",
+    "spanish": "además de eso",
+    "exampleEnglish": "On top of that, he was late too.",
+    "exampleSpanish": "Además de eso, él también llegó tarde.",
+    "level": "B1"
+  },
+  {
+    "english": "as far as I know",
+    "spanish": "que yo sepa",
+    "exampleEnglish": "As far as I know, the store is open.",
+    "exampleSpanish": "Que yo sepa, la tienda está abierta.",
+    "level": "B1"
+  },
+  {
+    "english": "to some extent",
+    "spanish": "hasta cierto punto",
+    "exampleEnglish": "To some extent, I agree with you.",
+    "exampleSpanish": "Hasta cierto punto, estoy de acuerdo contigo.",
+    "level": "B1"
+  }
+]
