@@ -1,0 +1,1304 @@
+[
+  {
+    "english": "give up",
+    "spanish": "rendirse",
+    "exampleEnglish": "Don't give up on your dreams.",
+    "exampleSpanish": "No te rindas con tus sueños.",
+    "level": "A4"
+  },
+  {
+    "english": "find out",
+    "spanish": "descubrir",
+    "exampleEnglish": "I found out the truth yesterday.",
+    "exampleSpanish": "Descubrí la verdad ayer.",
+    "level": "A4"
+  },
+  {
+    "english": "figure out",
+    "spanish": "resolver / entender",
+    "exampleEnglish": "I can't figure out this problem.",
+    "exampleSpanish": "No puedo resolver este problema.",
+    "level": "A4"
+  },
+  {
+    "english": "get along",
+    "spanish": "llevarse bien",
+    "exampleEnglish": "We get along very well.",
+    "exampleSpanish": "Nos llevamos muy bien.",
+    "level": "A4"
+  },
+  {
+    "english": "look forward to",
+    "spanish": "esperar con ansias",
+    "exampleEnglish": "I look forward to seeing you.",
+    "exampleSpanish": "Espero con ansias verte.",
+    "level": "A4"
+  },
+  {
+    "english": "put off",
+    "spanish": "posponer",
+    "exampleEnglish": "We had to put off the meeting.",
+    "exampleSpanish": "Tuvimos que posponer la reunión.",
+    "level": "A4"
+  },
+  {
+    "english": "run out of",
+    "spanish": "quedarse sin",
+    "exampleEnglish": "We ran out of milk this morning.",
+    "exampleSpanish": "Nos quedamos sin leche esta mañana.",
+    "level": "A4"
+  },
+  {
+    "english": "set up",
+    "spanish": "establecer / instalar",
+    "exampleEnglish": "They set up a new office downtown.",
+    "exampleSpanish": "Establecieron una nueva oficina en el centro.",
+    "level": "A4"
+  },
+  {
+    "english": "show up",
+    "spanish": "aparecer / llegar",
+    "exampleEnglish": "He showed up late to the party.",
+    "exampleSpanish": "Él llegó tarde a la fiesta.",
+    "level": "A4"
+  },
+  {
+    "english": "turn down",
+    "spanish": "rechazar",
+    "exampleEnglish": "She turned down the job offer.",
+    "exampleSpanish": "Ella rechazó la oferta de trabajo.",
+    "level": "A4"
+  },
+  {
+    "english": "carry out",
+    "spanish": "llevar a cabo",
+    "exampleEnglish": "They carried out the plan successfully.",
+    "exampleSpanish": "Llevaron a cabo el plan con éxito.",
+    "level": "A4"
+  },
+  {
+    "english": "come up with",
+    "spanish": "idear / proponer",
+    "exampleEnglish": "He came up with a great idea.",
+    "exampleSpanish": "Él ideó una gran idea.",
+    "level": "A4"
+  },
+  {
+    "english": "deal with",
+    "spanish": "lidiar con",
+    "exampleEnglish": "I need to deal with this problem.",
+    "exampleSpanish": "Necesito lidiar con este problema.",
+    "level": "A4"
+  },
+  {
+    "english": "end up",
+    "spanish": "terminar (por resultar)",
+    "exampleEnglish": "We ended up staying home.",
+    "exampleSpanish": "Terminamos quedándonos en casa.",
+    "level": "A4"
+  },
+  {
+    "english": "get over",
+    "spanish": "superar",
+    "exampleEnglish": "It took her months to get over the loss.",
+    "exampleSpanish": "Le tomó meses superar la pérdida.",
+    "level": "A4"
+  },
+  {
+    "english": "hold on",
+    "spanish": "esperar un momento",
+    "exampleEnglish": "Hold on, I'll be right there.",
+    "exampleSpanish": "Espera un momento, ya voy.",
+    "level": "A4"
+  },
+  {
+    "english": "keep up with",
+    "spanish": "mantener el ritmo de",
+    "exampleEnglish": "It's hard to keep up with the news.",
+    "exampleSpanish": "Es difícil mantener el ritmo de las noticias.",
+    "level": "A4"
+  },
+  {
+    "english": "point out",
+    "spanish": "señalar",
+    "exampleEnglish": "She pointed out a mistake in the report.",
+    "exampleSpanish": "Ella señaló un error en el reporte.",
+    "level": "A4"
+  },
+  {
+    "english": "put up with",
+    "spanish": "aguantar / tolerar",
+    "exampleEnglish": "I can't put up with this noise anymore.",
+    "exampleSpanish": "Ya no puedo aguantar este ruido.",
+    "level": "A4"
+  },
+  {
+    "english": "take over",
+    "spanish": "hacerse cargo",
+    "exampleEnglish": "He took over the family business.",
+    "exampleSpanish": "Él se hizo cargo del negocio familiar.",
+    "level": "A4"
+  },
+  {
+    "english": "work out",
+    "spanish": "resultar bien / ejercitarse",
+    "exampleEnglish": "Everything worked out in the end.",
+    "exampleSpanish": "Todo resultó bien al final.",
+    "level": "A4"
+  },
+  {
+    "english": "bring up",
+    "spanish": "mencionar / criar",
+    "exampleEnglish": "She brought up an interesting point.",
+    "exampleSpanish": "Ella mencionó un punto interesante.",
+    "level": "A4"
+  },
+  {
+    "english": "break down",
+    "spanish": "descomponerse / desglosar",
+    "exampleEnglish": "My car broke down on the highway.",
+    "exampleSpanish": "Mi carro se descompuso en la carretera.",
+    "level": "A4"
+  },
+  {
+    "english": "check out",
+    "spanish": "revisar / registrarse",
+    "exampleEnglish": "You should check out this new restaurant.",
+    "exampleSpanish": "Deberías revisar este restaurante nuevo.",
+    "level": "A4"
+  },
+  {
+    "english": "cut down on",
+    "spanish": "reducir",
+    "exampleEnglish": "I'm trying to cut down on sugar.",
+    "exampleSpanish": "Estoy tratando de reducir el azúcar.",
+    "level": "A4"
+  },
+  {
+    "english": "fill out",
+    "spanish": "llenar (formulario)",
+    "exampleEnglish": "Please fill out this form.",
+    "exampleSpanish": "Por favor llena este formulario.",
+    "level": "A4"
+  },
+  {
+    "english": "hang out",
+    "spanish": "pasar el rato",
+    "exampleEnglish": "We hung out at the park all afternoon.",
+    "exampleSpanish": "Pasamos el rato en el parque toda la tarde.",
+    "level": "A4"
+  },
+  {
+    "english": "look into",
+    "spanish": "investigar",
+    "exampleEnglish": "The police are looking into the case.",
+    "exampleSpanish": "La policía está investigando el caso.",
+    "level": "A4"
+  },
+  {
+    "english": "pass away",
+    "spanish": "fallecer",
+    "exampleEnglish": "Her grandfather passed away last year.",
+    "exampleSpanish": "Su abuelo falleció el año pasado.",
+    "level": "A4"
+  },
+  {
+    "english": "stand out",
+    "spanish": "destacar",
+    "exampleEnglish": "Her work really stands out.",
+    "exampleSpanish": "Su trabajo realmente destaca.",
+    "level": "A4"
+  },
+  {
+    "english": "society",
+    "spanish": "sociedad",
+    "exampleEnglish": "Technology has changed society a lot.",
+    "exampleSpanish": "La tecnología ha cambiado mucho la sociedad.",
+    "level": "A4"
+  },
+  {
+    "english": "community",
+    "spanish": "comunidad",
+    "exampleEnglish": "The community organized a fundraiser.",
+    "exampleSpanish": "La comunidad organizó una recaudación de fondos.",
+    "level": "A4"
+  },
+  {
+    "english": "culture",
+    "spanish": "cultura",
+    "exampleEnglish": "Every country has a unique culture.",
+    "exampleSpanish": "Cada país tiene una cultura única.",
+    "level": "A4"
+  },
+  {
+    "english": "tradition",
+    "spanish": "tradición",
+    "exampleEnglish": "This festival is an old tradition.",
+    "exampleSpanish": "Este festival es una tradición antigua.",
+    "level": "A4"
+  },
+  {
+    "english": "value",
+    "spanish": "valor (principio)",
+    "exampleEnglish": "Honesty is one of my core values.",
+    "exampleSpanish": "La honestidad es uno de mis valores principales.",
+    "level": "A4"
+  },
+  {
+    "english": "belief",
+    "spanish": "creencia",
+    "exampleEnglish": "Everyone has different beliefs.",
+    "exampleSpanish": "Cada quien tiene creencias diferentes.",
+    "level": "A4"
+  },
+  {
+    "english": "identity",
+    "spanish": "identidad",
+    "exampleEnglish": "Language is part of our identity.",
+    "exampleSpanish": "El idioma es parte de nuestra identidad.",
+    "level": "A4"
+  },
+  {
+    "english": "diversity",
+    "spanish": "diversidad",
+    "exampleEnglish": "This city is known for its diversity.",
+    "exampleSpanish": "Esta ciudad es conocida por su diversidad.",
+    "level": "A4"
+  },
+  {
+    "english": "equality",
+    "spanish": "igualdad",
+    "exampleEnglish": "They fight for equality every day.",
+    "exampleSpanish": "Ellos luchan por la igualdad todos los días.",
+    "level": "A4"
+  },
+  {
+    "english": "justice",
+    "spanish": "justicia",
+    "exampleEnglish": "The victim finally got justice.",
+    "exampleSpanish": "La víctima finalmente obtuvo justicia.",
+    "level": "A4"
+  },
+  {
+    "english": "freedom",
+    "spanish": "libertad",
+    "exampleEnglish": "Freedom of speech is important.",
+    "exampleSpanish": "La libertad de expresión es importante.",
+    "level": "A4"
+  },
+  {
+    "english": "responsibility",
+    "spanish": "responsabilidad",
+    "exampleEnglish": "It's your responsibility to finish this.",
+    "exampleSpanish": "Es tu responsabilidad terminar esto.",
+    "level": "A4"
+  },
+  {
+    "english": "privilege",
+    "spanish": "privilegio",
+    "exampleEnglish": "Education is a privilege for some people.",
+    "exampleSpanish": "La educación es un privilegio para algunas personas.",
+    "level": "A4"
+  },
+  {
+    "english": "poverty",
+    "spanish": "pobreza",
+    "exampleEnglish": "The city is trying to reduce poverty.",
+    "exampleSpanish": "La ciudad está tratando de reducir la pobreza.",
+    "level": "A4"
+  },
+  {
+    "english": "wealth",
+    "spanish": "riqueza",
+    "exampleEnglish": "He built his wealth from scratch.",
+    "exampleSpanish": "Él construyó su riqueza desde cero.",
+    "level": "A4"
+  },
+  {
+    "english": "generation",
+    "spanish": "generación",
+    "exampleEnglish": "This generation grew up with the internet.",
+    "exampleSpanish": "Esta generación creció con el internet.",
+    "level": "A4"
+  },
+  {
+    "english": "population",
+    "spanish": "población",
+    "exampleEnglish": "The population of this city keeps growing.",
+    "exampleSpanish": "La población de esta ciudad sigue creciendo.",
+    "level": "A4"
+  },
+  {
+    "english": "immigration",
+    "spanish": "inmigración",
+    "exampleEnglish": "Immigration is a common topic in the news.",
+    "exampleSpanish": "La inmigración es un tema común en las noticias.",
+    "level": "A4"
+  },
+  {
+    "english": "citizen",
+    "spanish": "ciudadano",
+    "exampleEnglish": "Every citizen has the right to vote.",
+    "exampleSpanish": "Todo ciudadano tiene derecho a votar.",
+    "level": "A4"
+  },
+  {
+    "english": "government",
+    "spanish": "gobierno",
+    "exampleEnglish": "The government announced new policies.",
+    "exampleSpanish": "El gobierno anunció nuevas políticas.",
+    "level": "A4"
+  },
+  {
+    "english": "law",
+    "spanish": "ley",
+    "exampleEnglish": "This law protects workers' rights.",
+    "exampleSpanish": "Esta ley protege los derechos de los trabajadores.",
+    "level": "A4"
+  },
+  {
+    "english": "crime",
+    "spanish": "crimen",
+    "exampleEnglish": "Crime rates dropped this year.",
+    "exampleSpanish": "Las tasas de crimen bajaron este año.",
+    "level": "A4"
+  },
+  {
+    "english": "court",
+    "spanish": "tribunal / corte",
+    "exampleEnglish": "The case went to court.",
+    "exampleSpanish": "El caso fue a corte.",
+    "level": "A4"
+  },
+  {
+    "english": "evidence",
+    "spanish": "evidencia (legal)",
+    "exampleEnglish": "The lawyer presented strong evidence.",
+    "exampleSpanish": "El abogado presentó evidencia sólida.",
+    "level": "A4"
+  },
+  {
+    "english": "witness",
+    "spanish": "testigo",
+    "exampleEnglish": "The witness described what happened.",
+    "exampleSpanish": "El testigo describió lo que pasó.",
+    "level": "A4"
+  },
+  {
+    "english": "jury",
+    "spanish": "jurado",
+    "exampleEnglish": "The jury reached a decision.",
+    "exampleSpanish": "El jurado llegó a una decisión.",
+    "level": "A4"
+  },
+  {
+    "english": "verdict",
+    "spanish": "veredicto",
+    "exampleEnglish": "The jury announced the verdict.",
+    "exampleSpanish": "El jurado anunció el veredicto.",
+    "level": "A4"
+  },
+  {
+    "english": "policy",
+    "spanish": "política (medida)",
+    "exampleEnglish": "The company changed its policy.",
+    "exampleSpanish": "La empresa cambió su política.",
+    "level": "A4"
+  },
+  {
+    "english": "election",
+    "spanish": "elección",
+    "exampleEnglish": "The election will be held in June.",
+    "exampleSpanish": "La elección se llevará a cabo en junio.",
+    "level": "A4"
+  },
+  {
+    "english": "vote",
+    "spanish": "votar / voto",
+    "exampleEnglish": "I always vote in elections.",
+    "exampleSpanish": "Siempre voto en las elecciones.",
+    "level": "A4"
+  },
+  {
+    "english": "research",
+    "spanish": "investigación",
+    "exampleEnglish": "This research took years to complete.",
+    "exampleSpanish": "Esta investigación tomó años en completarse.",
+    "level": "A4"
+  },
+  {
+    "english": "experiment",
+    "spanish": "experimento",
+    "exampleEnglish": "The scientist ran a new experiment.",
+    "exampleSpanish": "El científico hizo un nuevo experimento.",
+    "level": "A4"
+  },
+  {
+    "english": "discovery",
+    "spanish": "descubrimiento",
+    "exampleEnglish": "It was an important scientific discovery.",
+    "exampleSpanish": "Fue un descubrimiento científico importante.",
+    "level": "A4"
+  },
+  {
+    "english": "invention",
+    "spanish": "invento",
+    "exampleEnglish": "The telephone was an important invention.",
+    "exampleSpanish": "El teléfono fue un invento importante.",
+    "level": "A4"
+  },
+  {
+    "english": "innovation",
+    "spanish": "innovación",
+    "exampleEnglish": "This company is known for innovation.",
+    "exampleSpanish": "Esta empresa es conocida por su innovación.",
+    "level": "A4"
+  },
+  {
+    "english": "artificial intelligence",
+    "spanish": "inteligencia artificial",
+    "exampleEnglish": "Artificial intelligence is changing many jobs.",
+    "exampleSpanish": "La inteligencia artificial está cambiando muchos empleos.",
+    "level": "A4"
+  },
+  {
+    "english": "robot",
+    "spanish": "robot",
+    "exampleEnglish": "The factory uses robots to build cars.",
+    "exampleSpanish": "La fábrica usa robots para construir carros.",
+    "level": "A4"
+  },
+  {
+    "english": "virus",
+    "spanish": "virus",
+    "exampleEnglish": "The computer got infected with a virus.",
+    "exampleSpanish": "La computadora se infectó con un virus.",
+    "level": "A4"
+  },
+  {
+    "english": "data",
+    "spanish": "datos",
+    "exampleEnglish": "The company collects a lot of data.",
+    "exampleSpanish": "La empresa recolecta muchos datos.",
+    "level": "A4"
+  },
+  {
+    "english": "algorithm",
+    "spanish": "algoritmo",
+    "exampleEnglish": "The app uses an algorithm to suggest videos.",
+    "exampleSpanish": "La app usa un algoritmo para sugerir videos.",
+    "level": "A4"
+  },
+  {
+    "english": "network",
+    "spanish": "red",
+    "exampleEnglish": "The network was down for an hour.",
+    "exampleSpanish": "La red estuvo caída una hora.",
+    "level": "A4"
+  },
+  {
+    "english": "server",
+    "spanish": "servidor",
+    "exampleEnglish": "The server crashed last night.",
+    "exampleSpanish": "El servidor falló anoche.",
+    "level": "A4"
+  },
+  {
+    "english": "software",
+    "spanish": "software",
+    "exampleEnglish": "We need to update this software.",
+    "exampleSpanish": "Necesitamos actualizar este software.",
+    "level": "A4"
+  },
+  {
+    "english": "hardware",
+    "spanish": "hardware",
+    "exampleEnglish": "The hardware is old and slow.",
+    "exampleSpanish": "El hardware es viejo y lento.",
+    "level": "A4"
+  },
+  {
+    "english": "cloud",
+    "spanish": "nube (informática)",
+    "exampleEnglish": "I save my files in the cloud.",
+    "exampleSpanish": "Guardo mis archivos en la nube.",
+    "level": "A4"
+  },
+  {
+    "english": "gene",
+    "spanish": "gen",
+    "exampleEnglish": "This trait comes from a specific gene.",
+    "exampleSpanish": "Esta característica viene de un gen específico.",
+    "level": "A4"
+  },
+  {
+    "english": "cell",
+    "spanish": "célula",
+    "exampleEnglish": "The human body has billions of cells.",
+    "exampleSpanish": "El cuerpo humano tiene billones de células.",
+    "level": "A4"
+  },
+  {
+    "english": "evolution",
+    "spanish": "evolución",
+    "exampleEnglish": "Evolution explains how species change.",
+    "exampleSpanish": "La evolución explica cómo cambian las especies.",
+    "level": "A4"
+  },
+  {
+    "english": "universe",
+    "spanish": "universo",
+    "exampleEnglish": "The universe is bigger than we can imagine.",
+    "exampleSpanish": "El universo es más grande de lo que podemos imaginar.",
+    "level": "A4"
+  },
+  {
+    "english": "galaxy",
+    "spanish": "galaxia",
+    "exampleEnglish": "Our galaxy has billions of stars.",
+    "exampleSpanish": "Nuestra galaxia tiene billones de estrellas.",
+    "level": "A4"
+  },
+  {
+    "english": "gravity",
+    "spanish": "gravedad",
+    "exampleEnglish": "Gravity keeps us on the ground.",
+    "exampleSpanish": "La gravedad nos mantiene en el suelo.",
+    "level": "A4"
+  },
+  {
+    "english": "theory",
+    "spanish": "teoría",
+    "exampleEnglish": "This theory changed how we see physics.",
+    "exampleSpanish": "Esta teoría cambió cómo vemos la física.",
+    "level": "A4"
+  },
+  {
+    "english": "hypothesis",
+    "spanish": "hipótesis",
+    "exampleEnglish": "The scientist tested her hypothesis.",
+    "exampleSpanish": "La científica probó su hipótesis.",
+    "level": "A4"
+  },
+  {
+    "english": "media",
+    "spanish": "medios de comunicación",
+    "exampleEnglish": "The media covered the story widely.",
+    "exampleSpanish": "Los medios de comunicación cubrieron la noticia ampliamente.",
+    "level": "A4"
+  },
+  {
+    "english": "journalist",
+    "spanish": "periodista",
+    "exampleEnglish": "The journalist interviewed the mayor.",
+    "exampleSpanish": "El periodista entrevistó al alcalde.",
+    "level": "A4"
+  },
+  {
+    "english": "headline",
+    "spanish": "titular",
+    "exampleEnglish": "The headline caught everyone's attention.",
+    "exampleSpanish": "El titular llamó la atención de todos.",
+    "level": "A4"
+  },
+  {
+    "english": "article",
+    "spanish": "artículo",
+    "exampleEnglish": "I read an interesting article today.",
+    "exampleSpanish": "Leí un artículo interesante hoy.",
+    "level": "A4"
+  },
+  {
+    "english": "broadcast",
+    "spanish": "transmitir / transmisión",
+    "exampleEnglish": "The event was broadcast live.",
+    "exampleSpanish": "El evento fue transmitido en vivo.",
+    "level": "A4"
+  },
+  {
+    "english": "advertisement",
+    "spanish": "anuncio publicitario",
+    "exampleEnglish": "This advertisement is very creative.",
+    "exampleSpanish": "Este anuncio publicitario es muy creativo.",
+    "level": "A4"
+  },
+  {
+    "english": "audience",
+    "spanish": "audiencia",
+    "exampleEnglish": "The audience enjoyed the show.",
+    "exampleSpanish": "La audiencia disfrutó el show.",
+    "level": "A4"
+  },
+  {
+    "english": "influence",
+    "spanish": "influencia / influir",
+    "exampleEnglish": "Social media has a big influence on teens.",
+    "exampleSpanish": "Las redes sociales tienen gran influencia en los adolescentes.",
+    "level": "A4"
+  },
+  {
+    "english": "censorship",
+    "spanish": "censura",
+    "exampleEnglish": "The government imposed censorship on the press.",
+    "exampleSpanish": "El gobierno impuso censura sobre la prensa.",
+    "level": "A4"
+  },
+  {
+    "english": "propaganda",
+    "spanish": "propaganda",
+    "exampleEnglish": "The poster was clearly propaganda.",
+    "exampleSpanish": "El póster era claramente propaganda.",
+    "level": "A4"
+  },
+  {
+    "english": "bias",
+    "spanish": "sesgo / parcialidad",
+    "exampleEnglish": "The report showed some bias.",
+    "exampleSpanish": "El reporte mostró algo de sesgo.",
+    "level": "A4"
+  },
+  {
+    "english": "headline news",
+    "spanish": "noticia principal",
+    "exampleEnglish": "This was the headline news today.",
+    "exampleSpanish": "Esta fue la noticia principal hoy.",
+    "level": "A4"
+  },
+  {
+    "english": "overwhelmed",
+    "spanish": "abrumado",
+    "exampleEnglish": "She felt overwhelmed with work.",
+    "exampleSpanish": "Ella se sintió abrumada con el trabajo.",
+    "level": "A4"
+  },
+  {
+    "english": "motivated",
+    "spanish": "motivado",
+    "exampleEnglish": "He is very motivated to succeed.",
+    "exampleSpanish": "Él está muy motivado para triunfar.",
+    "level": "A4"
+  },
+  {
+    "english": "determined",
+    "spanish": "decidido",
+    "exampleEnglish": "She is determined to finish the race.",
+    "exampleSpanish": "Ella está decidida a terminar la carrera.",
+    "level": "A4"
+  },
+  {
+    "english": "resilient",
+    "spanish": "resiliente",
+    "exampleEnglish": "He is very resilient after difficult times.",
+    "exampleSpanish": "Él es muy resiliente después de momentos difíciles.",
+    "level": "A4"
+  },
+  {
+    "english": "optimistic",
+    "spanish": "optimista",
+    "exampleEnglish": "She stays optimistic even in hard times.",
+    "exampleSpanish": "Ella se mantiene optimista incluso en momentos difíciles.",
+    "level": "A4"
+  },
+  {
+    "english": "pessimistic",
+    "spanish": "pesimista",
+    "exampleEnglish": "He tends to be pessimistic about the future.",
+    "exampleSpanish": "Él tiende a ser pesimista sobre el futuro.",
+    "level": "A4"
+  },
+  {
+    "english": "empathy",
+    "spanish": "empatía",
+    "exampleEnglish": "She showed a lot of empathy toward him.",
+    "exampleSpanish": "Ella mostró mucha empatía hacia él.",
+    "level": "A4"
+  },
+  {
+    "english": "sympathy",
+    "spanish": "compasión / condolencias",
+    "exampleEnglish": "I have great sympathy for her situation.",
+    "exampleSpanish": "Tengo gran compasión por su situación.",
+    "level": "A4"
+  },
+  {
+    "english": "compassion",
+    "spanish": "compasión",
+    "exampleEnglish": "He treated the patients with compassion.",
+    "exampleSpanish": "Él trató a los pacientes con compasión.",
+    "level": "A4"
+  },
+  {
+    "english": "regret",
+    "spanish": "arrepentimiento / arrepentirse",
+    "exampleEnglish": "I regret not calling her sooner.",
+    "exampleSpanish": "Me arrepiento de no haberla llamado antes.",
+    "level": "A4"
+  },
+  {
+    "english": "guilt",
+    "spanish": "culpa",
+    "exampleEnglish": "He felt guilt after the argument.",
+    "exampleSpanish": "Él sintió culpa después de la discusión.",
+    "level": "A4"
+  },
+  {
+    "english": "shame",
+    "spanish": "vergüenza",
+    "exampleEnglish": "There is no shame in asking for help.",
+    "exampleSpanish": "No hay vergüenza en pedir ayuda.",
+    "level": "A4"
+  },
+  {
+    "english": "pride",
+    "spanish": "orgullo",
+    "exampleEnglish": "He spoke with pride about his daughter.",
+    "exampleSpanish": "Él habló con orgullo sobre su hija.",
+    "level": "A4"
+  },
+  {
+    "english": "loyalty",
+    "spanish": "lealtad",
+    "exampleEnglish": "Loyalty is important in friendship.",
+    "exampleSpanish": "La lealtad es importante en la amistad.",
+    "level": "A4"
+  },
+  {
+    "english": "betrayal",
+    "spanish": "traición",
+    "exampleEnglish": "The betrayal hurt her deeply.",
+    "exampleSpanish": "La traición la lastimó profundamente.",
+    "level": "A4"
+  },
+  {
+    "english": "forgiveness",
+    "spanish": "perdón",
+    "exampleEnglish": "Forgiveness can bring peace.",
+    "exampleSpanish": "El perdón puede traer paz.",
+    "level": "A4"
+  },
+  {
+    "english": "commitment",
+    "spanish": "compromiso",
+    "exampleEnglish": "They made a serious commitment.",
+    "exampleSpanish": "Ellos hicieron un compromiso serio.",
+    "level": "A4"
+  },
+  {
+    "english": "independence",
+    "spanish": "independencia",
+    "exampleEnglish": "She values her independence a lot.",
+    "exampleSpanish": "Ella valora mucho su independencia.",
+    "level": "A4"
+  },
+  {
+    "english": "self-esteem",
+    "spanish": "autoestima",
+    "exampleEnglish": "Exercise can improve your self-esteem.",
+    "exampleSpanish": "El ejercicio puede mejorar tu autoestima.",
+    "level": "A4"
+  },
+  {
+    "english": "mindset",
+    "spanish": "mentalidad",
+    "exampleEnglish": "A positive mindset helps you succeed.",
+    "exampleSpanish": "Una mentalidad positiva te ayuda a tener éxito.",
+    "level": "A4"
+  },
+  {
+    "english": "achieve",
+    "spanish": "lograr",
+    "exampleEnglish": "She achieved all her goals this year.",
+    "exampleSpanish": "Ella logró todas sus metas este año.",
+    "level": "A4"
+  },
+  {
+    "english": "accomplish",
+    "spanish": "cumplir / realizar",
+    "exampleEnglish": "We accomplished the mission successfully.",
+    "exampleSpanish": "Cumplimos la misión con éxito.",
+    "level": "A4"
+  },
+  {
+    "english": "overcome",
+    "spanish": "superar (dificultad)",
+    "exampleEnglish": "He overcame many obstacles in his life.",
+    "exampleSpanish": "Él superó muchos obstáculos en su vida.",
+    "level": "A4"
+  },
+  {
+    "english": "struggle",
+    "spanish": "luchar / esforzarse",
+    "exampleEnglish": "She struggled to pay her bills.",
+    "exampleSpanish": "Ella luchó para pagar sus cuentas.",
+    "level": "A4"
+  },
+  {
+    "english": "persuade",
+    "spanish": "persuadir",
+    "exampleEnglish": "He persuaded me to join the team.",
+    "exampleSpanish": "Él me persuadió de unirme al equipo.",
+    "level": "A4"
+  },
+  {
+    "english": "convince",
+    "spanish": "convencer",
+    "exampleEnglish": "I convinced her to come with us.",
+    "exampleSpanish": "La convencí de venir con nosotros.",
+    "level": "A4"
+  },
+  {
+    "english": "encourage",
+    "spanish": "animar / alentar",
+    "exampleEnglish": "My teacher encouraged me to keep trying.",
+    "exampleSpanish": "Mi maestra me animó a seguir intentando.",
+    "level": "A4"
+  },
+  {
+    "english": "discourage",
+    "spanish": "desanimar",
+    "exampleEnglish": "Don't let failure discourage you.",
+    "exampleSpanish": "No dejes que el fracaso te desanime.",
+    "level": "A4"
+  },
+  {
+    "english": "motivate",
+    "spanish": "motivar",
+    "exampleEnglish": "Good leaders motivate their teams.",
+    "exampleSpanish": "Los buenos líderes motivan a sus equipos.",
+    "level": "A4"
+  },
+  {
+    "english": "inspire",
+    "spanish": "inspirar",
+    "exampleEnglish": "Her story inspired many people.",
+    "exampleSpanish": "Su historia inspiró a mucha gente.",
+    "level": "A4"
+  },
+  {
+    "english": "admit",
+    "spanish": "admitir",
+    "exampleEnglish": "He admitted he was wrong.",
+    "exampleSpanish": "Él admitió que estaba equivocado.",
+    "level": "A4"
+  },
+  {
+    "english": "deny",
+    "spanish": "negar",
+    "exampleEnglish": "She denied the accusation.",
+    "exampleSpanish": "Ella negó la acusación.",
+    "level": "A4"
+  },
+  {
+    "english": "accuse",
+    "spanish": "acusar",
+    "exampleEnglish": "They accused him of lying.",
+    "exampleSpanish": "Lo acusaron de mentir.",
+    "level": "A4"
+  },
+  {
+    "english": "blame",
+    "spanish": "culpar",
+    "exampleEnglish": "Don't blame yourself for this.",
+    "exampleSpanish": "No te culpes por esto.",
+    "level": "A4"
+  },
+  {
+    "english": "apologize",
+    "spanish": "disculparse",
+    "exampleEnglish": "He apologized for being late.",
+    "exampleSpanish": "Él se disculpó por llegar tarde.",
+    "level": "A4"
+  },
+  {
+    "english": "assume",
+    "spanish": "asumir / suponer",
+    "exampleEnglish": "I assumed you already knew.",
+    "exampleSpanish": "Asumí que ya sabías.",
+    "level": "A4"
+  },
+  {
+    "english": "suppose",
+    "spanish": "suponer",
+    "exampleEnglish": "I suppose that's the best option.",
+    "exampleSpanish": "Supongo que esa es la mejor opción.",
+    "level": "A4"
+  },
+  {
+    "english": "suspect",
+    "spanish": "sospechar",
+    "exampleEnglish": "I suspect he's not telling the truth.",
+    "exampleSpanish": "Sospecho que él no está diciendo la verdad.",
+    "level": "A4"
+  },
+  {
+    "english": "predict",
+    "spanish": "predecir",
+    "exampleEnglish": "Nobody can predict the future.",
+    "exampleSpanish": "Nadie puede predecir el futuro.",
+    "level": "A4"
+  },
+  {
+    "english": "estimate",
+    "spanish": "estimar",
+    "exampleEnglish": "We estimate the project will take a month.",
+    "exampleSpanish": "Estimamos que el proyecto tomará un mes.",
+    "level": "A4"
+  },
+  {
+    "english": "evaluate",
+    "spanish": "evaluar",
+    "exampleEnglish": "The teacher evaluated our progress.",
+    "exampleSpanish": "La maestra evaluó nuestro progreso.",
+    "level": "A4"
+  },
+  {
+    "english": "analyze",
+    "spanish": "analizar",
+    "exampleEnglish": "We need to analyze this data.",
+    "exampleSpanish": "Necesitamos analizar estos datos.",
+    "level": "A4"
+  },
+  {
+    "english": "determine",
+    "spanish": "determinar",
+    "exampleEnglish": "The test will determine the results.",
+    "exampleSpanish": "La prueba determinará los resultados.",
+    "level": "A4"
+  },
+  {
+    "english": "identify",
+    "spanish": "identificar",
+    "exampleEnglish": "Can you identify the problem?",
+    "exampleSpanish": "¿Puedes identificar el problema?",
+    "level": "A4"
+  },
+  {
+    "english": "recognize",
+    "spanish": "reconocer",
+    "exampleEnglish": "I didn't recognize him at first.",
+    "exampleSpanish": "No lo reconocí al principio.",
+    "level": "A4"
+  },
+  {
+    "english": "acknowledge",
+    "spanish": "reconocer (formalmente)",
+    "exampleEnglish": "She acknowledged her mistake.",
+    "exampleSpanish": "Ella reconoció su error.",
+    "level": "A4"
+  },
+  {
+    "english": "emphasize",
+    "spanish": "enfatizar",
+    "exampleEnglish": "The teacher emphasized the importance of practice.",
+    "exampleSpanish": "El maestro enfatizó la importancia de la práctica.",
+    "level": "A4"
+  },
+  {
+    "english": "highlight",
+    "spanish": "resaltar",
+    "exampleEnglish": "The report highlights the main issues.",
+    "exampleSpanish": "El reporte resalta los problemas principales.",
+    "level": "A4"
+  },
+  {
+    "english": "summarize",
+    "spanish": "resumir",
+    "exampleEnglish": "Please summarize the article for me.",
+    "exampleSpanish": "Por favor resume el artículo para mí.",
+    "level": "A4"
+  },
+  {
+    "english": "clarify",
+    "spanish": "aclarar",
+    "exampleEnglish": "Can you clarify what you mean?",
+    "exampleSpanish": "¿Puedes aclarar lo que quieres decir?",
+    "level": "A4"
+  },
+  {
+    "english": "justify",
+    "spanish": "justificar",
+    "exampleEnglish": "He tried to justify his actions.",
+    "exampleSpanish": "Él trató de justificar sus acciones.",
+    "level": "A4"
+  },
+  {
+    "english": "criticize",
+    "spanish": "criticar",
+    "exampleEnglish": "Don't criticize others so harshly.",
+    "exampleSpanish": "No critiques a los demás tan duramente.",
+    "level": "A4"
+  },
+  {
+    "english": "praise",
+    "spanish": "elogiar",
+    "exampleEnglish": "The coach praised the team's effort.",
+    "exampleSpanish": "El entrenador elogió el esfuerzo del equipo.",
+    "level": "A4"
+  },
+  {
+    "english": "complain",
+    "spanish": "quejarse",
+    "exampleEnglish": "She complained about the noise.",
+    "exampleSpanish": "Ella se quejó del ruido.",
+    "level": "A4"
+  },
+  {
+    "english": "insist",
+    "spanish": "insistir",
+    "exampleEnglish": "He insisted on paying the bill.",
+    "exampleSpanish": "Él insistió en pagar la cuenta.",
+    "level": "A4"
+  },
+  {
+    "english": "hesitate",
+    "spanish": "dudar / titubear",
+    "exampleEnglish": "Don't hesitate to call me.",
+    "exampleSpanish": "No dudes en llamarme.",
+    "level": "A4"
+  },
+  {
+    "english": "consider",
+    "spanish": "considerar",
+    "exampleEnglish": "We should consider all options.",
+    "exampleSpanish": "Deberíamos considerar todas las opciones.",
+    "level": "A4"
+  },
+  {
+    "english": "reflect",
+    "spanish": "reflexionar",
+    "exampleEnglish": "I need time to reflect on this.",
+    "exampleSpanish": "Necesito tiempo para reflexionar sobre esto.",
+    "level": "A4"
+  },
+  {
+    "english": "wonder",
+    "spanish": "preguntarse",
+    "exampleEnglish": "I wonder what happened to him.",
+    "exampleSpanish": "Me pregunto qué le pasó a él.",
+    "level": "A4"
+  },
+  {
+    "english": "realize",
+    "spanish": "darse cuenta",
+    "exampleEnglish": "I realized I forgot my keys.",
+    "exampleSpanish": "Me di cuenta de que olvidé mis llaves.",
+    "level": "A4"
+  },
+  {
+    "english": "assume responsibility",
+    "spanish": "asumir responsabilidad",
+    "exampleEnglish": "He assumed responsibility for the mistake.",
+    "exampleSpanish": "Él asumió responsabilidad por el error.",
+    "level": "A4"
+  },
+  {
+    "english": "essential",
+    "spanish": "esencial",
+    "exampleEnglish": "Water is essential for life.",
+    "exampleSpanish": "El agua es esencial para la vida.",
+    "level": "A4"
+  },
+  {
+    "english": "crucial",
+    "spanish": "crucial",
+    "exampleEnglish": "This decision is crucial for the company.",
+    "exampleSpanish": "Esta decisión es crucial para la empresa.",
+    "level": "A4"
+  },
+  {
+    "english": "significant",
+    "spanish": "significativo",
+    "exampleEnglish": "There was a significant change in the results.",
+    "exampleSpanish": "Hubo un cambio significativo en los resultados.",
+    "level": "A4"
+  },
+  {
+    "english": "relevant",
+    "spanish": "relevante",
+    "exampleEnglish": "This information is not relevant anymore.",
+    "exampleSpanish": "Esta información ya no es relevante.",
+    "level": "A4"
+  },
+  {
+    "english": "adequate",
+    "spanish": "adecuado",
+    "exampleEnglish": "The salary is adequate for the job.",
+    "exampleSpanish": "El salario es adecuado para el trabajo.",
+    "level": "A4"
+  },
+  {
+    "english": "efficient",
+    "spanish": "eficiente",
+    "exampleEnglish": "This machine is very efficient.",
+    "exampleSpanish": "Esta máquina es muy eficiente.",
+    "level": "A4"
+  },
+  {
+    "english": "effective",
+    "spanish": "efectivo",
+    "exampleEnglish": "This method is very effective.",
+    "exampleSpanish": "Este método es muy efectivo.",
+    "level": "A4"
+  },
+  {
+    "english": "consistent",
+    "spanish": "consistente",
+    "exampleEnglish": "She is consistent with her training.",
+    "exampleSpanish": "Ella es consistente con su entrenamiento.",
+    "level": "A4"
+  },
+  {
+    "english": "flexible",
+    "spanish": "flexible",
+    "exampleEnglish": "My schedule is very flexible.",
+    "exampleSpanish": "Mi horario es muy flexible.",
+    "level": "A4"
+  },
+  {
+    "english": "reliable",
+    "spanish": "confiable",
+    "exampleEnglish": "He is a very reliable friend.",
+    "exampleSpanish": "Él es un amigo muy confiable.",
+    "level": "A4"
+  },
+  {
+    "english": "vulnerable",
+    "spanish": "vulnerable",
+    "exampleEnglish": "Children are more vulnerable to illness.",
+    "exampleSpanish": "Los niños son más vulnerables a enfermarse.",
+    "level": "A4"
+  },
+  {
+    "english": "aggressive",
+    "spanish": "agresivo",
+    "exampleEnglish": "The dog became aggressive suddenly.",
+    "exampleSpanish": "El perro se volvió agresivo de repente.",
+    "level": "A4"
+  },
+  {
+    "english": "assertive",
+    "spanish": "asertivo",
+    "exampleEnglish": "She was assertive during the meeting.",
+    "exampleSpanish": "Ella fue asertiva durante la reunión.",
+    "level": "A4"
+  },
+  {
+    "english": "competitive",
+    "spanish": "competitivo",
+    "exampleEnglish": "This market is very competitive.",
+    "exampleSpanish": "Este mercado es muy competitivo.",
+    "level": "A4"
+  },
+  {
+    "english": "cooperative",
+    "spanish": "cooperativo",
+    "exampleEnglish": "The whole team was cooperative.",
+    "exampleSpanish": "Todo el equipo fue cooperativo.",
+    "level": "A4"
+  },
+  {
+    "english": "independent",
+    "spanish": "independiente",
+    "exampleEnglish": "She is very independent for her age.",
+    "exampleSpanish": "Ella es muy independiente para su edad.",
+    "level": "A4"
+  },
+  {
+    "english": "dependent",
+    "spanish": "dependiente",
+    "exampleEnglish": "The company is dependent on one client.",
+    "exampleSpanish": "La empresa depende de un solo cliente.",
+    "level": "A4"
+  },
+  {
+    "english": "sustainable",
+    "spanish": "sostenible",
+    "exampleEnglish": "We need sustainable energy sources.",
+    "exampleSpanish": "Necesitamos fuentes de energía sostenibles.",
+    "level": "A4"
+  },
+  {
+    "english": "renewable",
+    "spanish": "renovable",
+    "exampleEnglish": "Solar power is a renewable resource.",
+    "exampleSpanish": "La energía solar es un recurso renovable.",
+    "level": "A4"
+  },
+  {
+    "english": "valuable",
+    "spanish": "valioso",
+    "exampleEnglish": "Her advice was very valuable.",
+    "exampleSpanish": "Su consejo fue muy valioso.",
+    "level": "A4"
+  },
+  {
+    "english": "worthwhile",
+    "spanish": "que vale la pena",
+    "exampleEnglish": "This trip was worthwhile.",
+    "exampleSpanish": "Este viaje valió la pena.",
+    "level": "A4"
+  },
+  {
+    "english": "inevitable",
+    "spanish": "inevitable",
+    "exampleEnglish": "Change is inevitable in life.",
+    "exampleSpanish": "El cambio es inevitable en la vida.",
+    "level": "A4"
+  },
+  {
+    "english": "controversial",
+    "spanish": "controvertido",
+    "exampleEnglish": "It's a controversial topic.",
+    "exampleSpanish": "Es un tema controvertido.",
+    "level": "A4"
+  },
+  {
+    "english": "complex",
+    "spanish": "complejo",
+    "exampleEnglish": "The situation is more complex than it seems.",
+    "exampleSpanish": "La situación es más compleja de lo que parece.",
+    "level": "A4"
+  },
+  {
+    "english": "ambiguous",
+    "spanish": "ambiguo",
+    "exampleEnglish": "His answer was very ambiguous.",
+    "exampleSpanish": "Su respuesta fue muy ambigua.",
+    "level": "A4"
+  },
+  {
+    "english": "obvious",
+    "spanish": "obvio",
+    "exampleEnglish": "It's obvious that she is tired.",
+    "exampleSpanish": "Es obvio que ella está cansada.",
+    "level": "A4"
+  },
+  {
+    "english": "subtle",
+    "spanish": "sutil",
+    "exampleEnglish": "There was a subtle change in his tone.",
+    "exampleSpanish": "Hubo un cambio sutil en su tono.",
+    "level": "A4"
+  },
+  {
+    "english": "thorough",
+    "spanish": "minucioso",
+    "exampleEnglish": "She did a thorough review of the report.",
+    "exampleSpanish": "Ella hizo una revisión minuciosa del reporte.",
+    "level": "A4"
+  },
+  {
+    "english": "genuine",
+    "spanish": "genuino",
+    "exampleEnglish": "His apology seemed genuine.",
+    "exampleSpanish": "Su disculpa parecía genuina.",
+    "level": "A4"
+  },
+  {
+    "english": "authentic",
+    "spanish": "auténtico",
+    "exampleEnglish": "This restaurant serves authentic Mexican food.",
+    "exampleSpanish": "Este restaurante sirve comida mexicana auténtica.",
+    "level": "A4"
+  }
+]
