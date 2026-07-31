@@ -1,0 +1,47 @@
+[
+  {
+    "id": "doctor",
+    "title": "At the doctor",
+    "level": "A2",
+    "lines": [
+      {"speaker": "Doctor", "english": "Good morning. What brings you in today?", "spanish": "Buenos días. ¿Qué lo trae por aquí hoy?"},
+      {"speaker": "You", "english": "I have a headache and a little fever.", "spanish": "Tengo dolor de cabeza y un poco de fiebre."},
+      {"speaker": "Doctor", "english": "How long have you had these symptoms?", "spanish": "¿Desde hace cuánto tiene estos síntomas?"},
+      {"speaker": "You", "english": "Since yesterday afternoon.", "spanish": "Desde ayer por la tarde."},
+      {"speaker": "Doctor", "english": "I will prescribe some medicine for you.", "spanish": "Le voy a recetar algo de medicina."},
+      {"speaker": "You", "english": "How many times a day should I take it?", "spanish": "¿Cuántas veces al día debo tomarla?"},
+      {"speaker": "Doctor", "english": "Twice a day, after meals.", "spanish": "Dos veces al día, después de comer."},
+      {"speaker": "You", "english": "Thank you, doctor.", "spanish": "Gracias, doctor."}
+    ]
+  },
+  {
+    "id": "shopping",
+    "title": "Shopping",
+    "level": "A2",
+    "lines": [
+      {"speaker": "Clerk", "english": "Hi, can I help you find something?", "spanish": "Hola, ¿le ayudo a encontrar algo?"},
+      {"speaker": "You", "english": "Yes, I'm looking for a jacket.", "spanish": "Sí, estoy buscando una chaqueta."},
+      {"speaker": "Clerk", "english": "What size do you need?", "spanish": "¿Qué talla necesita?"},
+      {"speaker": "You", "english": "Medium, please.", "spanish": "Mediana, por favor."},
+      {"speaker": "Clerk", "english": "Here you go. Would you like to try it on?", "spanish": "Aquí tiene. ¿Quiere probársela?"},
+      {"speaker": "You", "english": "Yes, where is the fitting room?", "spanish": "Sí, ¿dónde está el probador?"},
+      {"speaker": "Clerk", "english": "It's right over there, to your left.", "spanish": "Está justo allá, a su izquierda."},
+      {"speaker": "You", "english": "I'll take it. How much is it?", "spanish": "Me la llevo. ¿Cuánto cuesta?"}
+    ]
+  },
+  {
+    "id": "phone_call",
+    "title": "On the phone",
+    "level": "A1",
+    "lines": [
+      {"speaker": "You", "english": "Hello, is this Mark?", "spanish": "Hola, ¿hablo con Mark?"},
+      {"speaker": "Mark", "english": "Yes, speaking. Who is this?", "spanish": "Sí, él habla. ¿Quién es?"},
+      {"speaker": "You", "english": "It's me, Laura. How are you?", "spanish": "Soy yo, Laura. ¿Cómo estás?"},
+      {"speaker": "Mark", "english": "Oh, hi Laura! I'm good, thanks.", "spanish": "¡Ah, hola Laura! Estoy bien, gracias."},
+      {"speaker": "You", "english": "Are you free this weekend?", "spanish": "¿Estás libre este fin de semana?"},
+      {"speaker": "Mark", "english": "Yes, I don't have any plans.", "spanish": "Sí, no tengo planes."},
+      {"speaker": "You", "english": "Great, let's meet on Saturday.", "spanish": "Genial, veámonos el sábado."},
+      {"speaker": "Mark", "english": "Sounds good. See you then.", "spanish": "Suena bien. Nos vemos entonces."}
+    ]
+  }
+]
