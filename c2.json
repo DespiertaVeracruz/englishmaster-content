@@ -1,0 +1,492 @@
+[
+  {
+    "english": "quintessential",
+    "spanish": "por excelencia / esencial",
+    "exampleEnglish": "Paris is the quintessential romantic city.",
+    "exampleSpanish": "París es la ciudad romántica por excelencia.",
+    "level": "C2"
+  },
+  {
+    "english": "ephemeral",
+    "spanish": "efímero",
+    "exampleEnglish": "Fame can be ephemeral.",
+    "exampleSpanish": "La fama puede ser efímera.",
+    "level": "C2"
+  },
+  {
+    "english": "ubiquity",
+    "spanish": "omnipresencia",
+    "exampleEnglish": "The ubiquity of smartphones surprises many.",
+    "exampleSpanish": "La omnipresencia de los smartphones sorprende a muchos.",
+    "level": "C2"
+  },
+  {
+    "english": "paradox",
+    "spanish": "paradoja",
+    "exampleEnglish": "It's a paradox that we have less time with more technology.",
+    "exampleSpanish": "Es una paradoja que tengamos menos tiempo con más tecnología.",
+    "level": "C2"
+  },
+  {
+    "english": "dichotomy",
+    "spanish": "dicotomía (uso avanzado)",
+    "exampleEnglish": "The novel explores the dichotomy of good and evil.",
+    "exampleSpanish": "La novela explora la dicotomía entre el bien y el mal.",
+    "level": "C2"
+  },
+  {
+    "english": "nuanced",
+    "spanish": "matizado",
+    "exampleEnglish": "Her argument was subtle and nuanced.",
+    "exampleSpanish": "Su argumento fue sutil y matizado.",
+    "level": "C2"
+  },
+  {
+    "english": "esoteric",
+    "spanish": "esotérico / poco conocido",
+    "exampleEnglish": "The lecture was too esoteric for beginners.",
+    "exampleSpanish": "La conferencia fue demasiado esotérica para principiantes.",
+    "level": "C2"
+  },
+  {
+    "english": "pragmatism",
+    "spanish": "pragmatismo",
+    "exampleEnglish": "His pragmatism helped the team stay focused.",
+    "exampleSpanish": "Su pragmatismo ayudó al equipo a mantenerse enfocado.",
+    "level": "C2"
+  },
+  {
+    "english": "idealism",
+    "spanish": "idealismo",
+    "exampleEnglish": "Her idealism inspired the whole community.",
+    "exampleSpanish": "Su idealismo inspiró a toda la comunidad.",
+    "level": "C2"
+  },
+  {
+    "english": "cynicism",
+    "spanish": "cinismo",
+    "exampleEnglish": "His cynicism made him doubt everyone's motives.",
+    "exampleSpanish": "Su cinismo lo hizo dudar de las motivaciones de todos.",
+    "level": "C2"
+  },
+  {
+    "english": "altruism",
+    "spanish": "altruismo",
+    "exampleEnglish": "Her altruism was evident in everything she did.",
+    "exampleSpanish": "Su altruismo era evidente en todo lo que hacía.",
+    "level": "C2"
+  },
+  {
+    "english": "hypocrisy",
+    "spanish": "hipocresía",
+    "exampleEnglish": "People criticized the politician's hypocrisy.",
+    "exampleSpanish": "La gente criticó la hipocresía del político.",
+    "level": "C2"
+  },
+  {
+    "english": "integrity",
+    "spanish": "integridad",
+    "exampleEnglish": "He is known for his integrity and honesty.",
+    "exampleSpanish": "Él es conocido por su integridad y honestidad.",
+    "level": "C2"
+  },
+  {
+    "english": "resilience",
+    "spanish": "resiliencia",
+    "exampleEnglish": "Her resilience helped her rebuild her life.",
+    "exampleSpanish": "Su resiliencia la ayudó a reconstruir su vida.",
+    "level": "C2"
+  },
+  {
+    "english": "tenacity",
+    "spanish": "tenacidad",
+    "exampleEnglish": "His tenacity eventually paid off.",
+    "exampleSpanish": "Su tenacidad finalmente dio frutos.",
+    "level": "C2"
+  },
+  {
+    "english": "audacity",
+    "spanish": "audacia",
+    "exampleEnglish": "She had the audacity to question the decision.",
+    "exampleSpanish": "Ella tuvo la audacia de cuestionar la decisión.",
+    "level": "C2"
+  },
+  {
+    "english": "candor",
+    "spanish": "franqueza",
+    "exampleEnglish": "I appreciate your candor in this discussion.",
+    "exampleSpanish": "Aprecio tu franqueza en esta discusión.",
+    "level": "C2"
+  },
+  {
+    "english": "eloquence",
+    "spanish": "elocuencia",
+    "exampleEnglish": "The speaker's eloquence impressed the audience.",
+    "exampleSpanish": "La elocuencia del orador impresionó a la audiencia.",
+    "level": "C2"
+  },
+  {
+    "english": "rhetoric",
+    "spanish": "retórica",
+    "exampleEnglish": "His rhetoric convinced many voters.",
+    "exampleSpanish": "Su retórica convenció a muchos votantes.",
+    "level": "C2"
+  },
+  {
+    "english": "discourse",
+    "spanish": "discurso (académico/social)",
+    "exampleEnglish": "Public discourse has changed dramatically.",
+    "exampleSpanish": "El discurso público ha cambiado dramáticamente.",
+    "level": "C2"
+  },
+  {
+    "english": "conundrum",
+    "spanish": "dilema / enigma",
+    "exampleEnglish": "We face a real conundrum with this decision.",
+    "exampleSpanish": "Enfrentamos un verdadero dilema con esta decisión.",
+    "level": "C2"
+  },
+  {
+    "english": "quagmire",
+    "spanish": "atolladero / situación difícil",
+    "exampleEnglish": "The negotiations turned into a political quagmire.",
+    "exampleSpanish": "Las negociaciones se convirtieron en un atolladero político.",
+    "level": "C2"
+  },
+  {
+    "english": "stalemate",
+    "spanish": "punto muerto",
+    "exampleEnglish": "The talks reached a stalemate.",
+    "exampleSpanish": "Las conversaciones llegaron a un punto muerto.",
+    "level": "C2"
+  },
+  {
+    "english": "impasse",
+    "spanish": "callejón sin salida",
+    "exampleEnglish": "Negotiations reached an impasse yesterday.",
+    "exampleSpanish": "Las negociaciones llegaron a un callejón sin salida ayer.",
+    "level": "C2"
+  },
+  {
+    "english": "catalyst",
+    "spanish": "catalizador (figurado)",
+    "exampleEnglish": "The crisis was a catalyst for reform.",
+    "exampleSpanish": "La crisis fue un catalizador para la reforma.",
+    "level": "C2"
+  },
+  {
+    "english": "watershed",
+    "spanish": "punto de inflexión",
+    "exampleEnglish": "That election was a watershed moment in history.",
+    "exampleSpanish": "Esa elección fue un punto de inflexión en la historia.",
+    "level": "C2"
+  },
+  {
+    "english": "zeitgeist",
+    "spanish": "espíritu de la época",
+    "exampleEnglish": "The film captured the zeitgeist of the decade.",
+    "exampleSpanish": "La película capturó el espíritu de la época de esa década.",
+    "level": "C2"
+  },
+  {
+    "english": "juxtaposition",
+    "spanish": "yuxtaposición",
+    "exampleEnglish": "The juxtaposition of old and new architecture is striking.",
+    "exampleSpanish": "La yuxtaposición de arquitectura antigua y nueva es sorprendente.",
+    "level": "C2"
+  },
+  {
+    "english": "plausibility",
+    "spanish": "plausibilidad",
+    "exampleEnglish": "The plausibility of his story is questionable.",
+    "exampleSpanish": "La plausibilidad de su historia es cuestionable.",
+    "level": "C2"
+  },
+  {
+    "english": "vindicate",
+    "spanish": "reivindicar / justificar",
+    "exampleEnglish": "The results vindicated her original theory.",
+    "exampleSpanish": "Los resultados reivindicaron su teoría original.",
+    "level": "C2"
+  },
+  {
+    "english": "elucidate",
+    "spanish": "esclarecer",
+    "exampleEnglish": "The professor elucidated the complex theory.",
+    "exampleSpanish": "El profesor esclareció la teoría compleja.",
+    "level": "C2"
+  },
+  {
+    "english": "expound",
+    "spanish": "exponer / explicar en detalle",
+    "exampleEnglish": "He expounded on the benefits of the plan.",
+    "exampleSpanish": "Él expuso en detalle los beneficios del plan.",
+    "level": "C2"
+  },
+  {
+    "english": "posit",
+    "spanish": "postular / plantear",
+    "exampleEnglish": "The researcher posits a new explanation.",
+    "exampleSpanish": "El investigador postula una nueva explicación.",
+    "level": "C2"
+  },
+  {
+    "english": "conflate",
+    "spanish": "confundir / fusionar (conceptos)",
+    "exampleEnglish": "Don't conflate these two separate issues.",
+    "exampleSpanish": "No confundas estos dos temas separados.",
+    "level": "C2"
+  },
+  {
+    "english": "delineate",
+    "spanish": "delinear",
+    "exampleEnglish": "The contract delineates each party's duties.",
+    "exampleSpanish": "El contrato delinea los deberes de cada parte.",
+    "level": "C2"
+  },
+  {
+    "english": "circumvent",
+    "spanish": "eludir / evadir",
+    "exampleEnglish": "They found a way to circumvent the rule.",
+    "exampleSpanish": "Encontraron una manera de eludir la regla.",
+    "level": "C2"
+  },
+  {
+    "english": "exacerbate",
+    "spanish": "exacerbar (uso avanzado)",
+    "exampleEnglish": "The policy exacerbated existing inequalities.",
+    "exampleSpanish": "La política exacerbó las desigualdades existentes.",
+    "level": "C2"
+  },
+  {
+    "english": "assuage",
+    "spanish": "aplacar / calmar",
+    "exampleEnglish": "His words assuaged her fears.",
+    "exampleSpanish": "Sus palabras aplacaron sus miedos.",
+    "level": "C2"
+  },
+  {
+    "english": "placate",
+    "spanish": "apaciguar",
+    "exampleEnglish": "The manager tried to placate the angry customer.",
+    "exampleSpanish": "El gerente trató de apaciguar al cliente enojado.",
+    "level": "C2"
+  },
+  {
+    "english": "appease",
+    "spanish": "apaciguar / satisfacer",
+    "exampleEnglish": "The company tried to appease investors.",
+    "exampleSpanish": "La empresa trató de apaciguar a los inversionistas.",
+    "level": "C2"
+  },
+  {
+    "english": "subvert",
+    "spanish": "subvertir",
+    "exampleEnglish": "The novel subverts traditional gender roles.",
+    "exampleSpanish": "La novela subvierte los roles de género tradicionales.",
+    "level": "C2"
+  },
+  {
+    "english": "undercut",
+    "spanish": "socavar / menoscabar",
+    "exampleEnglish": "The scandal undercut public trust.",
+    "exampleSpanish": "El escándalo socavó la confianza pública.",
+    "level": "C2"
+  },
+  {
+    "english": "galvanize",
+    "spanish": "movilizar (uso avanzado)",
+    "exampleEnglish": "The tragedy galvanized public support for reform.",
+    "exampleSpanish": "La tragedia movilizó el apoyo público para la reforma.",
+    "level": "C2"
+  },
+  {
+    "english": "perpetuate",
+    "spanish": "perpetuar",
+    "exampleEnglish": "These policies perpetuate inequality.",
+    "exampleSpanish": "Estas políticas perpetúan la desigualdad.",
+    "level": "C2"
+  },
+  {
+    "english": "entrench",
+    "spanish": "arraigar / afianzar",
+    "exampleEnglish": "Corruption is deeply entrenched in the system.",
+    "exampleSpanish": "La corrupción está profundamente arraigada en el sistema.",
+    "level": "C2"
+  },
+  {
+    "english": "disseminate",
+    "spanish": "diseminar / difundir",
+    "exampleEnglish": "The organization disseminates information widely.",
+    "exampleSpanish": "La organización difunde información ampliamente.",
+    "level": "C2"
+  },
+  {
+    "english": "propagate",
+    "spanish": "propagar",
+    "exampleEnglish": "The rumor propagated quickly online.",
+    "exampleSpanish": "El rumor se propagó rápido en línea.",
+    "level": "C2"
+  },
+  {
+    "english": "instigate",
+    "spanish": "instigar",
+    "exampleEnglish": "He instigated the protest last week.",
+    "exampleSpanish": "Él instigó la protesta la semana pasada.",
+    "level": "C2"
+  },
+  {
+    "english": "orchestrate",
+    "spanish": "orquestar (uso avanzado)",
+    "exampleEnglish": "The scandal was orchestrated by rivals.",
+    "exampleSpanish": "El escándalo fue orquestado por rivales.",
+    "level": "C2"
+  },
+  {
+    "english": "mitigate",
+    "spanish": "mitigar (uso avanzado)",
+    "exampleEnglish": "New measures aim to mitigate the damage.",
+    "exampleSpanish": "Nuevas medidas buscan mitigar el daño.",
+    "level": "C2"
+  },
+  {
+    "english": "indelible",
+    "spanish": "indeleble",
+    "exampleEnglish": "The experience left an indelible mark on her.",
+    "exampleSpanish": "La experiencia dejó una marca indeleble en ella.",
+    "level": "C2"
+  },
+  {
+    "english": "inexorable",
+    "spanish": "inexorable",
+    "exampleEnglish": "The inexorable rise of technology continues.",
+    "exampleSpanish": "El ascenso inexorable de la tecnología continúa.",
+    "level": "C2"
+  },
+  {
+    "english": "implacable",
+    "spanish": "implacable",
+    "exampleEnglish": "He faced implacable opposition from critics.",
+    "exampleSpanish": "Él enfrentó oposición implacable de los críticos.",
+    "level": "C2"
+  },
+  {
+    "english": "intransigent",
+    "spanish": "intransigente",
+    "exampleEnglish": "The union remained intransigent in negotiations.",
+    "exampleSpanish": "El sindicato se mantuvo intransigente en las negociaciones.",
+    "level": "C2"
+  },
+  {
+    "english": "unequivocal",
+    "spanish": "inequívoco",
+    "exampleEnglish": "She gave an unequivocal answer.",
+    "exampleSpanish": "Ella dio una respuesta inequívoca.",
+    "level": "C2"
+  },
+  {
+    "english": "unfathomable",
+    "spanish": "insondable",
+    "exampleEnglish": "The depth of his knowledge is unfathomable.",
+    "exampleSpanish": "La profundidad de su conocimiento es insondable.",
+    "level": "C2"
+  },
+  {
+    "english": "unassailable",
+    "spanish": "inatacable / irrefutable",
+    "exampleEnglish": "His argument was unassailable.",
+    "exampleSpanish": "Su argumento era irrefutable.",
+    "level": "C2"
+  },
+  {
+    "english": "unequivocally",
+    "spanish": "inequívocamente",
+    "exampleEnglish": "She unequivocally rejected the offer.",
+    "exampleSpanish": "Ella rechazó inequívocamente la oferta.",
+    "level": "C2"
+  },
+  {
+    "english": "meticulousness",
+    "spanish": "meticulosidad",
+    "exampleEnglish": "His meticulousness ensured no errors.",
+    "exampleSpanish": "Su meticulosidad aseguró que no hubiera errores.",
+    "level": "C2"
+  },
+  {
+    "english": "perfunctory",
+    "spanish": "superficial / hecho por rutina",
+    "exampleEnglish": "His apology felt perfunctory.",
+    "exampleSpanish": "Su disculpa se sintió superficial.",
+    "level": "C2"
+  },
+  {
+    "english": "cursory",
+    "spanish": "superficial / apresurado",
+    "exampleEnglish": "She gave the report only a cursory glance.",
+    "exampleSpanish": "Ella le dio al reporte solo un vistazo superficial.",
+    "level": "C2"
+  },
+  {
+    "english": "meticulous",
+    "spanish": "exhaustivo",
+    "exampleEnglish": "The audit was meticulous and thorough.",
+    "exampleSpanish": "La auditoría fue exhaustiva y minuciosa.",
+    "level": "C2"
+  },
+  {
+    "english": "prescient",
+    "spanish": "clarividente / previsor",
+    "exampleEnglish": "Her prediction was remarkably prescient.",
+    "exampleSpanish": "Su predicción fue notablemente clarividente.",
+    "level": "C2"
+  },
+  {
+    "english": "sagacious",
+    "spanish": "sagaz / perspicaz",
+    "exampleEnglish": "The sagacious advisor foresaw the crisis.",
+    "exampleSpanish": "El asesor sagaz previó la crisis.",
+    "level": "C2"
+  },
+  {
+    "english": "erudite",
+    "spanish": "erudito",
+    "exampleEnglish": "The professor is known for being erudite.",
+    "exampleSpanish": "El profesor es conocido por ser erudito.",
+    "level": "C2"
+  },
+  {
+    "english": "verbose",
+    "spanish": "verboso",
+    "exampleEnglish": "His writing style is unnecessarily verbose.",
+    "exampleSpanish": "Su estilo de escritura es innecesariamente verboso.",
+    "level": "C2"
+  },
+  {
+    "english": "laconic",
+    "spanish": "lacónico",
+    "exampleEnglish": "He gave a laconic reply to the question.",
+    "exampleSpanish": "Él dio una respuesta lacónica a la pregunta.",
+    "level": "C2"
+  },
+  {
+    "english": "terse",
+    "spanish": "conciso / seco",
+    "exampleEnglish": "Her email was terse but polite.",
+    "exampleSpanish": "Su correo fue conciso pero cortés.",
+    "level": "C2"
+  },
+  {
+    "english": "verisimilitude",
+    "spanish": "verosimilitud",
+    "exampleEnglish": "The film is praised for its verisimilitude.",
+    "exampleSpanish": "La película es elogiada por su verosimilitud.",
+    "level": "C2"
+  },
+  {
+    "english": "magnanimous",
+    "spanish": "magnánimo",
+    "exampleEnglish": "He was magnanimous in victory.",
+    "exampleSpanish": "Él fue magnánimo en la victoria.",
+    "level": "C2"
+  }
+]
