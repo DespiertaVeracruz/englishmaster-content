@@ -1,0 +1,1010 @@
+[
+  {
+    "english": "kitchen table",
+    "spanish": "mesa de cocina",
+    "exampleEnglish": "We eat breakfast at the kitchen table.",
+    "exampleSpanish": "Desayunamos en la mesa de cocina.",
+    "level": "A1"
+  },
+  {
+    "english": "living room",
+    "spanish": "sala",
+    "exampleEnglish": "The living room is very cozy.",
+    "exampleSpanish": "La sala es muy acogedora.",
+    "level": "A1"
+  },
+  {
+    "english": "bedroom",
+    "spanish": "recámara",
+    "exampleEnglish": "My bedroom is upstairs.",
+    "exampleSpanish": "Mi recámara está arriba.",
+    "level": "A1"
+  },
+  {
+    "english": "garage",
+    "spanish": "garaje",
+    "exampleEnglish": "The car is in the garage.",
+    "exampleSpanish": "El carro está en el garaje.",
+    "level": "A1"
+  },
+  {
+    "english": "garden",
+    "spanish": "jardín",
+    "exampleEnglish": "She planted flowers in the garden.",
+    "exampleSpanish": "Ella plantó flores en el jardín.",
+    "level": "A1"
+  },
+  {
+    "english": "neighbor",
+    "spanish": "vecino",
+    "exampleEnglish": "My neighbor is very friendly.",
+    "exampleSpanish": "Mi vecino es muy amigable.",
+    "level": "A1"
+  },
+  {
+    "english": "uncle",
+    "spanish": "tío",
+    "exampleEnglish": "My uncle lives in another city.",
+    "exampleSpanish": "Mi tío vive en otra ciudad.",
+    "level": "A1"
+  },
+  {
+    "english": "aunt",
+    "spanish": "tía",
+    "exampleEnglish": "My aunt visits us every summer.",
+    "exampleSpanish": "Mi tía nos visita cada verano.",
+    "level": "A1"
+  },
+  {
+    "english": "cousin",
+    "spanish": "primo/prima",
+    "exampleEnglish": "I have many cousins.",
+    "exampleSpanish": "Tengo muchos primos.",
+    "level": "A1"
+  },
+  {
+    "english": "grandmother",
+    "spanish": "abuela",
+    "exampleEnglish": "My grandmother makes great soup.",
+    "exampleSpanish": "Mi abuela hace una sopa deliciosa.",
+    "level": "A1"
+  },
+  {
+    "english": "grandfather",
+    "spanish": "abuelo",
+    "exampleEnglish": "My grandfather tells great stories.",
+    "exampleSpanish": "Mi abuelo cuenta grandes historias.",
+    "level": "A1"
+  },
+  {
+    "english": "baby",
+    "spanish": "bebé",
+    "exampleEnglish": "The baby is sleeping now.",
+    "exampleSpanish": "El bebé está durmiendo ahora.",
+    "level": "A1"
+  },
+  {
+    "english": "teenager",
+    "spanish": "adolescente",
+    "exampleEnglish": "My son is a teenager now.",
+    "exampleSpanish": "Mi hijo ya es adolescente.",
+    "level": "A1"
+  },
+  {
+    "english": "adult",
+    "spanish": "adulto",
+    "exampleEnglish": "This movie is for adults only.",
+    "exampleSpanish": "Esta película es solo para adultos.",
+    "level": "A1"
+  },
+  {
+    "english": "wife",
+    "spanish": "esposa",
+    "exampleEnglish": "His wife works at the hospital.",
+    "exampleSpanish": "Su esposa trabaja en el hospital.",
+    "level": "A1"
+  },
+  {
+    "english": "husband",
+    "spanish": "esposo",
+    "exampleEnglish": "Her husband cooks every Sunday.",
+    "exampleSpanish": "Su esposo cocina todos los domingos.",
+    "level": "A1"
+  },
+  {
+    "english": "neighbor's dog",
+    "spanish": "perro del vecino",
+    "exampleEnglish": "The neighbor's dog barks a lot.",
+    "exampleSpanish": "El perro del vecino ladra mucho.",
+    "level": "A1"
+  },
+  {
+    "english": "breakfast",
+    "spanish": "desayuno",
+    "exampleEnglish": "I eat cereal for breakfast.",
+    "exampleSpanish": "Como cereal en el desayuno.",
+    "level": "A1"
+  },
+  {
+    "english": "lunch",
+    "spanish": "almuerzo",
+    "exampleEnglish": "We have lunch at noon.",
+    "exampleSpanish": "Almorzamos al mediodía.",
+    "level": "A1"
+  },
+  {
+    "english": "dinner",
+    "spanish": "cena",
+    "exampleEnglish": "Dinner is ready at seven.",
+    "exampleSpanish": "La cena está lista a las siete.",
+    "level": "A1"
+  },
+  {
+    "english": "snack",
+    "spanish": "botana / colación",
+    "exampleEnglish": "I eat a snack in the afternoon.",
+    "exampleSpanish": "Como una botana en la tarde.",
+    "level": "A1"
+  },
+  {
+    "english": "sandwich",
+    "spanish": "sándwich",
+    "exampleEnglish": "I made a sandwich for lunch.",
+    "exampleSpanish": "Hice un sándwich para almorzar.",
+    "level": "A1"
+  },
+  {
+    "english": "soup",
+    "spanish": "sopa",
+    "exampleEnglish": "This soup is very hot.",
+    "exampleSpanish": "Esta sopa está muy caliente.",
+    "level": "A1"
+  },
+  {
+    "english": "salad",
+    "spanish": "ensalada",
+    "exampleEnglish": "She ordered a salad.",
+    "exampleSpanish": "Ella pidió una ensalada.",
+    "level": "A1"
+  },
+  {
+    "english": "cheese",
+    "spanish": "queso",
+    "exampleEnglish": "I like cheese on my sandwich.",
+    "exampleSpanish": "Me gusta el queso en mi sándwich.",
+    "level": "A1"
+  },
+  {
+    "english": "butter",
+    "spanish": "mantequilla",
+    "exampleEnglish": "Put some butter on the bread.",
+    "exampleSpanish": "Pon un poco de mantequilla en el pan.",
+    "level": "A1"
+  },
+  {
+    "english": "sugar",
+    "spanish": "azúcar",
+    "exampleEnglish": "I don't take sugar in my coffee.",
+    "exampleSpanish": "No le pongo azúcar a mi café.",
+    "level": "A1"
+  },
+  {
+    "english": "salt",
+    "spanish": "sal",
+    "exampleEnglish": "Please pass the salt.",
+    "exampleSpanish": "Por favor pásame la sal.",
+    "level": "A1"
+  },
+  {
+    "english": "pepper",
+    "spanish": "pimienta",
+    "exampleEnglish": "Add some pepper to the soup.",
+    "exampleSpanish": "Agrega un poco de pimienta a la sopa.",
+    "level": "A1"
+  },
+  {
+    "english": "juice",
+    "spanish": "jugo",
+    "exampleEnglish": "I drink orange juice every morning.",
+    "exampleSpanish": "Bebo jugo de naranja todas las mañanas.",
+    "level": "A1"
+  },
+  {
+    "english": "tea",
+    "spanish": "té",
+    "exampleEnglish": "Would you like a cup of tea?",
+    "exampleSpanish": "¿Te gustaría una taza de té?",
+    "level": "A1"
+  },
+  {
+    "english": "soda",
+    "spanish": "refresco",
+    "exampleEnglish": "He drinks too much soda.",
+    "exampleSpanish": "Él bebe demasiado refresco.",
+    "level": "A1"
+  },
+  {
+    "english": "banana",
+    "spanish": "plátano",
+    "exampleEnglish": "I eat a banana every day.",
+    "exampleSpanish": "Como un plátano todos los días.",
+    "level": "A1"
+  },
+  {
+    "english": "orange",
+    "spanish": "naranja",
+    "exampleEnglish": "This orange is very sweet.",
+    "exampleSpanish": "Esta naranja es muy dulce.",
+    "level": "A1"
+  },
+  {
+    "english": "grape",
+    "spanish": "uva",
+    "exampleEnglish": "We bought a bag of grapes.",
+    "exampleSpanish": "Compramos una bolsa de uvas.",
+    "level": "A1"
+  },
+  {
+    "english": "tomato",
+    "spanish": "tomate",
+    "exampleEnglish": "Add two tomatoes to the salad.",
+    "exampleSpanish": "Agrega dos tomates a la ensalada.",
+    "level": "A1"
+  },
+  {
+    "english": "potato",
+    "spanish": "papa",
+    "exampleEnglish": "We had potatoes with dinner.",
+    "exampleSpanish": "Comimos papas con la cena.",
+    "level": "A1"
+  },
+  {
+    "english": "onion",
+    "spanish": "cebolla",
+    "exampleEnglish": "Cut the onion into small pieces.",
+    "exampleSpanish": "Corta la cebolla en trozos pequeños.",
+    "level": "A1"
+  },
+  {
+    "english": "carrot",
+    "spanish": "zanahoria",
+    "exampleEnglish": "Rabbits love carrots.",
+    "exampleSpanish": "A los conejos les encantan las zanahorias.",
+    "level": "A1"
+  },
+  {
+    "english": "lettuce",
+    "spanish": "lechuga",
+    "exampleEnglish": "The salad has fresh lettuce.",
+    "exampleSpanish": "La ensalada tiene lechuga fresca.",
+    "level": "A1"
+  },
+  {
+    "english": "teacher",
+    "spanish": "maestro/maestra",
+    "exampleEnglish": "My teacher is very patient.",
+    "exampleSpanish": "Mi maestra es muy paciente.",
+    "level": "A1"
+  },
+  {
+    "english": "student",
+    "spanish": "estudiante",
+    "exampleEnglish": "She is a good student.",
+    "exampleSpanish": "Ella es una buena estudiante.",
+    "level": "A1"
+  },
+  {
+    "english": "classroom",
+    "spanish": "salón de clases",
+    "exampleEnglish": "The classroom has twenty desks.",
+    "exampleSpanish": "El salón de clases tiene veinte escritorios.",
+    "level": "A1"
+  },
+  {
+    "english": "pencil",
+    "spanish": "lápiz",
+    "exampleEnglish": "Can I borrow your pencil?",
+    "exampleSpanish": "¿Me prestas tu lápiz?",
+    "level": "A1"
+  },
+  {
+    "english": "pen",
+    "spanish": "pluma / bolígrafo",
+    "exampleEnglish": "I write with a blue pen.",
+    "exampleSpanish": "Escribo con una pluma azul.",
+    "level": "A1"
+  },
+  {
+    "english": "notebook",
+    "spanish": "cuaderno",
+    "exampleEnglish": "I wrote it in my notebook.",
+    "exampleSpanish": "Lo escribí en mi cuaderno.",
+    "level": "A1"
+  },
+  {
+    "english": "backpack",
+    "spanish": "mochila (escolar)",
+    "exampleEnglish": "My backpack is very heavy.",
+    "exampleSpanish": "Mi mochila está muy pesada.",
+    "level": "A1"
+  },
+  {
+    "english": "desk",
+    "spanish": "escritorio",
+    "exampleEnglish": "Put your books on the desk.",
+    "exampleSpanish": "Pon tus libros en el escritorio.",
+    "level": "A1"
+  },
+  {
+    "english": "board",
+    "spanish": "pizarrón",
+    "exampleEnglish": "The teacher wrote on the board.",
+    "exampleSpanish": "La maestra escribió en el pizarrón.",
+    "level": "A1"
+  },
+  {
+    "english": "question",
+    "spanish": "pregunta",
+    "exampleEnglish": "I have a question for you.",
+    "exampleSpanish": "Tengo una pregunta para ti.",
+    "level": "A1"
+  },
+  {
+    "english": "answer",
+    "spanish": "respuesta",
+    "exampleEnglish": "Your answer is correct.",
+    "exampleSpanish": "Tu respuesta es correcta.",
+    "level": "A1"
+  },
+  {
+    "english": "test",
+    "spanish": "examen / prueba",
+    "exampleEnglish": "We have a test tomorrow.",
+    "exampleSpanish": "Tenemos un examen mañana.",
+    "level": "A1"
+  },
+  {
+    "english": "grade",
+    "spanish": "calificación (escolar)",
+    "exampleEnglish": "She got a good grade on the test.",
+    "exampleSpanish": "Ella sacó buena calificación en el examen.",
+    "level": "A1"
+  },
+  {
+    "english": "subject",
+    "spanish": "materia (básico)",
+    "exampleEnglish": "Science is my favorite subject.",
+    "exampleSpanish": "Ciencias es mi materia favorita.",
+    "level": "A1"
+  },
+  {
+    "english": "holiday",
+    "spanish": "día festivo / vacaciones",
+    "exampleEnglish": "We travel every holiday.",
+    "exampleSpanish": "Viajamos en cada día festivo.",
+    "level": "A1"
+  },
+  {
+    "english": "birthday",
+    "spanish": "cumpleaños",
+    "exampleEnglish": "Her birthday is in May.",
+    "exampleSpanish": "Su cumpleaños es en mayo.",
+    "level": "A1"
+  },
+  {
+    "english": "party",
+    "spanish": "fiesta",
+    "exampleEnglish": "We had a party last weekend.",
+    "exampleSpanish": "Tuvimos una fiesta el fin de semana pasado.",
+    "level": "A1"
+  },
+  {
+    "english": "gift",
+    "spanish": "regalo",
+    "exampleEnglish": "I bought her a gift.",
+    "exampleSpanish": "Le compré un regalo.",
+    "level": "A1"
+  },
+  {
+    "english": "cake",
+    "spanish": "pastel",
+    "exampleEnglish": "We ate cake at the party.",
+    "exampleSpanish": "Comimos pastel en la fiesta.",
+    "level": "A1"
+  },
+  {
+    "english": "candle",
+    "spanish": "vela",
+    "exampleEnglish": "She blew out the candles.",
+    "exampleSpanish": "Ella apagó las velas.",
+    "level": "A1"
+  },
+  {
+    "english": "guest",
+    "spanish": "invitado",
+    "exampleEnglish": "We invited ten guests.",
+    "exampleSpanish": "Invitamos a diez invitados.",
+    "level": "A1"
+  },
+  {
+    "english": "invitation",
+    "spanish": "invitación",
+    "exampleEnglish": "I sent the invitations yesterday.",
+    "exampleSpanish": "Envié las invitaciones ayer.",
+    "level": "A1"
+  },
+  {
+    "english": "weekend",
+    "spanish": "fin de semana",
+    "exampleEnglish": "We rest on the weekend.",
+    "exampleSpanish": "Descansamos el fin de semana.",
+    "level": "A1"
+  },
+  {
+    "english": "hour",
+    "spanish": "hora",
+    "exampleEnglish": "The movie lasts two hours.",
+    "exampleSpanish": "La película dura dos horas.",
+    "level": "A1"
+  },
+  {
+    "english": "minute",
+    "spanish": "minuto",
+    "exampleEnglish": "Wait a minute, please.",
+    "exampleSpanish": "Espera un minuto, por favor.",
+    "level": "A1"
+  },
+  {
+    "english": "second",
+    "spanish": "segundo (tiempo)",
+    "exampleEnglish": "It only takes a second.",
+    "exampleSpanish": "Solo toma un segundo.",
+    "level": "A1"
+  },
+  {
+    "english": "clock",
+    "spanish": "reloj (de pared)",
+    "exampleEnglish": "The clock on the wall is broken.",
+    "exampleSpanish": "El reloj de la pared está descompuesto.",
+    "level": "A1"
+  },
+  {
+    "english": "watch",
+    "spanish": "reloj de pulsera",
+    "exampleEnglish": "He wears a nice watch.",
+    "exampleSpanish": "Él usa un reloj bonito.",
+    "level": "A1"
+  },
+  {
+    "english": "calendar",
+    "spanish": "calendario",
+    "exampleEnglish": "Mark it on the calendar.",
+    "exampleSpanish": "Márcalo en el calendario.",
+    "level": "A1"
+  },
+  {
+    "english": "month",
+    "spanish": "mes",
+    "exampleEnglish": "This month is very busy.",
+    "exampleSpanish": "Este mes está muy ocupado.",
+    "level": "A1"
+  },
+  {
+    "english": "season",
+    "spanish": "estación (del año)",
+    "exampleEnglish": "Summer is my favorite season.",
+    "exampleSpanish": "El verano es mi estación favorita.",
+    "level": "A1"
+  },
+  {
+    "english": "spring",
+    "spanish": "primavera",
+    "exampleEnglish": "Flowers bloom in spring.",
+    "exampleSpanish": "Las flores florecen en primavera.",
+    "level": "A1"
+  },
+  {
+    "english": "summer",
+    "spanish": "verano",
+    "exampleEnglish": "It's very hot in summer.",
+    "exampleSpanish": "Hace mucho calor en verano.",
+    "level": "A1"
+  },
+  {
+    "english": "autumn",
+    "spanish": "otoño",
+    "exampleEnglish": "Leaves fall in autumn.",
+    "exampleSpanish": "Las hojas caen en otoño.",
+    "level": "A1"
+  },
+  {
+    "english": "winter",
+    "spanish": "invierno",
+    "exampleEnglish": "It snows a lot in winter.",
+    "exampleSpanish": "Nieva mucho en invierno.",
+    "level": "A1"
+  },
+  {
+    "english": "north",
+    "spanish": "norte",
+    "exampleEnglish": "The wind comes from the north.",
+    "exampleSpanish": "El viento viene del norte.",
+    "level": "A1"
+  },
+  {
+    "english": "south",
+    "spanish": "sur",
+    "exampleEnglish": "We drove south for two hours.",
+    "exampleSpanish": "Manejamos hacia el sur dos horas.",
+    "level": "A1"
+  },
+  {
+    "english": "east",
+    "spanish": "este",
+    "exampleEnglish": "The sun rises in the east.",
+    "exampleSpanish": "El sol sale por el este.",
+    "level": "A1"
+  },
+  {
+    "english": "west",
+    "spanish": "oeste",
+    "exampleEnglish": "The sun sets in the west.",
+    "exampleSpanish": "El sol se pone por el oeste.",
+    "level": "A1"
+  },
+  {
+    "english": "left",
+    "spanish": "izquierda",
+    "exampleEnglish": "Turn left at the corner.",
+    "exampleSpanish": "Da vuelta a la izquierda en la esquina.",
+    "level": "A1"
+  },
+  {
+    "english": "right",
+    "spanish": "derecha",
+    "exampleEnglish": "The store is on the right.",
+    "exampleSpanish": "La tienda está a la derecha.",
+    "level": "A1"
+  },
+  {
+    "english": "near",
+    "spanish": "cerca",
+    "exampleEnglish": "The park is near my house.",
+    "exampleSpanish": "El parque está cerca de mi casa.",
+    "level": "A1"
+  },
+  {
+    "english": "far",
+    "spanish": "lejos",
+    "exampleEnglish": "The airport is far from here.",
+    "exampleSpanish": "El aeropuerto está lejos de aquí.",
+    "level": "A1"
+  },
+  {
+    "english": "inside",
+    "spanish": "adentro",
+    "exampleEnglish": "Let's go inside, it's cold.",
+    "exampleSpanish": "Entremos, hace frío.",
+    "level": "A1"
+  },
+  {
+    "english": "outside",
+    "spanish": "afuera",
+    "exampleEnglish": "The kids are playing outside.",
+    "exampleSpanish": "Los niños están jugando afuera.",
+    "level": "A1"
+  },
+  {
+    "english": "above",
+    "spanish": "arriba de",
+    "exampleEnglish": "The picture is above the sofa.",
+    "exampleSpanish": "El cuadro está arriba del sofá.",
+    "level": "A1"
+  },
+  {
+    "english": "below",
+    "spanish": "abajo de",
+    "exampleEnglish": "The cat is below the table.",
+    "exampleSpanish": "El gato está abajo de la mesa.",
+    "level": "A1"
+  },
+  {
+    "english": "between",
+    "spanish": "entre",
+    "exampleEnglish": "The bank is between the store and the park.",
+    "exampleSpanish": "El banco está entre la tienda y el parque.",
+    "level": "A1"
+  },
+  {
+    "english": "teacher's desk",
+    "spanish": "escritorio del maestro",
+    "exampleEnglish": "The books are on the teacher's desk.",
+    "exampleSpanish": "Los libros están en el escritorio del maestro.",
+    "level": "A1"
+  },
+  {
+    "english": "umbrella",
+    "spanish": "paraguas",
+    "exampleEnglish": "Take an umbrella, it might rain.",
+    "exampleSpanish": "Lleva un paraguas, podría llover.",
+    "level": "A1"
+  },
+  {
+    "english": "glasses",
+    "spanish": "lentes",
+    "exampleEnglish": "She wears glasses to read.",
+    "exampleSpanish": "Ella usa lentes para leer.",
+    "level": "A1"
+  },
+  {
+    "english": "hat",
+    "spanish": "sombrero",
+    "exampleEnglish": "He wore a hat in the sun.",
+    "exampleSpanish": "Él usó un sombrero bajo el sol.",
+    "level": "A1"
+  },
+  {
+    "english": "gloves",
+    "spanish": "guantes",
+    "exampleEnglish": "Wear gloves, it's cold outside.",
+    "exampleSpanish": "Usa guantes, hace frío afuera.",
+    "level": "A1"
+  },
+  {
+    "english": "socks",
+    "spanish": "calcetines",
+    "exampleEnglish": "I need new socks.",
+    "exampleSpanish": "Necesito calcetines nuevos.",
+    "level": "A1"
+  },
+  {
+    "english": "belt",
+    "spanish": "cinturón",
+    "exampleEnglish": "His belt matches his shoes.",
+    "exampleSpanish": "Su cinturón combina con sus zapatos.",
+    "level": "A1"
+  },
+  {
+    "english": "dress",
+    "spanish": "vestido",
+    "exampleEnglish": "She wore a red dress.",
+    "exampleSpanish": "Ella usó un vestido rojo.",
+    "level": "A1"
+  },
+  {
+    "english": "skirt",
+    "spanish": "falda",
+    "exampleEnglish": "The skirt is very short.",
+    "exampleSpanish": "La falda es muy corta.",
+    "level": "A1"
+  },
+  {
+    "english": "pants",
+    "spanish": "pantalones",
+    "exampleEnglish": "These pants are too big.",
+    "exampleSpanish": "Estos pantalones están muy grandes.",
+    "level": "A1"
+  },
+  {
+    "english": "sweater",
+    "spanish": "suéter",
+    "exampleEnglish": "Put on a sweater, it's cold.",
+    "exampleSpanish": "Ponte un suéter, hace frío.",
+    "level": "A1"
+  },
+  {
+    "english": "boots",
+    "spanish": "botas",
+    "exampleEnglish": "She bought new boots for winter.",
+    "exampleSpanish": "Ella compró botas nuevas para el invierno.",
+    "level": "A1"
+  },
+  {
+    "english": "suitcase",
+    "spanish": "maleta",
+    "exampleEnglish": "I packed my suitcase last night.",
+    "exampleSpanish": "Empaqué mi maleta anoche.",
+    "level": "A1"
+  },
+  {
+    "english": "photo",
+    "spanish": "foto",
+    "exampleEnglish": "This is a photo of my family.",
+    "exampleSpanish": "Esta es una foto de mi familia.",
+    "level": "A1"
+  },
+  {
+    "english": "camera",
+    "spanish": "cámara",
+    "exampleEnglish": "She took photos with her camera.",
+    "exampleSpanish": "Ella tomó fotos con su cámara.",
+    "level": "A1"
+  },
+  {
+    "english": "radio",
+    "spanish": "radio",
+    "exampleEnglish": "I listen to the radio every morning.",
+    "exampleSpanish": "Escucho la radio todas las mañanas.",
+    "level": "A1"
+  },
+  {
+    "english": "television",
+    "spanish": "televisión",
+    "exampleEnglish": "We watch television after dinner.",
+    "exampleSpanish": "Vemos televisión después de la cena.",
+    "level": "A1"
+  },
+  {
+    "english": "movie",
+    "spanish": "película",
+    "exampleEnglish": "We watched a movie last night.",
+    "exampleSpanish": "Vimos una película anoche.",
+    "level": "A1"
+  },
+  {
+    "english": "song",
+    "spanish": "canción",
+    "exampleEnglish": "This is my favorite song.",
+    "exampleSpanish": "Esta es mi canción favorita.",
+    "level": "A1"
+  },
+  {
+    "english": "music",
+    "spanish": "música",
+    "exampleEnglish": "I love listening to music.",
+    "exampleSpanish": "Amo escuchar música.",
+    "level": "A1"
+  },
+  {
+    "english": "game",
+    "spanish": "juego",
+    "exampleEnglish": "The kids are playing a game.",
+    "exampleSpanish": "Los niños están jugando un juego.",
+    "level": "A1"
+  },
+  {
+    "english": "toy",
+    "spanish": "juguete",
+    "exampleEnglish": "The children have many toys.",
+    "exampleSpanish": "Los niños tienen muchos juguetes.",
+    "level": "A1"
+  },
+  {
+    "english": "ball",
+    "spanish": "pelota",
+    "exampleEnglish": "The dog chased the ball.",
+    "exampleSpanish": "El perro persiguió la pelota.",
+    "level": "A1"
+  },
+  {
+    "english": "bicycle",
+    "spanish": "bicicleta",
+    "exampleEnglish": "I ride my bicycle to school.",
+    "exampleSpanish": "Voy en bicicleta a la escuela.",
+    "level": "A1"
+  },
+  {
+    "english": "motorcycle",
+    "spanish": "motocicleta",
+    "exampleEnglish": "He rides a motorcycle to work.",
+    "exampleSpanish": "Él va en motocicleta al trabajo.",
+    "level": "A1"
+  },
+  {
+    "english": "boat",
+    "spanish": "bote / barco",
+    "exampleEnglish": "We took a boat across the lake.",
+    "exampleSpanish": "Cruzamos el lago en bote.",
+    "level": "A1"
+  },
+  {
+    "english": "bridge",
+    "spanish": "puente",
+    "exampleEnglish": "The bridge crosses the river.",
+    "exampleSpanish": "El puente cruza el río.",
+    "level": "A1"
+  },
+  {
+    "english": "park",
+    "spanish": "parque",
+    "exampleEnglish": "We walk in the park every day.",
+    "exampleSpanish": "Caminamos en el parque todos los días.",
+    "level": "A1"
+  },
+  {
+    "english": "church",
+    "spanish": "iglesia",
+    "exampleEnglish": "The church is very old.",
+    "exampleSpanish": "La iglesia es muy antigua.",
+    "level": "A1"
+  },
+  {
+    "english": "library",
+    "spanish": "biblioteca",
+    "exampleEnglish": "I borrowed a book from the library.",
+    "exampleSpanish": "Tomé prestado un libro de la biblioteca.",
+    "level": "A1"
+  },
+  {
+    "english": "museum",
+    "spanish": "museo",
+    "exampleEnglish": "We visited a museum last week.",
+    "exampleSpanish": "Visitamos un museo la semana pasada.",
+    "level": "A1"
+  },
+  {
+    "english": "zoo",
+    "spanish": "zoológico",
+    "exampleEnglish": "The children love the zoo.",
+    "exampleSpanish": "A los niños les encanta el zoológico.",
+    "level": "A1"
+  },
+  {
+    "english": "market",
+    "spanish": "mercado",
+    "exampleEnglish": "We buy vegetables at the market.",
+    "exampleSpanish": "Compramos verduras en el mercado.",
+    "level": "A1"
+  },
+  {
+    "english": "mall",
+    "spanish": "centro comercial",
+    "exampleEnglish": "We went shopping at the mall.",
+    "exampleSpanish": "Fuimos de compras al centro comercial.",
+    "level": "A1"
+  },
+  {
+    "english": "gas station",
+    "spanish": "gasolinera",
+    "exampleEnglish": "We stopped at a gas station.",
+    "exampleSpanish": "Nos detuvimos en una gasolinera.",
+    "level": "A1"
+  },
+  {
+    "english": "post office",
+    "spanish": "oficina de correos",
+    "exampleEnglish": "I sent the letter at the post office.",
+    "exampleSpanish": "Envié la carta en la oficina de correos.",
+    "level": "A1"
+  },
+  {
+    "english": "police station",
+    "spanish": "estación de policía",
+    "exampleEnglish": "The police station is downtown.",
+    "exampleSpanish": "La estación de policía está en el centro.",
+    "level": "A1"
+  },
+  {
+    "english": "fire station",
+    "spanish": "estación de bomberos",
+    "exampleEnglish": "The fire station is near my house.",
+    "exampleSpanish": "La estación de bomberos está cerca de mi casa.",
+    "level": "A1"
+  },
+  {
+    "english": "traffic light",
+    "spanish": "semáforo",
+    "exampleEnglish": "Stop at the traffic light.",
+    "exampleSpanish": "Detente en el semáforo.",
+    "level": "A1"
+  },
+  {
+    "english": "sidewalk",
+    "spanish": "acera",
+    "exampleEnglish": "Walk on the sidewalk, not the street.",
+    "exampleSpanish": "Camina por la acera, no por la calle.",
+    "level": "A1"
+  },
+  {
+    "english": "crosswalk",
+    "spanish": "cruce peatonal",
+    "exampleEnglish": "Use the crosswalk to cross the street.",
+    "exampleSpanish": "Usa el cruce peatonal para cruzar la calle.",
+    "level": "A1"
+  },
+  {
+    "english": "elevator",
+    "spanish": "elevador",
+    "exampleEnglish": "Let's take the elevator.",
+    "exampleSpanish": "Tomemos el elevador.",
+    "level": "A1"
+  },
+  {
+    "english": "stairs",
+    "spanish": "escaleras",
+    "exampleEnglish": "She walked up the stairs.",
+    "exampleSpanish": "Ella subió las escaleras.",
+    "level": "A1"
+  },
+  {
+    "english": "roof",
+    "spanish": "techo",
+    "exampleEnglish": "There is a bird on the roof.",
+    "exampleSpanish": "Hay un pájaro en el techo.",
+    "level": "A1"
+  },
+  {
+    "english": "wall",
+    "spanish": "pared / muro",
+    "exampleEnglish": "We painted the wall blue.",
+    "exampleSpanish": "Pintamos la pared de azul.",
+    "level": "A1"
+  },
+  {
+    "english": "floor",
+    "spanish": "piso",
+    "exampleEnglish": "The floor is very clean.",
+    "exampleSpanish": "El piso está muy limpio.",
+    "level": "A1"
+  },
+  {
+    "english": "stove",
+    "spanish": "estufa (básico)",
+    "exampleEnglish": "Be careful, the stove is hot.",
+    "exampleSpanish": "Ten cuidado, la estufa está caliente.",
+    "level": "A1"
+  },
+  {
+    "english": "fridge",
+    "spanish": "refrigerador",
+    "exampleEnglish": "Put the milk in the fridge.",
+    "exampleSpanish": "Pon la leche en el refrigerador.",
+    "level": "A1"
+  },
+  {
+    "english": "sink",
+    "spanish": "fregadero",
+    "exampleEnglish": "Wash the dishes in the sink.",
+    "exampleSpanish": "Lava los platos en el fregadero.",
+    "level": "A1"
+  },
+  {
+    "english": "towel",
+    "spanish": "toalla",
+    "exampleEnglish": "Use this towel to dry your hands.",
+    "exampleSpanish": "Usa esta toalla para secarte las manos.",
+    "level": "A1"
+  },
+  {
+    "english": "soap",
+    "spanish": "jabón",
+    "exampleEnglish": "Wash your hands with soap.",
+    "exampleSpanish": "Lávate las manos con jabón.",
+    "level": "A1"
+  },
+  {
+    "english": "toothbrush",
+    "spanish": "cepillo de dientes",
+    "exampleEnglish": "I need a new toothbrush.",
+    "exampleSpanish": "Necesito un cepillo de dientes nuevo.",
+    "level": "A1"
+  },
+  {
+    "english": "shampoo",
+    "spanish": "champú",
+    "exampleEnglish": "This shampoo smells nice.",
+    "exampleSpanish": "Este champú huele bien.",
+    "level": "A1"
+  },
+  {
+    "english": "mirror",
+    "spanish": "espejo (básico)",
+    "exampleEnglish": "She checked her hair in the mirror.",
+    "exampleSpanish": "Ella revisó su cabello en el espejo.",
+    "level": "A1"
+  },
+  {
+    "english": "lamp",
+    "spanish": "lámpara",
+    "exampleEnglish": "Turn on the lamp, please.",
+    "exampleSpanish": "Enciende la lámpara, por favor.",
+    "level": "A1"
+  },
+  {
+    "english": "candle",
+    "spanish": "vela (uso general)",
+    "exampleEnglish": "We lit a candle during the storm.",
+    "exampleSpanish": "Encendimos una vela durante la tormenta.",
+    "level": "A1"
+  }
+]
