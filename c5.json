@@ -1,0 +1,492 @@
+[
+  {
+    "english": "abstemious",
+    "spanish": "abstemio / moderado",
+    "exampleEnglish": "He lived an abstemious life, avoiding excess.",
+    "exampleSpanish": "Él llevó una vida abstemia, evitando los excesos.",
+    "level": "C5"
+  },
+  {
+    "english": "adumbrate",
+    "spanish": "esbozar / insinuar",
+    "exampleEnglish": "The report only adumbrates the full plan.",
+    "exampleSpanish": "El reporte solo esboza el plan completo.",
+    "level": "C5"
+  },
+  {
+    "english": "anodyne",
+    "spanish": "anodino / inofensivo",
+    "exampleEnglish": "His anodyne response satisfied no one.",
+    "exampleSpanish": "Su respuesta anodina no satisfizo a nadie.",
+    "level": "C5"
+  },
+  {
+    "english": "apotheosis",
+    "spanish": "apoteosis / máxima expresión",
+    "exampleEnglish": "The concert was the apotheosis of her career.",
+    "exampleSpanish": "El concierto fue la apoteosis de su carrera.",
+    "level": "C5"
+  },
+  {
+    "english": "approbation",
+    "spanish": "aprobación (formal)",
+    "exampleEnglish": "The proposal received widespread approbation.",
+    "exampleSpanish": "La propuesta recibió amplia aprobación.",
+    "level": "C5"
+  },
+  {
+    "english": "assiduous",
+    "spanish": "asiduo / diligente",
+    "exampleEnglish": "Her assiduous efforts paid off eventually.",
+    "exampleSpanish": "Sus esfuerzos diligentes dieron fruto eventualmente.",
+    "level": "C5"
+  },
+  {
+    "english": "bellicose",
+    "spanish": "belicoso",
+    "exampleEnglish": "His bellicose rhetoric alarmed diplomats.",
+    "exampleSpanish": "Su retórica belicosa alarmó a los diplomáticos.",
+    "level": "C5"
+  },
+  {
+    "english": "bombastic",
+    "spanish": "grandilocuente / pomposo",
+    "exampleEnglish": "The speech was bombastic and empty.",
+    "exampleSpanish": "El discurso fue grandilocuente y vacío.",
+    "level": "C5"
+  },
+  {
+    "english": "cavil",
+    "spanish": "objetar por nimiedades",
+    "exampleEnglish": "Critics caviled at minor details in the report.",
+    "exampleSpanish": "Los críticos objetaron por nimiedades en el reporte.",
+    "level": "C5"
+  },
+  {
+    "english": "chimerical",
+    "spanish": "quimérico / ilusorio",
+    "exampleEnglish": "His chimerical plans never materialized.",
+    "exampleSpanish": "Sus planes quiméricos nunca se materializaron.",
+    "level": "C5"
+  },
+  {
+    "english": "chthonic",
+    "spanish": "ctónico / subterráneo (mitológico)",
+    "exampleEnglish": "The myth describes chthonic deities.",
+    "exampleSpanish": "El mito describe deidades ctónicas.",
+    "level": "C5"
+  },
+  {
+    "english": "contumacious",
+    "spanish": "contumaz / rebelde",
+    "exampleEnglish": "The contumacious witness refused to testify.",
+    "exampleSpanish": "El testigo contumaz se negó a testificar.",
+    "level": "C5"
+  },
+  {
+    "english": "declivity",
+    "spanish": "declive / pendiente",
+    "exampleEnglish": "The path descended along a gentle declivity.",
+    "exampleSpanish": "El sendero descendía a lo largo de un declive suave.",
+    "level": "C5"
+  },
+  {
+    "english": "desuetude",
+    "spanish": "desuso",
+    "exampleEnglish": "The old law fell into desuetude decades ago.",
+    "exampleSpanish": "La vieja ley cayó en desuso hace décadas.",
+    "level": "C5"
+  },
+  {
+    "english": "dilatory",
+    "spanish": "dilatorio / lento a propósito",
+    "exampleEnglish": "The company used dilatory tactics to avoid paying.",
+    "exampleSpanish": "La empresa usó tácticas dilatorias para evitar pagar.",
+    "level": "C5"
+  },
+  {
+    "english": "disquisition",
+    "spanish": "disertación",
+    "exampleEnglish": "He gave a long disquisition on tax policy.",
+    "exampleSpanish": "Él dio una larga disertación sobre política fiscal.",
+    "level": "C5"
+  },
+  {
+    "english": "eleemosynary",
+    "spanish": "caritativo / de beneficencia",
+    "exampleEnglish": "The eleemosynary institution helps the homeless.",
+    "exampleSpanish": "La institución de beneficencia ayuda a las personas sin hogar.",
+    "level": "C5"
+  },
+  {
+    "english": "emollient",
+    "spanish": "emoliente / suavizante (figurado)",
+    "exampleEnglish": "Her emollient words calmed the tense meeting.",
+    "exampleSpanish": "Sus palabras suavizadoras calmaron la reunión tensa.",
+    "level": "C5"
+  },
+  {
+    "english": "epistemic",
+    "spanish": "epistémico",
+    "exampleEnglish": "The debate raised epistemic questions about truth.",
+    "exampleSpanish": "El debate planteó preguntas epistémicas sobre la verdad.",
+    "level": "C5"
+  },
+  {
+    "english": "evanescent",
+    "spanish": "evanescente",
+    "exampleEnglish": "The beauty of the sunset was evanescent.",
+    "exampleSpanish": "La belleza del atardecer fue evanescente.",
+    "level": "C5"
+  },
+  {
+    "english": "execrable",
+    "spanish": "execrable / detestable",
+    "exampleEnglish": "The service at the restaurant was execrable.",
+    "exampleSpanish": "El servicio en el restaurante fue execrable.",
+    "level": "C5"
+  },
+  {
+    "english": "factitious",
+    "spanish": "artificial / ficticio",
+    "exampleEnglish": "The crisis was largely factitious, created by rumors.",
+    "exampleSpanish": "La crisis fue mayormente ficticia, creada por rumores.",
+    "level": "C5"
+  },
+  {
+    "english": "fissiparous",
+    "spanish": "propenso a dividirse",
+    "exampleEnglish": "The party became fissiparous after the scandal.",
+    "exampleSpanish": "El partido se volvió propenso a dividirse después del escándalo.",
+    "level": "C5"
+  },
+  {
+    "english": "garrulity",
+    "spanish": "locuacidad excesiva",
+    "exampleEnglish": "His garrulity made meetings run long.",
+    "exampleSpanish": "Su locuacidad excesiva hacía que las reuniones se alargaran.",
+    "level": "C5"
+  },
+  {
+    "english": "gustatory",
+    "spanish": "gustativo",
+    "exampleEnglish": "The dish offered a complex gustatory experience.",
+    "exampleSpanish": "El platillo ofreció una experiencia gustativa compleja.",
+    "level": "C5"
+  },
+  {
+    "english": "halcyon days",
+    "spanish": "días apacibles (uso literario)",
+    "exampleEnglish": "She often spoke of the halcyon days before the war.",
+    "exampleSpanish": "Ella a menudo hablaba de los días apacibles antes de la guerra.",
+    "level": "C5"
+  },
+  {
+    "english": "hebetude",
+    "spanish": "letargo mental",
+    "exampleEnglish": "The lecture induced a state of hebetude.",
+    "exampleSpanish": "La conferencia indujo un estado de letargo mental.",
+    "level": "C5"
+  },
+  {
+    "english": "hortatory",
+    "spanish": "exhortativo",
+    "exampleEnglish": "The coach gave a hortatory speech before the game.",
+    "exampleSpanish": "El entrenador dio un discurso exhortativo antes del juego.",
+    "level": "C5"
+  },
+  {
+    "english": "ignominious",
+    "spanish": "ignominioso / vergonzoso",
+    "exampleEnglish": "The team suffered an ignominious defeat.",
+    "exampleSpanish": "El equipo sufrió una derrota ignominiosa.",
+    "level": "C5"
+  },
+  {
+    "english": "importune",
+    "spanish": "importunar / insistir molestamente",
+    "exampleEnglish": "He continued to importune her for a response.",
+    "exampleSpanish": "Él siguió importunándola por una respuesta.",
+    "level": "C5"
+  },
+  {
+    "english": "insouciance",
+    "spanish": "despreocupación",
+    "exampleEnglish": "Her insouciance masked deep anxiety.",
+    "exampleSpanish": "Su despreocupación ocultaba una profunda ansiedad.",
+    "level": "C5"
+  },
+  {
+    "english": "internecine",
+    "spanish": "de conflicto interno mutuamente destructivo",
+    "exampleEnglish": "The internecine rivalry weakened the whole party.",
+    "exampleSpanish": "La rivalidad interna destructiva debilitó a todo el partido.",
+    "level": "C5"
+  },
+  {
+    "english": "jejune",
+    "spanish": "insustancial / infantil (idea)",
+    "exampleEnglish": "The essay was criticized as jejune and shallow.",
+    "exampleSpanish": "El ensayo fue criticado por ser insustancial y superficial.",
+    "level": "C5"
+  },
+  {
+    "english": "lachrymose",
+    "spanish": "lacrimoso / propenso al llanto",
+    "exampleEnglish": "The lachrymose ending moved the whole audience.",
+    "exampleSpanish": "El final lacrimoso conmovió a toda la audiencia.",
+    "level": "C5"
+  },
+  {
+    "english": "lapidary",
+    "spanish": "lapidario / conciso y elegante (estilo)",
+    "exampleEnglish": "Her lapidary prose impressed the critics.",
+    "exampleSpanish": "Su prosa lapidaria impresionó a los críticos.",
+    "level": "C5"
+  },
+  {
+    "english": "logorrhea",
+    "spanish": "logorrea / verborrea",
+    "exampleEnglish": "His logorrhea made the meeting drag on forever.",
+    "exampleSpanish": "Su verborrea hizo que la reunión se alargara sin fin.",
+    "level": "C5"
+  },
+  {
+    "english": "magnanimity",
+    "spanish": "magnanimidad",
+    "exampleEnglish": "He treated his rivals with magnanimity.",
+    "exampleSpanish": "Él trató a sus rivales con magnanimidad.",
+    "level": "C5"
+  },
+  {
+    "english": "mellifluous",
+    "spanish": "melifluo",
+    "exampleEnglish": "Her mellifluous voice captivated the audience.",
+    "exampleSpanish": "Su voz meliflua cautivó a la audiencia.",
+    "level": "C5"
+  },
+  {
+    "english": "mendicant",
+    "spanish": "mendicante",
+    "exampleEnglish": "The mendicant monks relied on charity.",
+    "exampleSpanish": "Los monjes mendicantes dependían de la caridad.",
+    "level": "C5"
+  },
+  {
+    "english": "nadir",
+    "spanish": "punto más bajo / nadir",
+    "exampleEnglish": "The company's reputation reached its nadir that year.",
+    "exampleSpanish": "La reputación de la empresa alcanzó su punto más bajo ese año.",
+    "level": "C5"
+  },
+  {
+    "english": "obstreperous",
+    "spanish": "escandaloso / rebelde",
+    "exampleEnglish": "The obstreperous crowd refused to disperse.",
+    "exampleSpanish": "La multitud escandalosa se negó a dispersarse.",
+    "level": "C5"
+  },
+  {
+    "english": "officious",
+    "spanish": "oficioso / entrometido",
+    "exampleEnglish": "The officious clerk delayed the process unnecessarily.",
+    "exampleSpanish": "El empleado entrometido retrasó el proceso innecesariamente.",
+    "level": "C5"
+  },
+  {
+    "english": "palliate",
+    "spanish": "paliar / mitigar",
+    "exampleEnglish": "The measures only palliate the underlying problem.",
+    "exampleSpanish": "Las medidas solo palian el problema subyacente.",
+    "level": "C5"
+  },
+  {
+    "english": "pellucid",
+    "spanish": "cristalino / muy claro",
+    "exampleEnglish": "Her explanation was pellucid and easy to follow.",
+    "exampleSpanish": "Su explicación fue cristalina y fácil de seguir.",
+    "level": "C5"
+  },
+  {
+    "english": "perspicuous",
+    "spanish": "perspicuo / claro en expresión",
+    "exampleEnglish": "The instructions were perspicuous and concise.",
+    "exampleSpanish": "Las instrucciones fueron claras y concisas.",
+    "level": "C5"
+  },
+  {
+    "english": "pontificate",
+    "spanish": "pontificar / hablar con pomposidad",
+    "exampleEnglish": "He tends to pontificate about topics he barely understands.",
+    "exampleSpanish": "Él tiende a pontificar sobre temas que apenas entiende.",
+    "level": "C5"
+  },
+  {
+    "english": "prevaricate",
+    "spanish": "mentir evasivamente",
+    "exampleEnglish": "The witness prevaricated instead of answering directly.",
+    "exampleSpanish": "El testigo mintió evasivamente en lugar de responder directamente.",
+    "level": "C5"
+  },
+  {
+    "english": "probity",
+    "spanish": "probidad / integridad",
+    "exampleEnglish": "Her probity was never questioned throughout her career.",
+    "exampleSpanish": "Su probidad nunca fue cuestionada a lo largo de su carrera.",
+    "level": "C5"
+  },
+  {
+    "english": "puerile",
+    "spanish": "pueril / infantil",
+    "exampleEnglish": "His puerile jokes annoyed his colleagues.",
+    "exampleSpanish": "Sus chistes pueriles molestaron a sus colegas.",
+    "level": "C5"
+  },
+  {
+    "english": "quotidian",
+    "spanish": "cotidiano / mundano",
+    "exampleEnglish": "She found beauty in the quotidian routines of life.",
+    "exampleSpanish": "Ella encontraba belleza en las rutinas cotidianas de la vida.",
+    "level": "C5"
+  },
+  {
+    "english": "recrudescence",
+    "spanish": "recrudecimiento",
+    "exampleEnglish": "There was a recrudescence of the disease last winter.",
+    "exampleSpanish": "Hubo un recrudecimiento de la enfermedad el invierno pasado.",
+    "level": "C5"
+  },
+  {
+    "english": "redoubtable",
+    "spanish": "formidable / temible",
+    "exampleEnglish": "She was a redoubtable opponent in debates.",
+    "exampleSpanish": "Ella era una oponente formidable en los debates.",
+    "level": "C5"
+  },
+  {
+    "english": "sagacity",
+    "spanish": "sagacidad",
+    "exampleEnglish": "His sagacity helped the company avoid a crisis.",
+    "exampleSpanish": "Su sagacidad ayudó a la empresa a evitar una crisis.",
+    "level": "C5"
+  },
+  {
+    "english": "sedulous",
+    "spanish": "diligente / esmerado",
+    "exampleEnglish": "Her sedulous attention to detail impressed the editor.",
+    "exampleSpanish": "Su atención esmerada a los detalles impresionó al editor.",
+    "level": "C5"
+  },
+  {
+    "english": "solecism",
+    "spanish": "solecismo / error gramatical",
+    "exampleEnglish": "The essay was full of solecisms.",
+    "exampleSpanish": "El ensayo estaba lleno de solecismos.",
+    "level": "C5"
+  },
+  {
+    "english": "sophistry",
+    "spanish": "sofistería",
+    "exampleEnglish": "His argument was clever sophistry, not real logic.",
+    "exampleSpanish": "Su argumento fue una sofistería ingeniosa, no lógica real.",
+    "level": "C5"
+  },
+  {
+    "english": "spurious claim",
+    "spanish": "afirmación espuria",
+    "exampleEnglish": "The spurious claim spread quickly online.",
+    "exampleSpanish": "La afirmación espuria se difundió rápido en internet.",
+    "level": "C5"
+  },
+  {
+    "english": "stertorous",
+    "spanish": "que respira ruidosamente",
+    "exampleEnglish": "His stertorous breathing worried the nurses.",
+    "exampleSpanish": "Su respiración ruidosa preocupó a las enfermeras.",
+    "level": "C5"
+  },
+  {
+    "english": "sycophant",
+    "spanish": "adulador / servil",
+    "exampleEnglish": "The sycophant agreed with everything the boss said.",
+    "exampleSpanish": "El adulador estuvo de acuerdo con todo lo que dijo el jefe.",
+    "level": "C5"
+  },
+  {
+    "english": "temerarious",
+    "spanish": "temerario",
+    "exampleEnglish": "His temerarious driving frightened his passengers.",
+    "exampleSpanish": "Su manera temeraria de conducir asustó a sus pasajeros.",
+    "level": "C5"
+  },
+  {
+    "english": "tergiversate",
+    "spanish": "tergiversar / dar rodeos",
+    "exampleEnglish": "The politician tergiversated instead of giving a clear answer.",
+    "exampleSpanish": "El político tergiversó en lugar de dar una respuesta clara.",
+    "level": "C5"
+  },
+  {
+    "english": "torpor",
+    "spanish": "letargo / torpor",
+    "exampleEnglish": "A deep torpor settled over the town in summer.",
+    "exampleSpanish": "Un profundo letargo se apoderó del pueblo en verano.",
+    "level": "C5"
+  },
+  {
+    "english": "truculence",
+    "spanish": "hosquedad / agresividad",
+    "exampleEnglish": "His truculence made negotiations difficult.",
+    "exampleSpanish": "Su hosquedad dificultó las negociaciones.",
+    "level": "C5"
+  },
+  {
+    "english": "ubiety",
+    "spanish": "ubicación / presencia en un lugar",
+    "exampleEnglish": "The philosopher discussed the ubiety of consciousness.",
+    "exampleSpanish": "El filósofo discutió la ubicación de la conciencia.",
+    "level": "C5"
+  },
+  {
+    "english": "unctuous",
+    "spanish": "untuoso / excesivamente cortés",
+    "exampleEnglish": "His unctuous manner made people suspicious.",
+    "exampleSpanish": "Sus modales untuosos hacían que la gente sospechara.",
+    "level": "C5"
+  },
+  {
+    "english": "verdant",
+    "spanish": "verdeante / exuberante",
+    "exampleEnglish": "The verdant hills stretched for miles.",
+    "exampleSpanish": "Las colinas verdeantes se extendían por kilómetros.",
+    "level": "C5"
+  },
+  {
+    "english": "vitiate",
+    "spanish": "viciar / invalidar",
+    "exampleEnglish": "The error vitiated the entire contract.",
+    "exampleSpanish": "El error vició todo el contrato.",
+    "level": "C5"
+  },
+  {
+    "english": "volte-face",
+    "spanish": "cambio radical de postura",
+    "exampleEnglish": "The government made a sudden volte-face on the policy.",
+    "exampleSpanish": "El gobierno hizo un cambio radical repentino en la política.",
+    "level": "C5"
+  },
+  {
+    "english": "welter",
+    "spanish": "confusión / maraña",
+    "exampleEnglish": "She was lost in a welter of paperwork.",
+    "exampleSpanish": "Ella estaba perdida en una maraña de papeleo.",
+    "level": "C5"
+  },
+  {
+    "english": "winsome",
+    "spanish": "atractivo / encantador",
+    "exampleEnglish": "The child had a winsome smile.",
+    "exampleSpanish": "El niño tenía una sonrisa encantadora.",
+    "level": "C5"
+  }
+]
