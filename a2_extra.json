@@ -1,0 +1,835 @@
+[
+  {
+    "english": "hobby",
+    "spanish": "pasatiempo",
+    "exampleEnglish": "Painting is her favorite hobby.",
+    "exampleSpanish": "Pintar es su pasatiempo favorito.",
+    "level": "A2"
+  },
+  {
+    "english": "collect",
+    "spanish": "coleccionar",
+    "exampleEnglish": "He collects old coins.",
+    "exampleSpanish": "Él colecciona monedas antiguas.",
+    "level": "A2"
+  },
+  {
+    "english": "photography",
+    "spanish": "fotografía",
+    "exampleEnglish": "Photography is a great hobby.",
+    "exampleSpanish": "La fotografía es un gran pasatiempo.",
+    "level": "A2"
+  },
+  {
+    "english": "painting",
+    "spanish": "pintura",
+    "exampleEnglish": "She sold her first painting last year.",
+    "exampleSpanish": "Ella vendió su primera pintura el año pasado.",
+    "level": "A2"
+  },
+  {
+    "english": "drawing",
+    "spanish": "dibujo",
+    "exampleEnglish": "He is good at drawing animals.",
+    "exampleSpanish": "Él es bueno dibujando animales.",
+    "level": "A2"
+  },
+  {
+    "english": "dancing",
+    "spanish": "baile",
+    "exampleEnglish": "They took dancing lessons together.",
+    "exampleSpanish": "Ellos tomaron clases de baile juntos.",
+    "level": "A2"
+  },
+  {
+    "english": "singing",
+    "spanish": "canto",
+    "exampleEnglish": "She loves singing in the shower.",
+    "exampleSpanish": "A ella le encanta cantar en la ducha.",
+    "level": "A2"
+  },
+  {
+    "english": "gardening",
+    "spanish": "jardinería",
+    "exampleEnglish": "Gardening helps him relax.",
+    "exampleSpanish": "La jardinería lo ayuda a relajarse.",
+    "level": "A2"
+  },
+  {
+    "english": "fishing",
+    "spanish": "pesca",
+    "exampleEnglish": "We went fishing at the lake.",
+    "exampleSpanish": "Fuimos de pesca al lago.",
+    "level": "A2"
+  },
+  {
+    "english": "hiking",
+    "spanish": "senderismo",
+    "exampleEnglish": "Hiking is popular in this area.",
+    "exampleSpanish": "El senderismo es popular en esta zona.",
+    "level": "A2"
+  },
+  {
+    "english": "camping",
+    "spanish": "acampar (sustantivo)",
+    "exampleEnglish": "We enjoy camping every summer.",
+    "exampleSpanish": "Disfrutamos acampar cada verano.",
+    "level": "A2"
+  },
+  {
+    "english": "chess",
+    "spanish": "ajedrez",
+    "exampleEnglish": "He plays chess every evening.",
+    "exampleSpanish": "Él juega ajedrez todas las noches.",
+    "level": "A2"
+  },
+  {
+    "english": "puzzle",
+    "spanish": "rompecabezas",
+    "exampleEnglish": "The children finished the puzzle.",
+    "exampleSpanish": "Los niños terminaron el rompecabezas.",
+    "level": "A2"
+  },
+  {
+    "english": "board game",
+    "spanish": "juego de mesa",
+    "exampleEnglish": "We played a board game last night.",
+    "exampleSpanish": "Jugamos un juego de mesa anoche.",
+    "level": "A2"
+  },
+  {
+    "english": "video game",
+    "spanish": "videojuego",
+    "exampleEnglish": "My brother loves video games.",
+    "exampleSpanish": "Mi hermano ama los videojuegos.",
+    "level": "A2"
+  },
+  {
+    "english": "concert",
+    "spanish": "concierto",
+    "exampleEnglish": "We went to a concert last weekend.",
+    "exampleSpanish": "Fuimos a un concierto el fin de semana pasado.",
+    "level": "A2"
+  },
+  {
+    "english": "theater",
+    "spanish": "teatro",
+    "exampleEnglish": "The play at the theater was amazing.",
+    "exampleSpanish": "La obra en el teatro fue increíble.",
+    "level": "A2"
+  },
+  {
+    "english": "actor",
+    "spanish": "actor",
+    "exampleEnglish": "He is a famous actor.",
+    "exampleSpanish": "Él es un actor famoso.",
+    "level": "A2"
+  },
+  {
+    "english": "actress",
+    "spanish": "actriz",
+    "exampleEnglish": "The actress won an award.",
+    "exampleSpanish": "La actriz ganó un premio.",
+    "level": "A2"
+  },
+  {
+    "english": "audience",
+    "spanish": "público (evento)",
+    "exampleEnglish": "The audience applauded loudly.",
+    "exampleSpanish": "El público aplaudió fuertemente.",
+    "level": "A2"
+  },
+  {
+    "english": "ticket",
+    "spanish": "boleto (evento)",
+    "exampleEnglish": "I bought two tickets for the show.",
+    "exampleSpanish": "Compré dos boletos para el show.",
+    "level": "A2"
+  },
+  {
+    "english": "stage",
+    "spanish": "escenario",
+    "exampleEnglish": "The singer walked onto the stage.",
+    "exampleSpanish": "La cantante caminó hacia el escenario.",
+    "level": "A2"
+  },
+  {
+    "english": "band",
+    "spanish": "banda (musical)",
+    "exampleEnglish": "The band played for three hours.",
+    "exampleSpanish": "La banda tocó por tres horas.",
+    "level": "A2"
+  },
+  {
+    "english": "instrument",
+    "spanish": "instrumento (musical)",
+    "exampleEnglish": "She plays a musical instrument.",
+    "exampleSpanish": "Ella toca un instrumento musical.",
+    "level": "A2"
+  },
+  {
+    "english": "guitar",
+    "spanish": "guitarra",
+    "exampleEnglish": "He learned to play the guitar.",
+    "exampleSpanish": "Él aprendió a tocar la guitarra.",
+    "level": "A2"
+  },
+  {
+    "english": "piano",
+    "spanish": "piano",
+    "exampleEnglish": "She practices piano every day.",
+    "exampleSpanish": "Ella practica piano todos los días.",
+    "level": "A2"
+  },
+  {
+    "english": "drum",
+    "spanish": "tambor",
+    "exampleEnglish": "He plays the drums in a band.",
+    "exampleSpanish": "Él toca la batería en una banda.",
+    "level": "A2"
+  },
+  {
+    "english": "festival",
+    "spanish": "festival",
+    "exampleEnglish": "The music festival lasts three days.",
+    "exampleSpanish": "El festival de música dura tres días.",
+    "level": "A2"
+  },
+  {
+    "english": "celebration",
+    "spanish": "celebración",
+    "exampleEnglish": "The whole town joined the celebration.",
+    "exampleSpanish": "Todo el pueblo se unió a la celebración.",
+    "level": "A2"
+  },
+  {
+    "english": "parade",
+    "spanish": "desfile",
+    "exampleEnglish": "We watched the parade downtown.",
+    "exampleSpanish": "Vimos el desfile en el centro.",
+    "level": "A2"
+  },
+  {
+    "english": "neighborhood",
+    "spanish": "vecindario",
+    "exampleEnglish": "This is a quiet neighborhood.",
+    "exampleSpanish": "Este es un vecindario tranquilo.",
+    "level": "A2"
+  },
+  {
+    "english": "apartment",
+    "spanish": "apartamento",
+    "exampleEnglish": "They live in a small apartment.",
+    "exampleSpanish": "Ellos viven en un apartamento pequeño.",
+    "level": "A2"
+  },
+  {
+    "english": "landlord",
+    "spanish": "casero / arrendador",
+    "exampleEnglish": "The landlord fixed the leak quickly.",
+    "exampleSpanish": "El casero arregló la fuga rápidamente.",
+    "level": "A2"
+  },
+  {
+    "english": "tenant",
+    "spanish": "inquilino",
+    "exampleEnglish": "The tenant pays rent monthly.",
+    "exampleSpanish": "El inquilino paga renta mensualmente.",
+    "level": "A2"
+  },
+  {
+    "english": "rent",
+    "spanish": "renta / rentar",
+    "exampleEnglish": "The rent went up this year.",
+    "exampleSpanish": "La renta subió este año.",
+    "level": "A2"
+  },
+  {
+    "english": "lease",
+    "spanish": "contrato de arrendamiento",
+    "exampleEnglish": "We signed a one-year lease.",
+    "exampleSpanish": "Firmamos un contrato de arrendamiento por un año.",
+    "level": "A2"
+  },
+  {
+    "english": "utility",
+    "spanish": "servicio (luz, agua, etc.)",
+    "exampleEnglish": "Utilities are included in the rent.",
+    "exampleSpanish": "Los servicios están incluidos en la renta.",
+    "level": "A2"
+  },
+  {
+    "english": "insurance",
+    "spanish": "seguro (póliza)",
+    "exampleEnglish": "We have car insurance.",
+    "exampleSpanish": "Tenemos seguro de carro.",
+    "level": "A2"
+  },
+  {
+    "english": "policy",
+    "spanish": "póliza",
+    "exampleEnglish": "The insurance policy covers accidents.",
+    "exampleSpanish": "La póliza de seguro cubre accidentes.",
+    "level": "A2"
+  },
+  {
+    "english": "claim",
+    "spanish": "reclamo (seguro)",
+    "exampleEnglish": "She filed an insurance claim.",
+    "exampleSpanish": "Ella presentó un reclamo de seguro.",
+    "level": "A2"
+  },
+  {
+    "english": "license",
+    "spanish": "licencia",
+    "exampleEnglish": "He got his driver's license last month.",
+    "exampleSpanish": "Él obtuvo su licencia de conducir el mes pasado.",
+    "level": "A2"
+  },
+  {
+    "english": "permit",
+    "spanish": "permiso (documento)",
+    "exampleEnglish": "You need a permit to build here.",
+    "exampleSpanish": "Necesitas un permiso para construir aquí.",
+    "level": "A2"
+  },
+  {
+    "english": "application",
+    "spanish": "solicitud",
+    "exampleEnglish": "I submitted my application yesterday.",
+    "exampleSpanish": "Envié mi solicitud ayer.",
+    "level": "A2"
+  },
+  {
+    "english": "form",
+    "spanish": "formulario",
+    "exampleEnglish": "Fill out this form, please.",
+    "exampleSpanish": "Llena este formulario, por favor.",
+    "level": "A2"
+  },
+  {
+    "english": "signature",
+    "spanish": "firma",
+    "exampleEnglish": "Your signature is required here.",
+    "exampleSpanish": "Se requiere tu firma aquí.",
+    "level": "A2"
+  },
+  {
+    "english": "identification",
+    "spanish": "identificación",
+    "exampleEnglish": "Please show your identification.",
+    "exampleSpanish": "Muestra tu identificación, por favor.",
+    "level": "A2"
+  },
+  {
+    "english": "appointment",
+    "spanish": "cita (uso general)",
+    "exampleEnglish": "I made an appointment for Monday.",
+    "exampleSpanish": "Hice una cita para el lunes.",
+    "level": "A2"
+  },
+  {
+    "english": "schedule",
+    "spanish": "horario",
+    "exampleEnglish": "My schedule is very busy this week.",
+    "exampleSpanish": "Mi horario está muy ocupado esta semana.",
+    "level": "A2"
+  },
+  {
+    "english": "routine",
+    "spanish": "rutina",
+    "exampleEnglish": "I follow the same morning routine.",
+    "exampleSpanish": "Sigo la misma rutina matutina.",
+    "level": "A2"
+  },
+  {
+    "english": "errand",
+    "spanish": "mandado / diligencia",
+    "exampleEnglish": "I have a few errands to run.",
+    "exampleSpanish": "Tengo algunos mandados que hacer.",
+    "level": "A2"
+  },
+  {
+    "english": "delivery",
+    "spanish": "entrega (paquete)",
+    "exampleEnglish": "The delivery arrived this morning.",
+    "exampleSpanish": "La entrega llegó esta mañana.",
+    "level": "A2"
+  },
+  {
+    "english": "package",
+    "spanish": "paquete",
+    "exampleEnglish": "I received a package today.",
+    "exampleSpanish": "Recibí un paquete hoy.",
+    "level": "A2"
+  },
+  {
+    "english": "mailbox",
+    "spanish": "buzón",
+    "exampleEnglish": "Check the mailbox for letters.",
+    "exampleSpanish": "Revisa el buzón por si hay cartas.",
+    "level": "A2"
+  },
+  {
+    "english": "stamp",
+    "spanish": "estampilla",
+    "exampleEnglish": "I need a stamp for this letter.",
+    "exampleSpanish": "Necesito una estampilla para esta carta.",
+    "level": "A2"
+  },
+  {
+    "english": "envelope",
+    "spanish": "sobre (carta)",
+    "exampleEnglish": "Put the letter in an envelope.",
+    "exampleSpanish": "Pon la carta en un sobre.",
+    "level": "A2"
+  },
+  {
+    "english": "neighbor's car",
+    "spanish": "carro del vecino",
+    "exampleEnglish": "The neighbor's car is very loud.",
+    "exampleSpanish": "El carro del vecino es muy ruidoso.",
+    "level": "A2"
+  },
+  {
+    "english": "traffic",
+    "spanish": "tráfico",
+    "exampleEnglish": "There was heavy traffic this morning.",
+    "exampleSpanish": "Hubo mucho tráfico esta mañana.",
+    "level": "A2"
+  },
+  {
+    "english": "highway",
+    "spanish": "autopista",
+    "exampleEnglish": "We drove on the highway for hours.",
+    "exampleSpanish": "Manejamos por la autopista por horas.",
+    "level": "A2"
+  },
+  {
+    "english": "parking lot",
+    "spanish": "estacionamiento",
+    "exampleEnglish": "The parking lot was completely full.",
+    "exampleSpanish": "El estacionamiento estaba completamente lleno.",
+    "level": "A2"
+  },
+  {
+    "english": "fuel",
+    "spanish": "combustible",
+    "exampleEnglish": "We stopped to buy fuel.",
+    "exampleSpanish": "Nos detuvimos a comprar combustible.",
+    "level": "A2"
+  },
+  {
+    "english": "engine",
+    "spanish": "motor",
+    "exampleEnglish": "The engine made a strange noise.",
+    "exampleSpanish": "El motor hizo un ruido extraño.",
+    "level": "A2"
+  },
+  {
+    "english": "tire",
+    "spanish": "llanta",
+    "exampleEnglish": "We had a flat tire on the road.",
+    "exampleSpanish": "Se nos ponchó una llanta en el camino.",
+    "level": "A2"
+  },
+  {
+    "english": "mechanic",
+    "spanish": "mecánico",
+    "exampleEnglish": "The mechanic fixed the car quickly.",
+    "exampleSpanish": "El mecánico arregló el carro rápidamente.",
+    "level": "A2"
+  },
+  {
+    "english": "repair",
+    "spanish": "reparar / reparación",
+    "exampleEnglish": "The repair took two days.",
+    "exampleSpanish": "La reparación tomó dos días.",
+    "level": "A2"
+  },
+  {
+    "english": "warranty",
+    "spanish": "garantía",
+    "exampleEnglish": "The product has a two-year warranty.",
+    "exampleSpanish": "El producto tiene una garantía de dos años.",
+    "level": "A2"
+  },
+  {
+    "english": "customer service",
+    "spanish": "servicio al cliente",
+    "exampleEnglish": "Their customer service is excellent.",
+    "exampleSpanish": "Su servicio al cliente es excelente.",
+    "level": "A2"
+  },
+  {
+    "english": "complaint",
+    "spanish": "queja",
+    "exampleEnglish": "She filed a complaint about the product.",
+    "exampleSpanish": "Ella presentó una queja sobre el producto.",
+    "level": "A2"
+  },
+  {
+    "english": "apology",
+    "spanish": "disculpa",
+    "exampleEnglish": "The company sent a formal apology.",
+    "exampleSpanish": "La empresa envió una disculpa formal.",
+    "level": "A2"
+  },
+  {
+    "english": "satisfaction",
+    "spanish": "satisfacción",
+    "exampleEnglish": "Customer satisfaction is our priority.",
+    "exampleSpanish": "La satisfacción del cliente es nuestra prioridad.",
+    "level": "A2"
+  },
+  {
+    "english": "quality",
+    "spanish": "calidad",
+    "exampleEnglish": "The quality of this product is great.",
+    "exampleSpanish": "La calidad de este producto es excelente.",
+    "level": "A2"
+  },
+  {
+    "english": "brand",
+    "spanish": "marca (producto)",
+    "exampleEnglish": "This is a well-known brand.",
+    "exampleSpanish": "Esta es una marca muy conocida.",
+    "level": "A2"
+  },
+  {
+    "english": "label",
+    "spanish": "etiqueta",
+    "exampleEnglish": "Check the label for ingredients.",
+    "exampleSpanish": "Revisa la etiqueta para ver los ingredientes.",
+    "level": "A2"
+  },
+  {
+    "english": "size",
+    "spanish": "talla / tamaño",
+    "exampleEnglish": "What size do you wear?",
+    "exampleSpanish": "¿Qué talla usas?",
+    "level": "A2"
+  },
+  {
+    "english": "fit",
+    "spanish": "quedar bien / ajustar",
+    "exampleEnglish": "These shoes don't fit me well.",
+    "exampleSpanish": "Estos zapatos no me quedan bien.",
+    "level": "A2"
+  },
+  {
+    "english": "style",
+    "spanish": "estilo",
+    "exampleEnglish": "I like her sense of style.",
+    "exampleSpanish": "Me gusta su sentido del estilo.",
+    "level": "A2"
+  },
+  {
+    "english": "fashion",
+    "spanish": "moda",
+    "exampleEnglish": "She always follows the latest fashion.",
+    "exampleSpanish": "Ella siempre sigue la moda más reciente.",
+    "level": "A2"
+  },
+  {
+    "english": "trend",
+    "spanish": "tendencia (básico)",
+    "exampleEnglish": "This color is trending this year.",
+    "exampleSpanish": "Este color está de moda este año.",
+    "level": "A2"
+  },
+  {
+    "english": "accessory",
+    "spanish": "accesorio",
+    "exampleEnglish": "The necklace is a nice accessory.",
+    "exampleSpanish": "El collar es un buen accesorio.",
+    "level": "A2"
+  },
+  {
+    "english": "jewelry",
+    "spanish": "joyería",
+    "exampleEnglish": "She loves wearing jewelry.",
+    "exampleSpanish": "A ella le encanta usar joyería.",
+    "level": "A2"
+  },
+  {
+    "english": "ring",
+    "spanish": "anillo",
+    "exampleEnglish": "He gave her a beautiful ring.",
+    "exampleSpanish": "Él le dio un anillo hermoso.",
+    "level": "A2"
+  },
+  {
+    "english": "necklace",
+    "spanish": "collar",
+    "exampleEnglish": "She wore a gold necklace.",
+    "exampleSpanish": "Ella usó un collar de oro.",
+    "level": "A2"
+  },
+  {
+    "english": "bracelet",
+    "spanish": "pulsera",
+    "exampleEnglish": "The bracelet was a gift from her mom.",
+    "exampleSpanish": "La pulsera fue un regalo de su mamá.",
+    "level": "A2"
+  },
+  {
+    "english": "earring",
+    "spanish": "arete",
+    "exampleEnglish": "She lost one earring at the party.",
+    "exampleSpanish": "Ella perdió un arete en la fiesta.",
+    "level": "A2"
+  },
+  {
+    "english": "scale",
+    "spanish": "báscula",
+    "exampleEnglish": "I weigh myself on the scale every week.",
+    "exampleSpanish": "Me peso en la báscula cada semana.",
+    "level": "A2"
+  },
+  {
+    "english": "blood pressure",
+    "spanish": "presión arterial",
+    "exampleEnglish": "The doctor checked her blood pressure.",
+    "exampleSpanish": "El doctor revisó su presión arterial.",
+    "level": "A2"
+  },
+  {
+    "english": "temperature",
+    "spanish": "temperatura (corporal)",
+    "exampleEnglish": "His temperature was very high.",
+    "exampleSpanish": "Su temperatura estaba muy alta.",
+    "level": "A2"
+  },
+  {
+    "english": "prescription",
+    "spanish": "receta médica",
+    "exampleEnglish": "The doctor wrote a prescription.",
+    "exampleSpanish": "El doctor escribió una receta médica.",
+    "level": "A2"
+  },
+  {
+    "english": "pharmacy",
+    "spanish": "farmacia",
+    "exampleEnglish": "I bought the medicine at the pharmacy.",
+    "exampleSpanish": "Compré la medicina en la farmacia.",
+    "level": "A2"
+  },
+  {
+    "english": "dose",
+    "spanish": "dosis",
+    "exampleEnglish": "Take one dose every eight hours.",
+    "exampleSpanish": "Toma una dosis cada ocho horas.",
+    "level": "A2"
+  },
+  {
+    "english": "allergy",
+    "spanish": "alergia",
+    "exampleEnglish": "She has an allergy to peanuts.",
+    "exampleSpanish": "Ella tiene alergia a los cacahuates.",
+    "level": "A2"
+  },
+  {
+    "english": "cold",
+    "spanish": "resfriado",
+    "exampleEnglish": "I have a bad cold this week.",
+    "exampleSpanish": "Tengo un resfriado fuerte esta semana.",
+    "level": "A2"
+  },
+  {
+    "english": "cough",
+    "spanish": "tos",
+    "exampleEnglish": "He has a cough and a fever.",
+    "exampleSpanish": "Él tiene tos y fiebre.",
+    "level": "A2"
+  },
+  {
+    "english": "headache",
+    "spanish": "dolor de cabeza",
+    "exampleEnglish": "I have a headache today.",
+    "exampleSpanish": "Tengo dolor de cabeza hoy.",
+    "level": "A2"
+  },
+  {
+    "english": "stomachache",
+    "spanish": "dolor de estómago",
+    "exampleEnglish": "She has a stomachache after eating.",
+    "exampleSpanish": "Ella tiene dolor de estómago después de comer.",
+    "level": "A2"
+  },
+  {
+    "english": "emergency room",
+    "spanish": "sala de emergencias",
+    "exampleEnglish": "We took him to the emergency room.",
+    "exampleSpanish": "Lo llevamos a la sala de emergencias.",
+    "level": "A2"
+  },
+  {
+    "english": "ambulance",
+    "spanish": "ambulancia",
+    "exampleEnglish": "The ambulance arrived in five minutes.",
+    "exampleSpanish": "La ambulancia llegó en cinco minutos.",
+    "level": "A2"
+  },
+  {
+    "english": "nurse",
+    "spanish": "enfermero/enfermera",
+    "exampleEnglish": "The nurse was very kind.",
+    "exampleSpanish": "La enfermera fue muy amable.",
+    "level": "A2"
+  },
+  {
+    "english": "checkup",
+    "spanish": "chequeo médico",
+    "exampleEnglish": "I have a checkup next week.",
+    "exampleSpanish": "Tengo un chequeo médico la próxima semana.",
+    "level": "A2"
+  },
+  {
+    "english": "vaccine",
+    "spanish": "vacuna (básico)",
+    "exampleEnglish": "The children got their vaccines.",
+    "exampleSpanish": "Los niños recibieron sus vacunas.",
+    "level": "A2"
+  },
+  {
+    "english": "passenger",
+    "spanish": "pasajero",
+    "exampleEnglish": "There were many passengers on the bus.",
+    "exampleSpanish": "Había muchos pasajeros en el autobús.",
+    "level": "A2"
+  },
+  {
+    "english": "driver",
+    "spanish": "conductor",
+    "exampleEnglish": "The driver stopped at the light.",
+    "exampleSpanish": "El conductor se detuvo en el semáforo.",
+    "level": "A2"
+  },
+  {
+    "english": "seatbelt",
+    "spanish": "cinturón de seguridad",
+    "exampleEnglish": "Always wear your seatbelt.",
+    "exampleSpanish": "Siempre usa tu cinturón de seguridad.",
+    "level": "A2"
+  },
+  {
+    "english": "route",
+    "spanish": "ruta",
+    "exampleEnglish": "This route is faster than the highway.",
+    "exampleSpanish": "Esta ruta es más rápida que la autopista.",
+    "level": "A2"
+  },
+  {
+    "english": "schedule (bus)",
+    "spanish": "horario (transporte)",
+    "exampleEnglish": "Check the bus schedule before leaving.",
+    "exampleSpanish": "Revisa el horario del autobús antes de salir.",
+    "level": "A2"
+  },
+  {
+    "english": "delay",
+    "spanish": "retraso",
+    "exampleEnglish": "Our flight had a two-hour delay.",
+    "exampleSpanish": "Nuestro vuelo tuvo un retraso de dos horas.",
+    "level": "A2"
+  },
+  {
+    "english": "boarding pass",
+    "spanish": "pase de abordar",
+    "exampleEnglish": "Show your boarding pass here.",
+    "exampleSpanish": "Muestra tu pase de abordar aquí.",
+    "level": "A2"
+  },
+  {
+    "english": "connecting flight",
+    "spanish": "vuelo de conexión",
+    "exampleEnglish": "We have a connecting flight in Dallas.",
+    "exampleSpanish": "Tenemos un vuelo de conexión en Dallas.",
+    "level": "A2"
+  },
+  {
+    "english": "customs officer",
+    "spanish": "oficial de aduanas",
+    "exampleEnglish": "The customs officer checked our bags.",
+    "exampleSpanish": "El oficial de aduanas revisó nuestras maletas.",
+    "level": "A2"
+  },
+  {
+    "english": "souvenir shop",
+    "spanish": "tienda de recuerdos",
+    "exampleEnglish": "We bought gifts at the souvenir shop.",
+    "exampleSpanish": "Compramos regalos en la tienda de recuerdos.",
+    "level": "A2"
+  },
+  {
+    "english": "landmark",
+    "spanish": "punto de referencia / monumento",
+    "exampleEnglish": "The tower is a famous landmark.",
+    "exampleSpanish": "La torre es un monumento famoso.",
+    "level": "A2"
+  },
+  {
+    "english": "view",
+    "spanish": "vista (paisaje)",
+    "exampleEnglish": "The hotel has a beautiful view.",
+    "exampleSpanish": "El hotel tiene una vista hermosa.",
+    "level": "A2"
+  },
+  {
+    "english": "crowd",
+    "spanish": "multitud",
+    "exampleEnglish": "There was a big crowd at the concert.",
+    "exampleSpanish": "Había una gran multitud en el concierto.",
+    "level": "A2"
+  },
+  {
+    "english": "line",
+    "spanish": "fila (esperar)",
+    "exampleEnglish": "We waited in line for an hour.",
+    "exampleSpanish": "Esperamos en fila por una hora.",
+    "level": "A2"
+  },
+  {
+    "english": "reservation (hotel)",
+    "spanish": "reservación (hotel)",
+    "exampleEnglish": "I made a hotel reservation online.",
+    "exampleSpanish": "Hice una reservación de hotel en línea.",
+    "level": "A2"
+  },
+  {
+    "english": "check-in",
+    "spanish": "registro (hotel)",
+    "exampleEnglish": "Check-in is at three o'clock.",
+    "exampleSpanish": "El registro es a las tres.",
+    "level": "A2"
+  },
+  {
+    "english": "check-out",
+    "spanish": "salida (hotel)",
+    "exampleEnglish": "Check-out is at eleven in the morning.",
+    "exampleSpanish": "La salida es a las once de la mañana.",
+    "level": "A2"
+  },
+  {
+    "english": "lobby",
+    "spanish": "vestíbulo",
+    "exampleEnglish": "We met in the hotel lobby.",
+    "exampleSpanish": "Nos encontramos en el vestíbulo del hotel.",
+    "level": "A2"
+  },
+  {
+    "english": "elevator (hotel)",
+    "spanish": "elevador (hotel)",
+    "exampleEnglish": "Take the elevator to the fifth floor.",
+    "exampleSpanish": "Toma el elevador al quinto piso.",
+    "level": "A2"
+  },
+  {
+    "english": "balcony",
+    "spanish": "balcón",
+    "exampleEnglish": "The room has a small balcony.",
+    "exampleSpanish": "La habitación tiene un pequeño balcón.",
+    "level": "A2"
+  }
+]
