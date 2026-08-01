@@ -1,0 +1,625 @@
+[
+  {
+    "english": "scrutinize",
+    "spanish": "examinar rigurosamente",
+    "exampleEnglish": "The committee scrutinized every detail of the proposal.",
+    "exampleSpanish": "El comité examinó rigurosamente cada detalle de la propuesta.",
+    "level": "C3"
+  },
+  {
+    "english": "vindictive",
+    "spanish": "vengativo",
+    "exampleEnglish": "He became vindictive after losing the case.",
+    "exampleSpanish": "Él se volvió vengativo después de perder el caso.",
+    "level": "C3"
+  },
+  {
+    "english": "obsequious",
+    "spanish": "servil / adulador",
+    "exampleEnglish": "The waiter was almost obsequious in his service.",
+    "exampleSpanish": "El mesero fue casi servil en su servicio.",
+    "level": "C3"
+  },
+  {
+    "english": "ostentatious",
+    "spanish": "ostentoso",
+    "exampleEnglish": "Her ostentatious lifestyle surprised her neighbors.",
+    "exampleSpanish": "Su estilo de vida ostentoso sorprendió a sus vecinos.",
+    "level": "C3"
+  },
+  {
+    "english": "pretentious",
+    "spanish": "pretencioso",
+    "exampleEnglish": "The restaurant felt a bit pretentious.",
+    "exampleSpanish": "El restaurante se sintió un poco pretencioso.",
+    "level": "C3"
+  },
+  {
+    "english": "gregarious",
+    "spanish": "sociable / gregario",
+    "exampleEnglish": "She is gregarious and loves meeting new people.",
+    "exampleSpanish": "Ella es sociable y ama conocer gente nueva.",
+    "level": "C3"
+  },
+  {
+    "english": "taciturn",
+    "spanish": "taciturno / callado",
+    "exampleEnglish": "He remained taciturn throughout the meeting.",
+    "exampleSpanish": "Él permaneció taciturno durante toda la reunión.",
+    "level": "C3"
+  },
+  {
+    "english": "garrulous",
+    "spanish": "hablador en exceso",
+    "exampleEnglish": "The garrulous guide talked non-stop.",
+    "exampleSpanish": "El guía hablador no paró de hablar.",
+    "level": "C3"
+  },
+  {
+    "english": "belligerent",
+    "spanish": "beligerante / agresivo",
+    "exampleEnglish": "His belligerent tone made the talks difficult.",
+    "exampleSpanish": "Su tono beligerante hizo difíciles las conversaciones.",
+    "level": "C3"
+  },
+  {
+    "english": "conciliatory",
+    "spanish": "conciliador",
+    "exampleEnglish": "She took a conciliatory approach to the conflict.",
+    "exampleSpanish": "Ella tomó un enfoque conciliador ante el conflicto.",
+    "level": "C3"
+  },
+  {
+    "english": "inscrutable",
+    "spanish": "inescrutable / indescifrable",
+    "exampleEnglish": "His expression remained inscrutable.",
+    "exampleSpanish": "Su expresión permaneció inescrutable.",
+    "level": "C3"
+  },
+  {
+    "english": "enigmatic",
+    "spanish": "enigmático",
+    "exampleEnglish": "She gave an enigmatic smile.",
+    "exampleSpanish": "Ella dio una sonrisa enigmática.",
+    "level": "C3"
+  },
+  {
+    "english": "capricious",
+    "spanish": "caprichoso",
+    "exampleEnglish": "The weather here is quite capricious.",
+    "exampleSpanish": "El clima aquí es bastante caprichoso.",
+    "level": "C3"
+  },
+  {
+    "english": "mercurial",
+    "spanish": "de humor cambiante",
+    "exampleEnglish": "His mercurial temperament made him hard to predict.",
+    "exampleSpanish": "Su temperamento cambiante lo hacía difícil de predecir.",
+    "level": "C3"
+  },
+  {
+    "english": "fastidious",
+    "spanish": "exigente / meticuloso",
+    "exampleEnglish": "She is fastidious about cleanliness.",
+    "exampleSpanish": "Ella es exigente con la limpieza.",
+    "level": "C3"
+  },
+  {
+    "english": "pedantic",
+    "spanish": "pedante",
+    "exampleEnglish": "His pedantic corrections annoyed everyone.",
+    "exampleSpanish": "Sus correcciones pedantes molestaron a todos.",
+    "level": "C3"
+  },
+  {
+    "english": "verbose",
+    "spanish": "verborrágico",
+    "exampleEnglish": "The report was overly verbose.",
+    "exampleSpanish": "El reporte fue excesivamente verborrágico.",
+    "level": "C3"
+  },
+  {
+    "english": "succinct",
+    "spanish": "sucinto",
+    "exampleEnglish": "Her explanation was succinct and clear.",
+    "exampleSpanish": "Su explicación fue sucinta y clara.",
+    "level": "C3"
+  },
+  {
+    "english": "lucid",
+    "spanish": "lúcido",
+    "exampleEnglish": "He gave a lucid account of events.",
+    "exampleSpanish": "Él dio un relato lúcido de los eventos.",
+    "level": "C3"
+  },
+  {
+    "english": "cogent",
+    "spanish": "convincente / contundente",
+    "exampleEnglish": "She made a cogent argument for change.",
+    "exampleSpanish": "Ella hizo un argumento contundente a favor del cambio.",
+    "level": "C3"
+  },
+  {
+    "english": "tenuous",
+    "spanish": "tenue / débil",
+    "exampleEnglish": "The connection between the two events is tenuous.",
+    "exampleSpanish": "La conexión entre los dos eventos es tenue.",
+    "level": "C3"
+  },
+  {
+    "english": "spurious",
+    "spanish": "espurio / falso",
+    "exampleEnglish": "The claim turned out to be spurious.",
+    "exampleSpanish": "La afirmación resultó ser espuria.",
+    "level": "C3"
+  },
+  {
+    "english": "specious",
+    "spanish": "engañoso / falaz",
+    "exampleEnglish": "His argument was specious at best.",
+    "exampleSpanish": "Su argumento fue engañoso en el mejor de los casos.",
+    "level": "C3"
+  },
+  {
+    "english": "egregious",
+    "spanish": "flagrante / atroz",
+    "exampleEnglish": "It was an egregious violation of trust.",
+    "exampleSpanish": "Fue una violación flagrante de la confianza.",
+    "level": "C3"
+  },
+  {
+    "english": "flagrant",
+    "spanish": "flagrante",
+    "exampleEnglish": "That was a flagrant breach of contract.",
+    "exampleSpanish": "Eso fue una violación flagrante del contrato.",
+    "level": "C3"
+  },
+  {
+    "english": "insidious",
+    "spanish": "insidioso",
+    "exampleEnglish": "The disease spread in an insidious way.",
+    "exampleSpanish": "La enfermedad se propagó de manera insidiosa.",
+    "level": "C3"
+  },
+  {
+    "english": "nefarious",
+    "spanish": "nefasto / malvado",
+    "exampleEnglish": "The villain had nefarious plans.",
+    "exampleSpanish": "El villano tenía planes nefastos.",
+    "level": "C3"
+  },
+  {
+    "english": "audacious",
+    "spanish": "audaz / atrevido",
+    "exampleEnglish": "It was an audacious plan to escape.",
+    "exampleSpanish": "Fue un plan audaz para escapar.",
+    "level": "C3"
+  },
+  {
+    "english": "intrepid",
+    "spanish": "intrépido",
+    "exampleEnglish": "The intrepid explorer crossed the desert alone.",
+    "exampleSpanish": "El explorador intrépido cruzó el desierto solo.",
+    "level": "C3"
+  },
+  {
+    "english": "indomitable",
+    "spanish": "indomable",
+    "exampleEnglish": "Her indomitable spirit inspired the team.",
+    "exampleSpanish": "Su espíritu indomable inspiró al equipo.",
+    "level": "C3"
+  },
+  {
+    "english": "stoic",
+    "spanish": "estoico",
+    "exampleEnglish": "He remained stoic despite the pain.",
+    "exampleSpanish": "Él permaneció estoico a pesar del dolor.",
+    "level": "C3"
+  },
+  {
+    "english": "phlegmatic",
+    "spanish": "flemático / impasible",
+    "exampleEnglish": "She stayed phlegmatic during the crisis.",
+    "exampleSpanish": "Ella se mantuvo impasible durante la crisis.",
+    "level": "C3"
+  },
+  {
+    "english": "vicarious",
+    "spanish": "vicario / indirecto",
+    "exampleEnglish": "He lived vicariously through his children's success.",
+    "exampleSpanish": "Él vivió de manera vicaria a través del éxito de sus hijos.",
+    "level": "C3"
+  },
+  {
+    "english": "innocuous",
+    "spanish": "inocuo",
+    "exampleEnglish": "The comment seemed innocuous at first.",
+    "exampleSpanish": "El comentario pareció inocuo al principio.",
+    "level": "C3"
+  },
+  {
+    "english": "benign",
+    "spanish": "benigno",
+    "exampleEnglish": "The tumor turned out to be benign.",
+    "exampleSpanish": "El tumor resultó ser benigno.",
+    "level": "C3"
+  },
+  {
+    "english": "malign",
+    "spanish": "maligno / difamar",
+    "exampleEnglish": "Critics tried to malign her reputation.",
+    "exampleSpanish": "Los críticos trataron de difamar su reputación.",
+    "level": "C3"
+  },
+  {
+    "english": "pernicious",
+    "spanish": "pernicioso",
+    "exampleEnglish": "The rumor had a pernicious effect on morale.",
+    "exampleSpanish": "El rumor tuvo un efecto pernicioso en la moral.",
+    "level": "C3"
+  },
+  {
+    "english": "deleterious",
+    "spanish": "perjudicial",
+    "exampleEnglish": "Smoking has deleterious effects on health.",
+    "exampleSpanish": "Fumar tiene efectos perjudiciales para la salud.",
+    "level": "C3"
+  },
+  {
+    "english": "salubrious",
+    "spanish": "saludable / benéfico",
+    "exampleEnglish": "The mountain air is salubrious.",
+    "exampleSpanish": "El aire de montaña es saludable.",
+    "level": "C3"
+  },
+  {
+    "english": "halcyon",
+    "spanish": "apacible / dichoso (época)",
+    "exampleEnglish": "She remembered the halcyon days of her youth.",
+    "exampleSpanish": "Ella recordó los días apacibles de su juventud.",
+    "level": "C3"
+  },
+  {
+    "english": "nostalgic",
+    "spanish": "nostálgico",
+    "exampleEnglish": "The old photos made him nostalgic.",
+    "exampleSpanish": "Las fotos viejas lo pusieron nostálgico.",
+    "level": "C3"
+  },
+  {
+    "english": "wistful",
+    "spanish": "melancólico / anhelante",
+    "exampleEnglish": "She had a wistful look on her face.",
+    "exampleSpanish": "Ella tenía una mirada melancólica en su rostro.",
+    "level": "C3"
+  },
+  {
+    "english": "poignant",
+    "spanish": "conmovedor",
+    "exampleEnglish": "It was a poignant farewell speech.",
+    "exampleSpanish": "Fue un discurso de despedida conmovedor.",
+    "level": "C3"
+  },
+  {
+    "english": "visceral",
+    "spanish": "visceral",
+    "exampleEnglish": "His reaction was purely visceral.",
+    "exampleSpanish": "Su reacción fue puramente visceral.",
+    "level": "C3"
+  },
+  {
+    "english": "cathartic",
+    "spanish": "catártico",
+    "exampleEnglish": "Writing about it was a cathartic experience.",
+    "exampleSpanish": "Escribir sobre eso fue una experiencia catártica.",
+    "level": "C3"
+  },
+  {
+    "english": "sublime",
+    "spanish": "sublime",
+    "exampleEnglish": "The view from the summit was sublime.",
+    "exampleSpanish": "La vista desde la cumbre fue sublime.",
+    "level": "C3"
+  },
+  {
+    "english": "transcendent",
+    "spanish": "trascendente",
+    "exampleEnglish": "It was a transcendent musical performance.",
+    "exampleSpanish": "Fue una presentación musical trascendente.",
+    "level": "C3"
+  },
+  {
+    "english": "ineffable",
+    "spanish": "inefable / indescriptible",
+    "exampleEnglish": "Her joy was simply ineffable.",
+    "exampleSpanish": "Su alegría era simplemente inefable.",
+    "level": "C3"
+  },
+  {
+    "english": "quixotic",
+    "spanish": "quijotesco / idealista",
+    "exampleEnglish": "His quixotic plan had little chance of success.",
+    "exampleSpanish": "Su plan quijotesco tenía pocas posibilidades de éxito.",
+    "level": "C3"
+  },
+  {
+    "english": "utopian",
+    "spanish": "utópico",
+    "exampleEnglish": "Their utopian vision inspired many followers.",
+    "exampleSpanish": "Su visión utópica inspiró a muchos seguidores.",
+    "level": "C3"
+  },
+  {
+    "english": "dystopian",
+    "spanish": "distópico",
+    "exampleEnglish": "The novel depicts a dystopian future.",
+    "exampleSpanish": "La novela describe un futuro distópico.",
+    "level": "C3"
+  },
+  {
+    "english": "draconian",
+    "spanish": "draconiano / severo",
+    "exampleEnglish": "The new laws were seen as draconian.",
+    "exampleSpanish": "Las nuevas leyes se vieron como draconianas.",
+    "level": "C3"
+  },
+  {
+    "english": "Kafkaesque",
+    "spanish": "kafkiano",
+    "exampleEnglish": "Dealing with the bureaucracy felt Kafkaesque.",
+    "exampleSpanish": "Lidiar con la burocracia se sintió kafkiano.",
+    "level": "C3"
+  },
+  {
+    "english": "Orwellian",
+    "spanish": "orwelliano",
+    "exampleEnglish": "The surveillance program was called Orwellian.",
+    "exampleSpanish": "El programa de vigilancia fue llamado orwelliano.",
+    "level": "C3"
+  },
+  {
+    "english": "myopic",
+    "spanish": "miope (figurado)",
+    "exampleEnglish": "The decision was criticized as myopic.",
+    "exampleSpanish": "La decisión fue criticada por ser miope.",
+    "level": "C3"
+  },
+  {
+    "english": "prescient",
+    "spanish": "premonitorio",
+    "exampleEnglish": "Her prescient warning proved correct.",
+    "exampleSpanish": "Su advertencia premonitoria resultó correcta.",
+    "level": "C3"
+  },
+  {
+    "english": "anachronistic",
+    "spanish": "anacrónico",
+    "exampleEnglish": "The rule now seems anachronistic.",
+    "exampleSpanish": "La regla ahora parece anacrónica.",
+    "level": "C3"
+  },
+  {
+    "english": "archaic",
+    "spanish": "arcaico",
+    "exampleEnglish": "This word is archaic and rarely used.",
+    "exampleSpanish": "Esta palabra es arcaica y rara vez se usa.",
+    "level": "C3"
+  },
+  {
+    "english": "obsolete",
+    "spanish": "obsoleto",
+    "exampleEnglish": "This technology is now obsolete.",
+    "exampleSpanish": "Esta tecnología ahora está obsoleta.",
+    "level": "C3"
+  },
+  {
+    "english": "germane",
+    "spanish": "pertinente / relevante",
+    "exampleEnglish": "That point is not germane to this discussion.",
+    "exampleSpanish": "Ese punto no es pertinente a esta discusión.",
+    "level": "C3"
+  },
+  {
+    "english": "extraneous",
+    "spanish": "irrelevante / ajeno",
+    "exampleEnglish": "Remove any extraneous details from the report.",
+    "exampleSpanish": "Elimina cualquier detalle irrelevante del reporte.",
+    "level": "C3"
+  },
+  {
+    "english": "superfluous",
+    "spanish": "superfluo",
+    "exampleEnglish": "The extra explanation was superfluous.",
+    "exampleSpanish": "La explicación adicional fue superflua.",
+    "level": "C3"
+  },
+  {
+    "english": "perfunctory",
+    "spanish": "hecho sin interés",
+    "exampleEnglish": "His perfunctory nod showed no real interest.",
+    "exampleSpanish": "Su asentimiento indiferente no mostró interés real.",
+    "level": "C3"
+  },
+  {
+    "english": "desultory",
+    "spanish": "sin método / errático",
+    "exampleEnglish": "The conversation was desultory and unfocused.",
+    "exampleSpanish": "La conversación fue errática y sin enfoque.",
+    "level": "C3"
+  },
+  {
+    "english": "ephemeral",
+    "spanish": "pasajero",
+    "exampleEnglish": "Trends on social media are often ephemeral.",
+    "exampleSpanish": "Las tendencias en redes sociales suelen ser pasajeras.",
+    "level": "C3"
+  },
+  {
+    "english": "perennial",
+    "spanish": "perenne / constante",
+    "exampleEnglish": "Funding remains a perennial problem for schools.",
+    "exampleSpanish": "El financiamiento sigue siendo un problema perenne para las escuelas.",
+    "level": "C3"
+  },
+  {
+    "english": "intransigent",
+    "spanish": "intransigente (uso avanzado)",
+    "exampleEnglish": "Both sides remained intransigent for weeks.",
+    "exampleSpanish": "Ambas partes permanecieron intransigentes durante semanas.",
+    "level": "C3"
+  },
+  {
+    "english": "obdurate",
+    "spanish": "obstinado",
+    "exampleEnglish": "He was obdurate despite all the evidence.",
+    "exampleSpanish": "Él fue obstinado a pesar de toda la evidencia.",
+    "level": "C3"
+  },
+  {
+    "english": "recalcitrant",
+    "spanish": "reacio / rebelde",
+    "exampleEnglish": "The recalcitrant student refused to apologize.",
+    "exampleSpanish": "El estudiante rebelde se negó a disculparse.",
+    "level": "C3"
+  },
+  {
+    "english": "acquiesce",
+    "spanish": "acceder / consentir",
+    "exampleEnglish": "She reluctantly acquiesced to their demands.",
+    "exampleSpanish": "Ella accedió de mala gana a sus demandas.",
+    "level": "C3"
+  },
+  {
+    "english": "concede",
+    "spanish": "conceder / admitir",
+    "exampleEnglish": "He conceded that his plan had flaws.",
+    "exampleSpanish": "Él admitió que su plan tenía fallas.",
+    "level": "C3"
+  },
+  {
+    "english": "capitulate",
+    "spanish": "capitular / rendirse",
+    "exampleEnglish": "The army finally capitulated after months.",
+    "exampleSpanish": "El ejército finalmente capituló después de meses.",
+    "level": "C3"
+  },
+  {
+    "english": "exculpate",
+    "spanish": "exculpar",
+    "exampleEnglish": "New evidence exculpated the accused man.",
+    "exampleSpanish": "Nueva evidencia exculpó al hombre acusado.",
+    "level": "C3"
+  },
+  {
+    "english": "exonerate",
+    "spanish": "exonerar",
+    "exampleEnglish": "The court exonerated her of all charges.",
+    "exampleSpanish": "El tribunal la exoneró de todos los cargos.",
+    "level": "C3"
+  },
+  {
+    "english": "incriminate",
+    "spanish": "incriminar",
+    "exampleEnglish": "The recording incriminated the suspect.",
+    "exampleSpanish": "La grabación incriminó al sospechoso.",
+    "level": "C3"
+  },
+  {
+    "english": "impute",
+    "spanish": "imputar / atribuir",
+    "exampleEnglish": "They imputed the failure to poor planning.",
+    "exampleSpanish": "Le atribuyeron el fracaso a una mala planificación.",
+    "level": "C3"
+  },
+  {
+    "english": "extrapolate",
+    "spanish": "extrapolar",
+    "exampleEnglish": "We can extrapolate future trends from this data.",
+    "exampleSpanish": "Podemos extrapolar tendencias futuras de estos datos.",
+    "level": "C3"
+  },
+  {
+    "english": "interpolate",
+    "spanish": "interpolar",
+    "exampleEnglish": "The software interpolates missing values.",
+    "exampleSpanish": "El software interpola los valores faltantes.",
+    "level": "C3"
+  },
+  {
+    "english": "paradigm shift",
+    "spanish": "cambio de paradigma",
+    "exampleEnglish": "The internet caused a paradigm shift in communication.",
+    "exampleSpanish": "El internet causó un cambio de paradigma en la comunicación.",
+    "level": "C3"
+  },
+  {
+    "english": "hegemony",
+    "spanish": "hegemonía",
+    "exampleEnglish": "The country maintained economic hegemony for decades.",
+    "exampleSpanish": "El país mantuvo hegemonía económica por décadas.",
+    "level": "C3"
+  },
+  {
+    "english": "autonomy",
+    "spanish": "autonomía (uso avanzado)",
+    "exampleEnglish": "The region was granted greater autonomy.",
+    "exampleSpanish": "A la región se le otorgó mayor autonomía.",
+    "level": "C3"
+  },
+  {
+    "english": "egalitarian",
+    "spanish": "igualitario",
+    "exampleEnglish": "They advocate for a more egalitarian society.",
+    "exampleSpanish": "Ellos abogan por una sociedad más igualitaria.",
+    "level": "C3"
+  },
+  {
+    "english": "plutocracy",
+    "spanish": "plutocracia",
+    "exampleEnglish": "Critics say the system resembles a plutocracy.",
+    "exampleSpanish": "Los críticos dicen que el sistema se parece a una plutocracia.",
+    "level": "C3"
+  },
+  {
+    "english": "oligarchy",
+    "spanish": "oligarquía",
+    "exampleEnglish": "The country was ruled by a small oligarchy.",
+    "exampleSpanish": "El país estaba gobernado por una pequeña oligarquía.",
+    "level": "C3"
+  },
+  {
+    "english": "anarchy",
+    "spanish": "anarquía",
+    "exampleEnglish": "The collapse of government led to anarchy.",
+    "exampleSpanish": "El colapso del gobierno llevó a la anarquía.",
+    "level": "C3"
+  },
+  {
+    "english": "utilitarian",
+    "spanish": "utilitario / pragmático",
+    "exampleEnglish": "He takes a utilitarian view of ethics.",
+    "exampleSpanish": "Él tiene una visión utilitaria de la ética.",
+    "level": "C3"
+  },
+  {
+    "english": "existential",
+    "spanish": "existencial",
+    "exampleEnglish": "The company faced an existential threat.",
+    "exampleSpanish": "La empresa enfrentó una amenaza existencial.",
+    "level": "C3"
+  },
+  {
+    "english": "metaphysical",
+    "spanish": "metafísico",
+    "exampleEnglish": "The book explores metaphysical questions.",
+    "exampleSpanish": "El libro explora preguntas metafísicas.",
+    "level": "C3"
+  },
+  {
+    "english": "empirical evidence",
+    "spanish": "evidencia empírica",
+    "exampleEnglish": "The claim lacks empirical evidence.",
+    "exampleSpanish": "La afirmación carece de evidencia empírica.",
+    "level": "C3"
+  }
+]
